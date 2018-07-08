@@ -1,0 +1,69 @@
+object Form1: TForm1
+  Left = 197
+  Height = 811
+  Top = 80
+  Width = 1473
+  Caption = 'Form1'
+  ClientHeight = 811
+  ClientWidth = 1473
+  LCLVersion = '1.8.2.0'
+  object Memo1: TMemo
+    Left = 8
+    Height = 240
+    Top = 8
+    Width = 664
+    Font.Height = -12
+    ParentFont = False
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Button1: TButton
+    Left = 8
+    Height = 25
+    Top = 776
+    Width = 1456
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Memo2: TMemo
+    Left = 680
+    Height = 240
+    Top = 8
+    Width = 664
+    Font.Height = -12
+    ParentFont = False
+    TabOrder = 2
+    WordWrap = False
+  end
+  object Memo3: TMemo
+    Left = 8
+    Height = 240
+    Top = 256
+    Width = 664
+    Font.Height = -12
+    ParentFont = False
+    TabOrder = 3
+    WordWrap = False
+  end
+  object Memo4: TMemo
+    Left = 680
+    Height = 240
+    Top = 256
+    Width = 664
+    Font.Height = -12
+    ParentFont = False
+    TabOrder = 4
+    WordWrap = False
+  end
+  object Memo5: TMemo
+    Left = 8
+    Height = 240
+    Top = 504
+    Width = 1336
+    Font.Height = -12
+    ParentFont = False
+    TabOrder = 5
+    WordWrap = False
+  end
+end

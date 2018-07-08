@@ -1,0 +1,47 @@
+object Form1: TForm1
+  Left = 630
+  Height = 153
+  Top = 299
+  Width = 203
+  BorderStyle = bsDialog
+  Caption = 'Choose next form'
+  ClientHeight = 153
+  ClientWidth = 203
+  LCLVersion = '1.8.2.0'
+  object Button1: TButton
+    Left = 8
+    Height = 25
+    Top = 8
+    Width = 187
+    Caption = 'glosbe>dix+bidix'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 8
+    Height = 25
+    Top = 40
+    Width = 187
+    Caption = 'any tools'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 8
+    Height = 25
+    Top = 68
+    Width = 187
+    Caption = 're_replacer'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 8
+    Height = 25
+    Top = 96
+    Width = 187
+    Caption = 'extensive tool'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+end
