@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.5
 # -*- coding: utf-8 -*-
 #import sys
 #reload(sys)
@@ -130,7 +131,7 @@ hs = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHT
 for i in range(0,len(L)):
     url=g1ttru+str(L[i])+g2
     tatpoisk(str(L[i]))
-    #print(url)
+    print(url)
     r=requests.get(url,headers=hs)
     #res=re.findall(r'(\[\{)?\"[а-яәөңҗү]{2,1000}\"(\}\])?',r.content)
     jsonDate = json.loads(r.text)
@@ -144,6 +145,7 @@ for i in range(0,len(L)):
         s[x]=t
 #        print(s[x])
     x=0
+    print(s)
     while x<=len(s)-1:
         #print(s[x])
         if s[x].find(',')!=-1:
@@ -163,7 +165,7 @@ for i in range(0,len(L)):
     temp=p+str(tt[0])
     url=u1+temp+u2
     r=requests.get(url,headers=hs)
-    #print(url)
+    print(url)
     par=re.sub(r'[h]','@',r.text)
     par=re.sub(r'[a-z0-9-":}{[]]*','',par)
     par=re.sub(r'(,,)','',par)
@@ -203,7 +205,7 @@ for i in range(0,len(L)):
         url=g1ruch+str(tt[1][j])+g2
         #print(str(tt[1][j]))
         r=requests.get(url,headers=hs)
-        #print(url)
+        print(url)
         jsonDate = json.loads(r.text)
         s=jsonDate['tuc']
         #print(s)
