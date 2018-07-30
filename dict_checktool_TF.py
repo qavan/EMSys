@@ -15,7 +15,7 @@ def yandexdict(word):
     yd=[]
     if jy!=[]:
         #print(jy)
-        return word+'::'+str(jy)
+        return word+':::'+str(jy)
     elif jy==[]:
         return '0'
         #print('error')
@@ -39,10 +39,11 @@ for x in range(len(L)):
     t=re.sub(r'[ ]*$','',t)
     if len(re.findall(r'[а-яА-Яөәҗңү]*',t))>0 and len(re.findall(r'[ -*&^%$$#@!`"\'><?/\+=-_%#.,:;()]{1,}',t))==0:
         temp=yandexdict(str(L[x]))
-        if temp.find('::')!=-1:
-            temp1=temp.split('::')
+        if temp.find(':::')!=-1:
+            temp1=temp.split(':::')
             chv.append(temp1[0]+':'+temp1[0]+'                TYPE ; ! "" !#'+temp1[1])
             dix.append('<f1>'+temp1[0]+'<f2>'+temp1[0]+'<f3> <!-- '+temp1[1]+' -->')
+            #print('xXxXx '+str(x))
         else:
             out.append(t)
 print('###1###')
