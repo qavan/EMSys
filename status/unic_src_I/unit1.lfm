@@ -1,0 +1,35 @@
+object Form1: TForm1
+  Left = 337
+  Height = 614
+  Top = 166
+  Width = 1003
+  Caption = 'Form1'
+  ClientHeight = 614
+  ClientWidth = 1003
+  LCLVersion = '1.8.2.0'
+  object Memo1: TMemo
+    Left = 8
+    Height = 598
+    Top = 9
+    Width = 495
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Button1: TButton
+    Left = 511
+    Height = 25
+    Top = 11
+    Width = 121
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Memo2: TMemo
+    Left = 508
+    Height = 569
+    Top = 38
+    Width = 495
+    TabOrder = 2
+    WordWrap = False
+  end
+end
