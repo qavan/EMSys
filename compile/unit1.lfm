@@ -1,50 +1,50 @@
 object Form1: TForm1
-  Left = 208
-  Height = 668
-  Top = 178
-  Width = 1163
+  Left = 236
+  Height = 598
+  Top = 148
+  Width = 691
   Caption = 'Form1'
-  ClientHeight = 668
-  ClientWidth = 1163
+  ClientHeight = 598
+  ClientWidth = 691
   LCLVersion = '1.8.2.0'
   object Memo1: TMemo
-    Left = 7
-    Height = 660
-    Top = 7
-    Width = 278
+    Left = 8
+    Height = 575
+    Top = 13
+    Width = 177
     TabOrder = 0
     WordWrap = False
   end
   object Memo2: TMemo
-    Left = 296
-    Height = 660
-    Top = 7
-    Width = 278
+    Left = 192
+    Height = 575
+    Top = 13
+    Width = 177
     TabOrder = 1
     WordWrap = False
   end
   object Memo3: TMemo
-    Left = 584
-    Height = 660
-    Top = 7
-    Width = 278
+    Left = 376
+    Height = 575
+    Top = 13
+    Width = 177
     TabOrder = 2
     WordWrap = False
   end
   object Button1: TButton
-    Left = 936
-    Height = 25
-    Top = 48
-    Width = 75
+    Left = 552
+    Height = 24
+    Top = 24
+    Width = 138
     Caption = 'Button1'
     OnClick = Button1Click
     TabOrder = 3
   end
   object Edit1: TEdit
-    Left = 929
+    Left = 552
     Height = 23
-    Top = 19
-    Width = 145
+    Top = 0
+    Width = 138
     TabOrder = 4
   end
 end

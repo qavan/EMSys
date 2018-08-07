@@ -61,7 +61,7 @@ end;
   begin
    Memo1.Lines.add(unic[i]+' '+rus[i]);// AnsiLowerCase()
     end;
-  for i:=0 to Memo1.Lines.Count do
+  for i:=0 to Memo1.Lines.Count-1 do
   begin
     ExtractStrings(['#'],[],pchar(Memo1.Lines.Strings[i]),list);
     flag:=False;

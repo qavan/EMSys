@@ -40,8 +40,16 @@ begin
   r:=TRegExpr.Create(Edit1.Text);
   for i:=0 to Memo1.Lines.Count-1 do
   begin
-     if r.Exec(Memo1.Lines.Strings[i]) then begin end else Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     if r.Exec(Memo1.Lines.Strings[i]) then
+     begin
+          //Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     end
+     else
+     begin
+          Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     end;
   end;
+ // Sleep(300000);
 end;
 
 end.

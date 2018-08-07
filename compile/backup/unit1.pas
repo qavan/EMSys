@@ -13,6 +13,7 @@ type
 
   TForm1 = class(TForm)
     Button1: TButton;
+    Edit1: TEdit;
     Memo1: TMemo;
     Memo2: TMemo;
     Memo3: TMemo;
@@ -36,11 +37,19 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  r:=TRegExpr.Create('\/\*');
+  r:=TRegExpr.Create(Edit1.Text);
   for i:=0 to Memo1.Lines.Count-1 do
   begin
-     if r.Exec(Memo1.Lines.Strings[i]) then begin end else Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     if r.Exec(Memo1.Lines.Strings[i]) then
+     begin
+          Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     end
+     else
+     begin
+          //Memo3.Lines.Add(Memo2.Lines.Strings[i]);
+     end;
   end;
+ // Sleep(300000);
 end;
 
 end.
