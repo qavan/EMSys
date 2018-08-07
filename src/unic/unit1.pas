@@ -59,7 +59,7 @@ end;
   Memo1.Clear;
   for i:=0 to unic.Count-1 do
   begin
-   Memo1.Lines.add(unic[i]+' '+rus[i]);// AnsiLowerCase()
+   Memo1.Lines.add(unic[i]+'$'+rus[i]);// AnsiLowerCase()
     end;
   for i:=0 to Memo1.Lines.Count-1 do
   begin

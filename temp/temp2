@@ -1,759 +1,482 @@
-^бераз/бераз<adv>$
-^күбесенчә/күбесенчә<adv>$
-^иң/иң<adv>/иң<n><attr>/иң<n><nom>/иң<n><nom>+и<cop><aor><p3><pl>/иң<n><nom>+и<cop><aor><p3><sg>$
-^кайчандыр/кайчандыр<adv>/кайчан<adv><itg>+дыр<mod_ind>/кайчан<adv><itg>+и<cop><aor><p3><pl>+дыр<mod_ind>/кайчан<adv><itg>+и<cop><aor><p3><sg>+дыр<mod_ind>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^һаман/һаман<adv>$
-^соңрак/соң<adj><comp>/соң<adj><comp><advl>/соңрак<adv>/соң<adj><comp><subst><nom>/соң<adj><comp>+и<cop><aor><p3><pl>/соң<adj><comp>+и<cop><aor><p3><sg>/соң<adj><comp><subst><nom>+и<cop><aor><p3><pl>/соң<adj><comp><subst><nom>+и<cop><aor><p3><sg>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^һичкайчан/һичкайчан<adv>$
-^зур/зур<adj>/зур<adj><advl>/зур<adj><subst><nom>/зур<adj>+и<cop><aor><p3><pl>/зур<adj>+и<cop><aor><p3><sg>/зур<adj><subst><nom>+и<cop><aor><p3><pl>/зур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бергә/бер<num><subst><dat>/бергә<adj>/бергә<post>/бергә<adv>/бергә<adj><advl>/бергә<adj><subst><nom>/бергә<adj>+и<cop><aor><p3><pl>/бергә<adj>+и<cop><aor><p3><sg>/бергә<adj><subst><nom>+и<cop><aor><p3><pl>/бергә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бүген/бүген<adv>$
-^кичә/кич<v><tv><prc_impf>/кичә<adv>/кичә<n><attr>/кичә<n><nom>/кич<v><tv><pres><p3><sg>/кичә<n><nom>+и<cop><aor><p3><pl>/кичә<n><nom>+и<cop><aor><p3><sg>$
-^әлбәттә/әлбәттә<ij>/әлбәттә<adv>$
-^әлегә/әлегә<adv>$
-^бушлай/бушлай<adj>/бушлай<adj><advl>/бушлай<adj><subst><nom>/бушлай<adj>+и<cop><aor><p3><pl>/бушлай<adj>+и<cop><aor><p3><sg>/бушлай<adj><subst><nom>+и<cop><aor><p3><pl>/бушлай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якын/якын<adj>/якын<post>/якын<adj><advl>/якын<adj><subst><nom>/якын<adj>+и<cop><aor><p3><pl>/якын<adj>+и<cop><aor><p3><sg>/якын<adj><subst><nom>+и<cop><aor><p3><pl>/якын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якын/якын<adj>/якын<post>/якын<adj><advl>/якын<adj><subst><nom>/якын<adj>+и<cop><aor><p3><pl>/якын<adj>+и<cop><aor><p3><sg>/якын<adj><subst><nom>+и<cop><aor><p3><pl>/якын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якын/якын<adj>/якын<post>/якын<adj><advl>/якын<adj><subst><nom>/якын<adj>+и<cop><aor><p3><pl>/якын<adj>+и<cop><aor><p3><sg>/якын<adj><subst><nom>+и<cop><aor><p3><pl>/якын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якын/якын<adj>/якын<post>/якын<adj><advl>/якын<adj><subst><nom>/якын<adj>+и<cop><aor><p3><pl>/якын<adj>+и<cop><aor><p3><sg>/якын<adj><subst><nom>+и<cop><aor><p3><pl>/якын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^зуррак/зур<adj><comp>/зур<adj><comp><advl>/зур<adj><comp><subst><nom>/зур<adj><comp>+и<cop><aor><p3><pl>/зур<adj><comp>+и<cop><aor><p3><sg>/зур<adj><comp><subst><nom>+и<cop><aor><p3><pl>/зур<adj><comp><subst><nom>+и<cop><aor><p3><sg>$
-^зуррак/зур<adj><comp>/зур<adj><comp><advl>/зур<adj><comp><subst><nom>/зур<adj><comp>+и<cop><aor><p3><pl>/зур<adj><comp>+и<cop><aor><p3><sg>/зур<adj><comp><subst><nom>+и<cop><aor><p3><pl>/зур<adj><comp><subst><nom>+и<cop><aor><p3><sg>$
-^зуррак/зур<adj><comp>/зур<adj><comp><advl>/зур<adj><comp><subst><nom>/зур<adj><comp>+и<cop><aor><p3><pl>/зур<adj><comp>+и<cop><aor><p3><sg>/зур<adj><comp><subst><nom>+и<cop><aor><p3><pl>/зур<adj><comp><subst><nom>+и<cop><aor><p3><sg>$
-^зуррак/зур<adj><comp>/зур<adj><comp><advl>/зур<adj><comp><subst><nom>/зур<adj><comp>+и<cop><aor><p3><pl>/зур<adj><comp>+и<cop><aor><p3><sg>/зур<adj><comp><subst><nom>+и<cop><aor><p3><pl>/зур<adj><comp><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәһәт/җәһәт<adj>/җәһәт<n><attr>/җәһәт<n><nom>/җәһәт<adj><advl>/җәһәт<adj><subst><nom>/җәһәт<adj>+и<cop><aor><p3><pl>/җәһәт<adj>+и<cop><aor><p3><sg>/җәһәт<n><nom>+и<cop><aor><p3><pl>/җәһәт<n><nom>+и<cop><aor><p3><sg>/җәһәт<adj><subst><nom>+и<cop><aor><p3><pl>/җәһәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^былтыр/былтыр<adv>$
-^чынлап/чынла<v><tv><gna_perf>/чынла<v><tv><prc_perf>/чынла<v><iv><gna_perf>/чынла<v><iv><prc_perf>/чынлап<adv>$
-^чынлап/чынла<v><tv><gna_perf>/чынла<v><tv><prc_perf>/чынла<v><iv><gna_perf>/чынла<v><iv><prc_perf>/чынлап<adv>$
-^чынлап/чынла<v><tv><gna_perf>/чынла<v><tv><prc_perf>/чынла<v><iv><gna_perf>/чынла<v><iv><prc_perf>/чынлап<adv>$
-^быел/быел<adv>/быел<n><attr>/быел<n><nom>/быел<n><nom>+и<cop><aor><p3><pl>/быел<n><nom>+и<cop><aor><p3><sg>$
-^быел/быел<adv>/быел<n><attr>/быел<n><nom>/быел<n><nom>+и<cop><aor><p3><pl>/быел<n><nom>+и<cop><aor><p3><sg>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күңелле/күңелле<adj>/күңел<n>+лы<post>/күңелле<adj><advl>/күңелле<adj><subst><nom>/күңелле<adj>+и<cop><aor><p3><pl>/күңелле<adj>+и<cop><aor><p3><sg>/күңелле<adj><subst><nom>+и<cop><aor><p3><pl>/күңелле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күңелле/күңелле<adj>/күңел<n>+лы<post>/күңелле<adj><advl>/күңелле<adj><subst><nom>/күңелле<adj>+и<cop><aor><p3><pl>/күңелле<adj>+и<cop><aor><p3><sg>/күңелле<adj><subst><nom>+и<cop><aor><p3><pl>/күңелле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күңелле/күңелле<adj>/күңел<n>+лы<post>/күңелле<adj><advl>/күңелле<adj><subst><nom>/күңелле<adj>+и<cop><aor><p3><pl>/күңелле<adj>+и<cop><aor><p3><sg>/күңелле<adj><subst><nom>+и<cop><aor><p3><pl>/күңелле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кич/кич<adv>/кич<n><attr>/кич<n><nom>/кич<v><tv><imp><p2><sg>/кич<n><nom>+и<cop><aor><p3><pl>/кич<n><nom>+и<cop><aor><p3><sg>$
-^кич/кич<adv>/кич<n><attr>/кич<n><nom>/кич<v><tv><imp><p2><sg>/кич<n><nom>+и<cop><aor><p3><pl>/кич<n><nom>+и<cop><aor><p3><sg>$
-^кич/кич<adv>/кич<n><attr>/кич<n><nom>/кич<v><tv><imp><p2><sg>/кич<n><nom>+и<cop><aor><p3><pl>/кич<n><nom>+и<cop><aor><p3><sg>$
-^кич/кич<adv>/кич<n><attr>/кич<n><nom>/кич<v><tv><imp><p2><sg>/кич<n><nom>+и<cop><aor><p3><pl>/кич<n><nom>+и<cop><aor><p3><sg>$
-^кич/кич<adv>/кич<n><attr>/кич<n><nom>/кич<v><tv><imp><p2><sg>/кич<n><nom>+и<cop><aor><p3><pl>/кич<n><nom>+и<cop><aor><p3><sg>$
-^кичен/кичен<adv>/кич<n><px3sp><acc>$
-^кичен/кичен<adv>/кич<n><px3sp><acc>$
-^кичен/кичен<adv>/кич<n><px3sp><acc>$
-^күрәсең/күр<v><tv><pres><p2><sg>/күр<v><tv><prc_vol><p2><sg>/күрәсең<adv>/күр<v><tv><ger_fut3><px2sg><nom>/күр<v><tv><gpr_fut3><subst><px2sg><nom>$
-^бергә/бер<num><subst><dat>/бергә<adj>/бергә<post>/бергә<adv>/бергә<adj><advl>/бергә<adj><subst><nom>/бергә<adj>+и<cop><aor><p3><pl>/бергә<adj>+и<cop><aor><p3><sg>/бергә<adj><subst><nom>+и<cop><aor><p3><pl>/бергә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^түбәндә/түбән<adj><subst><loc>/түбәндә<adv>/түбән<adj><subst><loc>+и<cop><aor><p3><pl>/түбән<adj><subst><loc>+и<cop><aor><p3><sg>$
-^да/да<cnjcoo>/да<loc>/да<postadv>$
-^да/да<cnjcoo>/да<loc>/да<postadv>$
-^дә/да<cnjcoo>/да<loc>/да<postadv>$
-^дә/да<cnjcoo>/да<loc>/да<postadv>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^ара-тирә/ара-тирә<adv>$
-^һаман/һаман<adv>$
-^һаман/һаман<adv>$
-^һаман/һаман<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәркайчан/һәркайчан<adv>$
-^һәркайчан/һәркайчан<adv>$
-^һәркайчан/һәркайчан<adv>$
-^нибары/нибары<adv>$
-^кичә/кич<v><tv><prc_impf>/кичә<adv>/кичә<n><attr>/кичә<n><nom>/кич<v><tv><pres><p3><sg>/кичә<n><nom>+и<cop><aor><p3><pl>/кичә<n><nom>+и<cop><aor><p3><sg>$
-^кичә/кич<v><tv><prc_impf>/кичә<adv>/кичә<n><attr>/кичә<n><nom>/кич<v><tv><pres><p3><sg>/кичә<n><nom>+и<cop><aor><p3><pl>/кичә<n><nom>+и<cop><aor><p3><sg>$
-^биек/биек<adj>/биек<adj><advl>/биек<adj><subst><nom>/биек<adj>+и<cop><aor><p3><pl>/биек<adj>+и<cop><aor><p3><sg>/биек<adj><subst><nom>+и<cop><aor><p3><pl>/биек<adj><subst><nom>+и<cop><aor><p3><sg>$
-^югары/югары<adj>/югары<adj><advl>/югары<adj><subst><nom>/югары<adj>+и<cop><aor><p3><pl>/югары<adj>+и<cop><aor><p3><sg>/югары<adj><subst><nom>+и<cop><aor><p3><pl>/югары<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тирән/тирән<adj>/тирән<adj><advl>/тирән<adj><subst><nom>/тирән<adj>+и<cop><aor><p3><pl>/тирән<adj>+и<cop><aor><p3><sg>/тирән<adj><subst><nom>+и<cop><aor><p3><pl>/тирән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тирән/тирән<adj>/тирән<adj><advl>/тирән<adj><subst><nom>/тирән<adj>+и<cop><aor><p3><pl>/тирән<adj>+и<cop><aor><p3><sg>/тирән<adj><subst><nom>+и<cop><aor><p3><pl>/тирән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^горур/горур<adj>/горур<n><attr>/горур<n><nom>/горур<adj><advl>/горур<adj><subst><nom>/горур<adj>+и<cop><aor><p3><pl>/горур<adj>+и<cop><aor><p3><sg>/горур<n><nom>+и<cop><aor><p3><pl>/горур<n><nom>+и<cop><aor><p3><sg>/горур<adj><subst><nom>+и<cop><aor><p3><pl>/горур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайнар/кайна<v><tv><gpr_fut>/кайна<v><iv><gpr_fut>/кайнар<adj>/кайнар<adj><advl>/кайна<v><tv><gpr_fut><subst><nom>/кайна<v><tv><fut><p3><sg>/кайна<v><iv><gpr_fut><subst><nom>/кайна<v><iv><fut><p3><sg>/кайнар<adj><subst><nom>/кайнар<adj>+и<cop><aor><p3><pl>/кайнар<adj>+и<cop><aor><p3><sg>/кайнар<adj><subst><nom>+и<cop><aor><p3><pl>/кайнар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайнар/кайна<v><tv><gpr_fut>/кайна<v><iv><gpr_fut>/кайнар<adj>/кайнар<adj><advl>/кайна<v><tv><gpr_fut><subst><nom>/кайна<v><tv><fut><p3><sg>/кайна<v><iv><gpr_fut><subst><nom>/кайна<v><iv><fut><p3><sg>/кайнар<adj><subst><nom>/кайнар<adj>+и<cop><aor><p3><pl>/кайнар<adj>+и<cop><aor><p3><sg>/кайнар<adj><subst><nom>+и<cop><aor><p3><pl>/кайнар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайнар/кайна<v><tv><gpr_fut>/кайна<v><iv><gpr_fut>/кайнар<adj>/кайнар<adj><advl>/кайна<v><tv><gpr_fut><subst><nom>/кайна<v><tv><fut><p3><sg>/кайна<v><iv><gpr_fut><subst><nom>/кайна<v><iv><fut><p3><sg>/кайнар<adj><subst><nom>/кайнар<adj>+и<cop><aor><p3><pl>/кайнар<adj>+и<cop><aor><p3><sg>/кайнар<adj><subst><nom>+и<cop><aor><p3><pl>/кайнар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тупас/тупас<adj>/тупас<adj><advl>/тупас<adj><subst><nom>/тупас<adj>+и<cop><aor><p3><pl>/тупас<adj>+и<cop><aor><p3><sg>/тупас<adj><subst><nom>+и<cop><aor><p3><pl>/тупас<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тупас/тупас<adj>/тупас<adj><advl>/тупас<adj><subst><nom>/тупас<adj>+и<cop><aor><p3><pl>/тупас<adj>+и<cop><aor><p3><sg>/тупас<adj><subst><nom>+и<cop><aor><p3><pl>/тупас<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тупас/тупас<adj>/тупас<adj><advl>/тупас<adj><subst><nom>/тупас<adj>+и<cop><aor><p3><pl>/тупас<adj>+и<cop><aor><p3><sg>/тупас<adj><subst><nom>+и<cop><aor><p3><pl>/тупас<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куе/куе<adj>/куй<n><px3sp><nom>/куе<n><attr>/куе<n><nom>/куе<adj><advl>/куе<adj><subst><nom>/куе<adj>+и<cop><aor><p3><pl>/куе<adj>+и<cop><aor><p3><sg>/куй<n><px3sp><nom>+и<cop><aor><p3><pl>/куй<n><px3sp><nom>+и<cop><aor><p3><sg>/куе<n><nom>+и<cop><aor><p3><pl>/куе<n><nom>+и<cop><aor><p3><sg>/куе<adj><subst><nom>+и<cop><aor><p3><pl>/куе<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куе/куе<adj>/куй<n><px3sp><nom>/куе<n><attr>/куе<n><nom>/куе<adj><advl>/куе<adj><subst><nom>/куе<adj>+и<cop><aor><p3><pl>/куе<adj>+и<cop><aor><p3><sg>/куй<n><px3sp><nom>+и<cop><aor><p3><pl>/куй<n><px3sp><nom>+и<cop><aor><p3><sg>/куе<n><nom>+и<cop><aor><p3><pl>/куе<n><nom>+и<cop><aor><p3><sg>/куе<adj><subst><nom>+и<cop><aor><p3><pl>/куе<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптән/күп<n><abl>/күп<adj><subst><abl>/күптән<adv>/күп<n><abl>+и<cop><aor><p3><pl>/күп<n><abl>+и<cop><aor><p3><sg>/күп<adj><subst><abl>+и<cop><aor><p3><pl>/күп<adj><subst><abl>+и<cop><aor><p3><sg>$
-^күптән/күп<n><abl>/күп<adj><subst><abl>/күптән<adv>/күп<n><abl>+и<cop><aor><p3><pl>/күп<n><abl>+и<cop><aor><p3><sg>/күп<adj><subst><abl>+и<cop><aor><p3><pl>/күп<adj><subst><abl>+и<cop><aor><p3><sg>$
-^күптән/күп<n><abl>/күп<adj><subst><abl>/күптән<adv>/күп<n><abl>+и<cop><aor><p3><pl>/күп<n><abl>+и<cop><aor><p3><sg>/күп<adj><subst><abl>+и<cop><aor><p3><pl>/күп<adj><subst><abl>+и<cop><aor><p3><sg>$
-^бишбылтыр/бишбылтыр<adv>$
-^аннары/аннары<adv>$
-^ерак/ерак<adj>/ерак<adj><advl>/ерак<adj><subst><nom>/ерак<adj>+и<cop><aor><p3><pl>/ерак<adj>+и<cop><aor><p3><sg>/ерак<adj><subst><nom>+и<cop><aor><p3><pl>/ерак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ерак/ерак<adj>/ерак<adj><advl>/ерак<adj><subst><nom>/ерак<adj>+и<cop><aor><p3><pl>/ерак<adj>+и<cop><aor><p3><sg>/ерак<adj><subst><nom>+и<cop><aor><p3><pl>/ерак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ерак/ерак<adj>/ерак<adj><advl>/ерак<adj><subst><nom>/ерак<adj>+и<cop><aor><p3><pl>/ерак<adj>+и<cop><aor><p3><sg>/ерак<adj><subst><nom>+и<cop><aor><p3><pl>/ерак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ары/ары<post>/ары<adv>/ар<n><px3sp><nom>/ары<v><tv><imp><p2><sg>/ары<v><iv><imp><p2><sg>/ар<n><px3sp><nom>+и<cop><aor><p3><pl>/ар<n><px3sp><nom>+и<cop><aor><p3><sg>$
-^көндез/көндез<adv>$
-^көндез/көндез<adv>$
-^канәгать/канәгать<adj>/канәгать<adj><advl>/канәгать<adj><subst><nom>/канәгать<adj>+и<cop><aor><p3><pl>/канәгать<adj>+и<cop><aor><p3><sg>/канәгать<adj><subst><nom>+и<cop><aor><p3><pl>/канәгать<adj><subst><nom>+и<cop><aor><p3><sg>$
-^разый/разый<adj>/разый<adj><advl>/разый<adj><subst><nom>/разый<adj>+и<cop><aor><p3><pl>/разый<adj>+и<cop><aor><p3><sg>/разый<adj><subst><nom>+и<cop><aor><p3><pl>/разый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^озак/озак<adj>/озак<adj><advl>/озак<adj><subst><nom>/озак<adj>+и<cop><aor><p3><pl>/озак<adj>+и<cop><aor><p3><sg>/озак<adj><subst><nom>+и<cop><aor><p3><pl>/озак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кадерле/кадерле<adj>/кадер<n>+лы<post>/кадерле<adj><advl>/кадерле<adj><subst><nom>/кадерле<adj>+и<cop><aor><p3><pl>/кадерле<adj>+и<cop><aor><p3><sg>/кадерле<adj><subst><nom>+и<cop><aor><p3><pl>/кадерле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыйбат/кыйбат<adj>/кыйбат<adj><advl>/кыйбат<adj><subst><nom>/кыйбат<adj>+и<cop><aor><p3><pl>/кыйбат<adj>+и<cop><aor><p3><sg>/кыйбат<adj><subst><nom>+и<cop><aor><p3><pl>/кыйбат<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыйбатлы/кыйбатлы<adj>/кыйбат<adj><subst>+лы<post>/кыйбатлы<adj><advl>/кыйбатлы<adj><subst><nom>/кыйбатлы<adj>+и<cop><aor><p3><pl>/кыйбатлы<adj>+и<cop><aor><p3><sg>/кыйбатлы<adj><subst><nom>+и<cop><aor><p3><pl>/кыйбатлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^лаеклы/лаеклы<adj>/лаек<adj><subst>+лы<post>/лаеклы<adj><advl>/лаеклы<adj><subst><nom>/лаеклы<adj>+и<cop><aor><p3><pl>/лаеклы<adj>+и<cop><aor><p3><sg>/лаеклы<adj><subst><nom>+и<cop><aor><p3><pl>/лаеклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^борын/борын<adj>/борын<adv>/борын<n><attr>/борын<n><nom>/борын<adj><advl>/борын<adj><subst><nom>/борын<adj>+и<cop><aor><p3><pl>/борын<adj>+и<cop><aor><p3><sg>/борын<n><nom>+и<cop><aor><p3><pl>/борын<n><nom>+и<cop><aor><p3><sg>/борын<adj><subst><nom>+и<cop><aor><p3><pl>/борын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^борын/борын<adj>/борын<adv>/борын<n><attr>/борын<n><nom>/борын<adj><advl>/борын<adj><subst><nom>/борын<adj>+и<cop><aor><p3><pl>/борын<adj>+и<cop><aor><p3><sg>/борын<n><nom>+и<cop><aor><p3><pl>/борын<n><nom>+и<cop><aor><p3><sg>/борын<adj><subst><nom>+и<cop><aor><p3><pl>/борын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызганыч/кызганыч<ij>/кызганыч<adj>/кызганыч<adj><advl>/кызганыч<adj><subst><nom>/кызганыч<adj>+и<cop><aor><p3><pl>/кызганыч<adj>+и<cop><aor><p3><sg>/кызганыч<adj><subst><nom>+и<cop><aor><p3><pl>/кызганыч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кызу/кызу<adj>/кыз<v><tv><ger><nom>/кыз<v><iv><ger><nom>/кызу<adj><advl>/кызу<adj><subst><nom>/кызу<adj>+и<cop><aor><p3><pl>/кызу<adj>+и<cop><aor><p3><sg>/кызу<adj><subst><nom>+и<cop><aor><p3><pl>/кызу<adj><subst><nom>+и<cop><aor><p3><sg>$
-^эссе/эссе<adj>/эссе<n><attr>/эссе<n><nom>/эссе<adj><advl>/эссе<adj><subst><nom>/эссе<adj>+и<cop><aor><p3><pl>/эссе<adj>+и<cop><aor><p3><sg>/эссе<n><nom>+и<cop><aor><p3><pl>/эссе<n><nom>+и<cop><aor><p3><sg>/эссе<adj><subst><nom>+и<cop><aor><p3><pl>/эссе<adj><subst><nom>+и<cop><aor><p3><sg>$
-^эссе/эссе<adj>/эссе<n><attr>/эссе<n><nom>/эссе<adj><advl>/эссе<adj><subst><nom>/эссе<adj>+и<cop><aor><p3><pl>/эссе<adj>+и<cop><aor><p3><sg>/эссе<n><nom>+и<cop><aor><p3><pl>/эссе<n><nom>+и<cop><aor><p3><sg>/эссе<adj><subst><nom>+и<cop><aor><p3><pl>/эссе<adj><subst><nom>+и<cop><aor><p3><sg>$
-^эссе/эссе<adj>/эссе<n><attr>/эссе<n><nom>/эссе<adj><advl>/эссе<adj><subst><nom>/эссе<adj>+и<cop><aor><p3><pl>/эссе<adj>+и<cop><aor><p3><sg>/эссе<n><nom>+и<cop><aor><p3><pl>/эссе<n><nom>+и<cop><aor><p3><sg>/эссе<adj><subst><nom>+и<cop><aor><p3><pl>/эссе<adj><subst><nom>+и<cop><aor><p3><sg>$
-^исән/исән<adj>/исән<n><attr>/исән<n><nom>/исән<adj><advl>/исән<adj><subst><nom>/исән<adj>+и<cop><aor><p3><pl>/исән<adj>+и<cop><aor><p3><sg>/исән<n><nom>+и<cop><aor><p3><pl>/исән<n><nom>+и<cop><aor><p3><sg>/исән<adj><subst><nom>+и<cop><aor><p3><pl>/исән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^исән/исән<adj>/исән<n><attr>/исән<n><nom>/исән<adj><advl>/исән<adj><subst><nom>/исән<adj>+и<cop><aor><p3><pl>/исән<adj>+и<cop><aor><p3><sg>/исән<n><nom>+и<cop><aor><p3><pl>/исән<n><nom>+и<cop><aor><p3><sg>/исән<adj><subst><nom>+и<cop><aor><p3><pl>/исән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^исән/исән<adj>/исән<n><attr>/исән<n><nom>/исән<adj><advl>/исән<adj><subst><nom>/исән<adj>+и<cop><aor><p3><pl>/исән<adj>+и<cop><aor><p3><sg>/исән<n><nom>+и<cop><aor><p3><pl>/исән<n><nom>+и<cop><aor><p3><sg>/исән<adj><subst><nom>+и<cop><aor><p3><pl>/исән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^исән/исән<adj>/исән<n><attr>/исән<n><nom>/исән<adj><advl>/исән<adj><subst><nom>/исән<adj>+и<cop><aor><p3><pl>/исән<adj>+и<cop><aor><p3><sg>/исән<n><nom>+и<cop><aor><p3><pl>/исән<n><nom>+и<cop><aor><p3><sg>/исән<adj><subst><nom>+и<cop><aor><p3><pl>/исән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртәгә/иртә<n><dat>/иртә<adj><subst><dat>/иртәгә<adv>$
-^гүзәл/гүзәл<adj>/гүзәл<adj><advl>/гүзәл<adj><subst><nom>/гүзәл<adj>+и<cop><aor><p3><pl>/гүзәл<adj>+и<cop><aor><p3><sg>/гүзәл<adj><subst><nom>+и<cop><aor><p3><pl>/гүзәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гүзәл/гүзәл<adj>/гүзәл<adj><advl>/гүзәл<adj><subst><nom>/гүзәл<adj>+и<cop><aor><p3><pl>/гүзәл<adj>+и<cop><aor><p3><sg>/гүзәл<adj><subst><nom>+и<cop><aor><p3><pl>/гүзәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^шәп/шәп<adj>/шәп<n><attr>/шәп<n><nom>/шәп<adj><advl>/шәп<adj><subst><nom>/шәп<adj>+и<cop><aor><p3><pl>/шәп<adj>+и<cop><aor><p3><sg>/шәп<n><nom>+и<cop><aor><p3><pl>/шәп<n><nom>+и<cop><aor><p3><sg>/шәп<adj><subst><nom>+и<cop><aor><p3><pl>/шәп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^шәп/шәп<adj>/шәп<n><attr>/шәп<n><nom>/шәп<adj><advl>/шәп<adj><subst><nom>/шәп<adj>+и<cop><aor><p3><pl>/шәп<adj>+и<cop><aor><p3><sg>/шәп<n><nom>+и<cop><aor><p3><pl>/шәп<n><nom>+и<cop><aor><p3><sg>/шәп<adj><subst><nom>+и<cop><aor><p3><pl>/шәп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аннары/аннары<adv>$
-^ник/ник<adv><itg>/ник<adv><itg>+и<cop><aor><p3><pl>/ник<adv><itg>+и<cop><aor><p3><sg>$
-^ник/ник<adv><itg>/ник<adv><itg>+и<cop><aor><p3><pl>/ник<adv><itg>+и<cop><aor><p3><sg>$
-^биредә/биредә<adv>$
-^монда/бу<prn><dem><loc>/монда<adj>/монда<adj><advl>/монда<adj><subst><nom>/бу<prn><dem><loc>+и<cop><aor><p3><pl>/бу<prn><dem><loc>+и<cop><aor><p3><sg>/монда<adj>+и<cop><aor><p3><pl>/монда<adj>+и<cop><aor><p3><sg>/монда<adj><subst><nom>+и<cop><aor><p3><pl>/монда<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптәннән/күптәннән<adj>/күптәннән<adv>/күптәннән<adj><advl>/күптәннән<adj><subst><nom>/күптәннән<adj>+и<cop><aor><p3><pl>/күптәннән<adj>+и<cop><aor><p3><sg>/күптәннән<adj><subst><nom>+и<cop><aor><p3><pl>/күптәннән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптәннән/күптәннән<adj>/күптәннән<adv>/күптәннән<adj><advl>/күптәннән<adj><subst><nom>/күптәннән<adj>+и<cop><aor><p3><pl>/күптәннән<adj>+и<cop><aor><p3><sg>/күптәннән<adj><subst><nom>+и<cop><aor><p3><pl>/күптәннән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптәннән/күптәннән<adj>/күптәннән<adv>/күптәннән<adj><advl>/күптәннән<adj><subst><nom>/күптәннән<adj>+и<cop><aor><p3><pl>/күптәннән<adj>+и<cop><aor><p3><sg>/күптәннән<adj><subst><nom>+и<cop><aor><p3><pl>/күптәннән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптәннән/күптәннән<adj>/күптәннән<adv>/күптәннән<adj><advl>/күптәннән<adj><subst><nom>/күптәннән<adj>+и<cop><aor><p3><pl>/күптәннән<adj>+и<cop><aor><p3><sg>/күптәннән<adj><subst><nom>+и<cop><aor><p3><pl>/күптәннән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күптәннән/күптәннән<adj>/күптәннән<adv>/күптәннән<adj><advl>/күптәннән<adj><subst><nom>/күптәннән<adj>+и<cop><aor><p3><pl>/күптәннән<adj>+и<cop><aor><p3><sg>/күптәннән<adj><subst><nom>+и<cop><aor><p3><pl>/күптәннән<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^берәм-сәрәм/берәм-сәрәм<adv>$
-^берәм-сәрәм/берәм-сәрәм<adv>$
-^берәм-сәрәм/берәм-сәрәм<adv>$
-^сирәк/сирәк<adj>/сирәк<adj><advl>/сирәк<adj><subst><nom>/сирәк<adj>+и<cop><aor><p3><pl>/сирәк<adj>+и<cop><aor><p3><sg>/сирәк<adj><subst><nom>+и<cop><aor><p3><pl>/сирәк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^сирәк/сирәк<adj>/сирәк<adj><advl>/сирәк<adj><subst><nom>/сирәк<adj>+и<cop><aor><p3><pl>/сирәк<adj>+и<cop><aor><p3><sg>/сирәк<adj><subst><nom>+и<cop><aor><p3><pl>/сирәк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^сирәк/сирәк<adj>/сирәк<adj><advl>/сирәк<adj><subst><nom>/сирәк<adj>+и<cop><aor><p3><pl>/сирәк<adj>+и<cop><aor><p3><sg>/сирәк<adj><subst><nom>+и<cop><aor><p3><pl>/сирәк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^шактый/шактый<adj>/шактый<adv>/шактый<adj><advl>/шактый<adj><subst><nom>/шактый<adj>+и<cop><aor><p3><pl>/шактый<adj>+и<cop><aor><p3><sg>/шактый<adj><subst><nom>+и<cop><aor><p3><pl>/шактый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^шактый/шактый<adj>/шактый<adv>/шактый<adj><advl>/шактый<adj><subst><nom>/шактый<adj>+и<cop><aor><p3><pl>/шактый<adj>+и<cop><aor><p3><sg>/шактый<adj><subst><nom>+и<cop><aor><p3><pl>/шактый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^башкача/башка<adj><subst><equ>/башка<adj><subst><equ>+и<cop><aor><p3><pl>/башка<adj><subst><equ>+и<cop><aor><p3><sg>$
-^башкача/башка<adj><subst><equ>/башка<adj><subst><equ>+и<cop><aor><p3><pl>/башка<adj><subst><equ>+и<cop><aor><p3><sg>$
-^кайвакыт/кайвакыт<adv>$
-^кайвакыт/кайвакыт<adv>$
-^кайвакыт/кайвакыт<adv>$
-^кайчак/кайчак<adj>/кайчак<adv>/кайчак<adj><advl>/кайчак<adj><subst><nom>/кайчак<adj>+и<cop><aor><p3><pl>/кайчак<adj>+и<cop><aor><p3><sg>/кайчак<adj><subst><nom>+и<cop><aor><p3><pl>/кайчак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайчак/кайчак<adj>/кайчак<adv>/кайчак<adj><advl>/кайчак<adj><subst><nom>/кайчак<adj>+и<cop><aor><p3><pl>/кайчак<adj>+и<cop><aor><p3><sg>/кайчак<adj><subst><nom>+и<cop><aor><p3><pl>/кайчак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайчак/кайчак<adj>/кайчак<adv>/кайчак<adj><advl>/кайчак<adj><subst><nom>/кайчак<adj>+и<cop><aor><p3><pl>/кайчак<adj>+и<cop><aor><p3><sg>/кайчак<adj><subst><nom>+и<cop><aor><p3><pl>/кайчак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кайчакта/кайчак<adj><subst><loc>/кайчакта<adv>/кайчак<adj><subst><loc>+и<cop><aor><p3><pl>/кайчак<adj><subst><loc>+и<cop><aor><p3><sg>$
-^кайчакта/кайчак<adj><subst><loc>/кайчакта<adv>/кайчак<adj><subst><loc>+и<cop><aor><p3><pl>/кайчак<adj><subst><loc>+и<cop><aor><p3><sg>$
-^кайчакта/кайчак<adj><subst><loc>/кайчакта<adv>/кайчак<adj><subst><loc>+и<cop><aor><p3><pl>/кайчак<adj><subst><loc>+и<cop><aor><p3><sg>$
-^һәрвакыттагыча/һәрвакыттагыча<adv>$
-^гадәттәгечә/гадәт<n><loc><attr><equ>/гадәттәгечә<adv>/гадәт<n><loc><attr><equ>+и<cop><aor><p3><pl>/гадәт<n><loc><attr><equ>+и<cop><aor><p3><sg>$
-^күк/күк<adj>/күк<post>/күк<n><attr>/күк<n><nom>/күк<adj><advl>/күк<adj><subst><nom>/күк<adj>+и<cop><aor><p3><pl>/күк<adj>+и<cop><aor><p3><sg>/күк<n><nom>+и<cop><aor><p3><pl>/күк<n><nom>+и<cop><aor><p3><sg>/күк<adj><subst><nom>+и<cop><aor><p3><pl>/күк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күк/күк<adj>/күк<post>/күк<n><attr>/күк<n><nom>/күк<adj><advl>/күк<adj><subst><nom>/күк<adj>+и<cop><aor><p3><pl>/күк<adj>+и<cop><aor><p3><sg>/күк<n><nom>+и<cop><aor><p3><pl>/күк<n><nom>+и<cop><aor><p3><sg>/күк<adj><subst><nom>+и<cop><aor><p3><pl>/күк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күк/күк<adj>/күк<post>/күк<n><attr>/күк<n><nom>/күк<adj><advl>/күк<adj><subst><nom>/күк<adj>+и<cop><aor><p3><pl>/күк<adj>+и<cop><aor><p3><sg>/күк<n><nom>+и<cop><aor><p3><pl>/күк<n><nom>+и<cop><aor><p3><sg>/күк<adj><subst><nom>+и<cop><aor><p3><pl>/күк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ничек/ничек<adv><itg>/ничек<adv><itg>+и<cop><aor><p3><pl>/ничек<adv><itg>+и<cop><aor><p3><sg>$
-^ничек/ничек<adv><itg>/ничек<adv><itg>+и<cop><aor><p3><pl>/ничек<adv><itg>+и<cop><aor><p3><sg>$
-^ничек/ничек<adv><itg>/ничек<adv><itg>+и<cop><aor><p3><pl>/ничек<adv><itg>+и<cop><aor><p3><sg>$
-^ничек/ничек<adv><itg>/ничек<adv><itg>+и<cop><aor><p3><pl>/ничек<adv><itg>+и<cop><aor><p3><sg>$
-^ничек/ничек<adv><itg>/ничек<adv><itg>+и<cop><aor><p3><pl>/ничек<adv><itg>+и<cop><aor><p3><sg>$
-^әлбәттә/әлбәттә<ij>/әлбәттә<adv>$
-^кыска/кыска<adj>/кыска<adj><advl>/кыска<adj><subst><nom>/кыска<adj>+и<cop><aor><p3><pl>/кыска<adj>+и<cop><aor><p3><sg>/кыска<adj><subst><nom>+и<cop><aor><p3><pl>/кыска<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыска/кыска<adj>/кыска<adj><advl>/кыска<adj><subst><nom>/кыска<adj>+и<cop><aor><p3><pl>/кыска<adj>+и<cop><aor><p3><sg>/кыска<adj><subst><nom>+и<cop><aor><p3><pl>/кыска<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күркәм/күркәм<adj>/күркә<n><px1sg><nom>/күркәм<adj><advl>/күркәм<adj><subst><nom>/күркәм<adj>+и<cop><aor><p3><pl>/күркәм<adj>+и<cop><aor><p3><sg>/күркә<n><px1sg><nom>+и<cop><aor><p3><pl>/күркә<n><px1sg><nom>+и<cop><aor><p3><sg>/күркәм<adj><subst><nom>+и<cop><aor><p3><pl>/күркәм<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^матур/матур<adj>/матур<n><attr>/матур<n><nom>/матур<adj><advl>/матур<adj><subst><nom>/матур<adj>+и<cop><aor><p3><pl>/матур<adj>+и<cop><aor><p3><sg>/матур<n><nom>+и<cop><aor><p3><pl>/матур<n><nom>+и<cop><aor><p3><sg>/матур<adj><subst><nom>+и<cop><aor><p3><pl>/матур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чибәр/чибәр<adj>/чибәр<adj><advl>/чибәр<adj><subst><nom>/чибәр<adj>+и<cop><aor><p3><pl>/чибәр<adj>+и<cop><aor><p3><sg>/чибәр<adj><subst><nom>+и<cop><aor><p3><pl>/чибәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ныклы/ныклы<adj>/нык<adj><subst>+лы<post>/ныклы<adj><advl>/ныклы<adj><subst><nom>/ныклы<adj>+и<cop><aor><p3><pl>/ныклы<adj>+и<cop><aor><p3><sg>/ныклы<adj><subst><nom>+и<cop><aor><p3><pl>/ныклы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ярый/яра<v><tv><prc_impf>/яра<v><iv><prc_impf>/ярый<ij>/ярый<adj>/ярый<adj><advl>/яра<v><tv><pres><p3><sg>/яра<v><iv><pres><p3><sg>/ярый<adj><subst><nom>/ярый<adj>+и<cop><aor><p3><pl>/ярый<adj>+и<cop><aor><p3><sg>/ярый<adj><subst><nom>+и<cop><aor><p3><pl>/ярый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^мөлаем/мөлаем<adj>/мөлаем<adj><advl>/мөлаем<adj><subst><nom>/мөлаем<adj>+и<cop><aor><p3><pl>/мөлаем<adj>+и<cop><aor><p3><sg>/мөлаем<adj><subst><nom>+и<cop><aor><p3><pl>/мөлаем<adj><subst><nom>+и<cop><aor><p3><sg>$
-^мөлаем/мөлаем<adj>/мөлаем<adj><advl>/мөлаем<adj><subst><nom>/мөлаем<adj>+и<cop><aor><p3><pl>/мөлаем<adj>+и<cop><aor><p3><sg>/мөлаем<adj><subst><nom>+и<cop><aor><p3><pl>/мөлаем<adj><subst><nom>+и<cop><aor><p3><sg>$
-^мөлаем/мөлаем<adj>/мөлаем<adj><advl>/мөлаем<adj><subst><nom>/мөлаем<adj>+и<cop><aor><p3><pl>/мөлаем<adj>+и<cop><aor><p3><sg>/мөлаем<adj><subst><nom>+и<cop><aor><p3><pl>/мөлаем<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ягымлы/ягымлы<adj>/ягымлы<adj><advl>/ягымлы<adj><subst><nom>/ягымлы<adj>+и<cop><aor><p3><pl>/ягымлы<adj>+и<cop><aor><p3><sg>/ягымлы<adj><subst><nom>+и<cop><aor><p3><pl>/ягымлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ягымлы/ягымлы<adj>/ягымлы<adj><advl>/ягымлы<adj><subst><nom>/ягымлы<adj>+и<cop><aor><p3><pl>/ягымлы<adj>+и<cop><aor><p3><sg>/ягымлы<adj><subst><nom>+и<cop><aor><p3><pl>/ягымлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ягымлы/ягымлы<adj>/ягымлы<adj><advl>/ягымлы<adj><subst><nom>/ягымлы<adj>+и<cop><aor><p3><pl>/ягымлы<adj>+и<cop><aor><p3><sg>/ягымлы<adj><subst><nom>+и<cop><aor><p3><pl>/ягымлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җиңел/җиңел<adj>/җиңел<adj><advl>/җиңел<adj><subst><nom>/җиң<v><tv><pass><imp><p2><sg>/җиңел<adj>+и<cop><aor><p3><pl>/җиңел<adj>+и<cop><aor><p3><sg>/җиңел<adj><subst><nom>+и<cop><aor><p3><pl>/җиңел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җиңел/җиңел<adj>/җиңел<adj><advl>/җиңел<adj><subst><nom>/җиң<v><tv><pass><imp><p2><sg>/җиңел<adj>+и<cop><aor><p3><pl>/җиңел<adj>+и<cop><aor><p3><sg>/җиңел<adj><subst><nom>+и<cop><aor><p3><pl>/җиңел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җиңел/җиңел<adj>/җиңел<adj><advl>/җиңел<adj><subst><nom>/җиң<v><tv><pass><imp><p2><sg>/җиңел<adj>+и<cop><aor><p3><pl>/җиңел<adj>+и<cop><aor><p3><sg>/җиңел<adj><subst><nom>+и<cop><aor><p3><pl>/җиңел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җиңел/җиңел<adj>/җиңел<adj><advl>/җиңел<adj><subst><nom>/җиң<v><tv><pass><imp><p2><sg>/җиңел<adj>+и<cop><aor><p3><pl>/җиңел<adj>+и<cop><aor><p3><sg>/җиңел<adj><subst><nom>+и<cop><aor><p3><pl>/җиңел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җиңел/җиңел<adj>/җиңел<adj><advl>/җиңел<adj><subst><nom>/җиң<v><tv><pass><imp><p2><sg>/җиңел<adj>+и<cop><aor><p3><pl>/җиңел<adj>+и<cop><aor><p3><sg>/җиңел<adj><subst><nom>+и<cop><aor><p3><pl>/җиңел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ялкау/ялкау<adj>/ялкау<adj><advl>/ялкау<adj><subst><nom>/ялкау<adj>+и<cop><aor><p3><pl>/ялкау<adj>+и<cop><aor><p3><sg>/ялкау<adj><subst><nom>+и<cop><aor><p3><pl>/ялкау<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ялкау/ялкау<adj>/ялкау<adj><advl>/ялкау<adj><subst><nom>/ялкау<adj>+и<cop><aor><p3><pl>/ялкау<adj>+и<cop><aor><p3><sg>/ялкау<adj><subst><nom>+и<cop><aor><p3><pl>/ялкау<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ялкау/ялкау<adj>/ялкау<adj><advl>/ялкау<adj><subst><nom>/ялкау<adj>+и<cop><aor><p3><pl>/ялкау<adj>+и<cop><aor><p3><sg>/ялкау<adj><subst><nom>+и<cop><aor><p3><pl>/ялкау<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тик/тик<cnjcoo>/тик<adv>$
-^тик/тик<cnjcoo>/тик<adv>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кечек/кечек<adj>/кечек<adj><advl>/кечек<adj><subst><nom>/кечек<adj>+и<cop><aor><p3><pl>/кечек<adj>+и<cop><aor><p3><sg>/кечек<adj><subst><nom>+и<cop><aor><p3><pl>/кечек<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кечек/кечек<adj>/кечек<adj><advl>/кечек<adj><subst><nom>/кечек<adj>+и<cop><aor><p3><pl>/кечек<adj>+и<cop><aor><p3><sg>/кечек<adj><subst><nom>+и<cop><aor><p3><pl>/кечек<adj><subst><nom>+и<cop><aor><p3><sg>$
-^акрын/акрын<adj>/акр<n><px3sp><acc>/акрын<adj><advl>/акрын<adj><subst><nom>/акрын<adj>+и<cop><aor><p3><pl>/акрын<adj>+и<cop><aor><p3><sg>/акрын<adj><subst><nom>+и<cop><aor><p3><pl>/акрын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^акрын/акрын<adj>/акр<n><px3sp><acc>/акрын<adj><advl>/акрын<adj><subst><nom>/акрын<adj>+и<cop><aor><p3><pl>/акрын<adj>+и<cop><aor><p3><sg>/акрын<adj><subst><nom>+и<cop><aor><p3><pl>/акрын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^акрын/акрын<adj>/акр<n><px3sp><acc>/акрын<adj><advl>/акрын<adj><subst><nom>/акрын<adj>+и<cop><aor><p3><pl>/акрын<adj>+и<cop><aor><p3><sg>/акрын<adj><subst><nom>+и<cop><aor><p3><pl>/акрын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күп/күп<adj>/күп<n><attr>/күп<n><nom>/күп<adj><advl>/күп<adj><subst><nom>/күп<adj>+и<cop><aor><p3><pl>/күп<adj>+и<cop><aor><p3><sg>/күп<n><nom>+и<cop><aor><p3><pl>/күп<n><nom>+и<cop><aor><p3><sg>/күп<adj><subst><nom>+и<cop><aor><p3><pl>/күп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куәтле/куәтле<adj>/куәт<n>+лы<post>/куәтле<adj><advl>/куәтле<adj><subst><nom>/куәтле<adj>+и<cop><aor><p3><pl>/куәтле<adj>+и<cop><aor><p3><sg>/куәтле<adj><subst><nom>+и<cop><aor><p3><pl>/куәтле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куәтле/куәтле<adj>/куәт<n>+лы<post>/куәтле<adj><advl>/куәтле<adj><subst><nom>/куәтле<adj>+и<cop><aor><p3><pl>/куәтле<adj>+и<cop><aor><p3><sg>/куәтле<adj><subst><nom>+и<cop><aor><p3><pl>/куәтле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^йомшак/йомшак<adj>/йомшак<adj><advl>/йомшак<adj><subst><nom>/йомшак<adj>+и<cop><aor><p3><pl>/йомшак<adj>+и<cop><aor><p3><sg>/йомшак<adj><subst><nom>+и<cop><aor><p3><pl>/йомшак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^йомшак/йомшак<adj>/йомшак<adj><advl>/йомшак<adj><subst><nom>/йомшак<adj>+и<cop><aor><p3><pl>/йомшак<adj>+и<cop><aor><p3><sg>/йомшак<adj><subst><nom>+и<cop><aor><p3><pl>/йомшак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^йомшак/йомшак<adj>/йомшак<adj><advl>/йомшак<adj><subst><nom>/йомшак<adj>+и<cop><aor><p3><pl>/йомшак<adj>+и<cop><aor><p3><sg>/йомшак<adj><subst><nom>+и<cop><aor><p3><pl>/йомшак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каршы/каршы<adj>/каршы<post>/каршы<adj><advl>/каршы<adj><subst><nom>/каршы<adj>+и<cop><aor><p3><pl>/каршы<adj>+и<cop><aor><p3><sg>/каршы<adj><subst><nom>+и<cop><aor><p3><pl>/каршы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артка/арт<n><dat>/арт<adj><subst><dat>/артка<adj>/артка<adj><advl>/артка<adj><subst><nom>/артка<adj>+и<cop><aor><p3><pl>/артка<adj>+и<cop><aor><p3><sg>/артка<adj><subst><nom>+и<cop><aor><p3><pl>/артка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артка/арт<n><dat>/арт<adj><subst><dat>/артка<adj>/артка<adj><advl>/артка<adj><subst><nom>/артка<adj>+и<cop><aor><p3><pl>/артка<adj>+и<cop><aor><p3><sg>/артка<adj><subst><nom>+и<cop><aor><p3><pl>/артка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артка/арт<n><dat>/арт<adj><subst><dat>/артка<adj>/артка<adj><advl>/артка<adj><subst><nom>/артка<adj>+и<cop><aor><p3><pl>/артка<adj>+и<cop><aor><p3><sg>/артка<adj><subst><nom>+и<cop><aor><p3><pl>/артка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артка/арт<n><dat>/арт<adj><subst><dat>/артка<adj>/артка<adj><advl>/артка<adj><subst><nom>/артка<adj>+и<cop><aor><p3><pl>/артка<adj>+и<cop><aor><p3><sg>/артка<adj><subst><nom>+и<cop><aor><p3><pl>/артка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кире/кире<adj>/кире<adv>/ки<v><tv><ger_fut><px3sp><nom>/ки<v><tv><gpr_fut><subst><px3sp><nom>/кире<n><attr>/кире<n><nom>/кире<adj><advl>/кире<adj><subst><nom>/кире<adj>+и<cop><aor><p3><pl>/кире<adj>+и<cop><aor><p3><sg>/кире<n><nom>+и<cop><aor><p3><pl>/кире<n><nom>+и<cop><aor><p3><sg>/кире<adj><subst><nom>+и<cop><aor><p3><pl>/кире<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кире/кире<adj>/кире<adv>/ки<v><tv><ger_fut><px3sp><nom>/ки<v><tv><gpr_fut><subst><px3sp><nom>/кире<n><attr>/кире<n><nom>/кире<adj><advl>/кире<adj><subst><nom>/кире<adj>+и<cop><aor><p3><pl>/кире<adj>+и<cop><aor><p3><sg>/кире<n><nom>+и<cop><aor><p3><pl>/кире<n><nom>+и<cop><aor><p3><sg>/кире<adj><subst><nom>+и<cop><aor><p3><pl>/кире<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кире/кире<adj>/кире<adv>/ки<v><tv><ger_fut><px3sp><nom>/ки<v><tv><gpr_fut><subst><px3sp><nom>/кире<n><attr>/кире<n><nom>/кире<adj><advl>/кире<adj><subst><nom>/кире<adj>+и<cop><aor><p3><pl>/кире<adj>+и<cop><aor><p3><sg>/кире<n><nom>+и<cop><aor><p3><pl>/кире<n><nom>+и<cop><aor><p3><sg>/кире<adj><subst><nom>+и<cop><aor><p3><pl>/кире<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кире/кире<adj>/кире<adv>/ки<v><tv><ger_fut><px3sp><nom>/ки<v><tv><gpr_fut><subst><px3sp><nom>/кире<n><attr>/кире<n><nom>/кире<adj><advl>/кире<adj><subst><nom>/кире<adj>+и<cop><aor><p3><pl>/кире<adj>+и<cop><aor><p3><sg>/кире<n><nom>+и<cop><aor><p3><pl>/кире<n><nom>+и<cop><aor><p3><sg>/кире<adj><subst><nom>+и<cop><aor><p3><pl>/кире<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ахырда/ахыр<n><loc>/ахырда<adj>/ахырда<adj><advl>/ахырда<adj><subst><nom>/ахыр<n><loc>+и<cop><aor><p3><pl>/ахыр<n><loc>+и<cop><aor><p3><sg>/ахырда<adj>+и<cop><aor><p3><pl>/ахырда<adj>+и<cop><aor><p3><sg>/ахырда<adj><subst><nom>+и<cop><aor><p3><pl>/ахырда<adj><subst><nom>+и<cop><aor><p3><sg>$
-^юкка/юк<adj><subst><dat>/юкка<adj>/юкка<adj><advl>/юкка<adj><subst><nom>/юкка<adj>+и<cop><aor><p3><pl>/юкка<adj>+и<cop><aor><p3><sg>/юкка<adj><subst><nom>+и<cop><aor><p3><pl>/юкка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^юкка/юк<adj><subst><dat>/юкка<adj>/юкка<adj><advl>/юкка<adj><subst><nom>/юкка<adj>+и<cop><aor><p3><pl>/юкка<adj>+и<cop><aor><p3><sg>/юкка<adj><subst><nom>+и<cop><aor><p3><pl>/юкка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^юкка/юк<adj><subst><dat>/юкка<adj>/юкка<adj><advl>/юкка<adj><subst><nom>/юкка<adj>+и<cop><aor><p3><pl>/юкка<adj>+и<cop><aor><p3><sg>/юкка<adj><subst><nom>+и<cop><aor><p3><pl>/юкка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^юкка/юк<adj><subst><dat>/юкка<adj>/юкка<adj><advl>/юкка<adj><subst><nom>/юкка<adj>+и<cop><aor><p3><pl>/юкка<adj>+и<cop><aor><p3><sg>/юкка<adj><subst><nom>+и<cop><aor><p3><pl>/юкка<adj><subst><nom>+и<cop><aor><p3><sg>$
-^юри/юри<adj>/юри<adv>/юри<adj><advl>/юри<adj><subst><nom>/юри<adj>+и<cop><aor><p3><pl>/юри<adj>+и<cop><aor><p3><sg>/юри<adj><subst><nom>+и<cop><aor><p3><pl>/юри<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әле/әле<cnjcoo>/әле<emph>/әле<adv>$
-^башта/баш<n><loc>/баш<adj><subst><loc>/башта<adj>/башта<adv>/башта<adj><advl>/башта<adj><subst><nom>/баш<n><loc>+и<cop><aor><p3><pl>/баш<n><loc>+и<cop><aor><p3><sg>/баш<adj><subst><loc>+и<cop><aor><p3><pl>/баш<adj><subst><loc>+и<cop><aor><p3><sg>/башта<adj>+и<cop><aor><p3><pl>/башта<adj>+и<cop><aor><p3><sg>/башта<adj><subst><nom>+и<cop><aor><p3><pl>/башта<adj><subst><nom>+и<cop><aor><p3><sg>$
-^башта/баш<n><loc>/баш<adj><subst><loc>/башта<adj>/башта<adv>/башта<adj><advl>/башта<adj><subst><nom>/баш<n><loc>+и<cop><aor><p3><pl>/баш<n><loc>+и<cop><aor><p3><sg>/баш<adj><subst><loc>+и<cop><aor><p3><pl>/баш<adj><subst><loc>+и<cop><aor><p3><sg>/башта<adj>+и<cop><aor><p3><pl>/башта<adj>+и<cop><aor><p3><sg>/башта<adj><subst><nom>+и<cop><aor><p3><pl>/башта<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бая/бая<adj>/бая<adv>/бая<adj><advl>/бая<adj><subst><nom>/бая<adj>+и<cop><aor><p3><pl>/бая<adj>+и<cop><aor><p3><sg>/бая<adj><subst><nom>+и<cop><aor><p3><pl>/бая<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бая/бая<adj>/бая<adv>/бая<adj><advl>/бая<adj><subst><nom>/бая<adj>+и<cop><aor><p3><pl>/бая<adj>+и<cop><aor><p3><sg>/бая<adj><subst><nom>+и<cop><aor><p3><pl>/бая<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бая/бая<adj>/бая<adv>/бая<adj><advl>/бая<adj><subst><nom>/бая<adj>+и<cop><aor><p3><pl>/бая<adj>+и<cop><aor><p3><sg>/бая<adj><subst><nom>+и<cop><aor><p3><pl>/бая<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бераз/бераз<adv>$
-^бераз/бераз<adv>$
-^бераз/бераз<adv>$
-^беркадәр/беркадәр<adv>$
-^беркадәр/беркадәр<adv>$
-^беркадәр/беркадәр<adv>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кинәт/кинәт<adj>/кинәт<adv>/кинәт<adj><advl>/кинәт<adj><subst><nom>/кинәт<adj>+и<cop><aor><p3><pl>/кинәт<adj>+и<cop><aor><p3><sg>/кинәт<adj><subst><nom>+и<cop><aor><p3><pl>/кинәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^өзлексез/өзлексез<adj>/өзлексез<adj><advl>/өзлексез<adj><subst><nom>/өзлексез<adj>+и<cop><aor><p3><pl>/өзлексез<adj>+и<cop><aor><p3><sg>/өзлексез<adj><subst><nom>+и<cop><aor><p3><pl>/өзлексез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^өзлексез/өзлексез<adj>/өзлексез<adj><advl>/өзлексез<adj><subst><nom>/өзлексез<adj>+и<cop><aor><p3><pl>/өзлексез<adj>+и<cop><aor><p3><sg>/өзлексез<adj><subst><nom>+и<cop><aor><p3><pl>/өзлексез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^быел/быел<adv>/быел<n><attr>/быел<n><nom>/быел<n><nom>+и<cop><aor><p3><pl>/быел<n><nom>+и<cop><aor><p3><sg>$
-^хәзер/хәзер<adv>/хәзер<n><attr>/хәзер<n><nom>/хәзер<n><nom>+и<cop><aor><p3><pl>/хәзер<n><nom>+и<cop><aor><p3><sg>$
-^кире/кире<adj>/кире<adv>/ки<v><tv><ger_fut><px3sp><nom>/ки<v><tv><gpr_fut><subst><px3sp><nom>/кире<n><attr>/кире<n><nom>/кире<adj><advl>/кире<adj><subst><nom>/кире<adj>+и<cop><aor><p3><pl>/кире<adj>+и<cop><aor><p3><sg>/кире<n><nom>+и<cop><aor><p3><pl>/кире<n><nom>+и<cop><aor><p3><sg>/кире<adj><subst><nom>+и<cop><aor><p3><pl>/кире<adj><subst><nom>+и<cop><aor><p3><sg>$
-^киресенчә/киресенчә<adv>$
-^бервакыт/бервакыт<adv>$
-^куркыныч/куркыныч<adj>/куркыныч<n><attr>/куркыныч<n><nom>/куркыныч<adj><advl>/куркыныч<adj><subst><nom>/куркыныч<adj>+и<cop><aor><p3><pl>/куркыныч<adj>+и<cop><aor><p3><sg>/куркыныч<n><nom>+и<cop><aor><p3><pl>/куркыныч<n><nom>+и<cop><aor><p3><sg>/куркыныч<adj><subst><nom>+и<cop><aor><p3><pl>/куркыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хәтәр/хәтәр<adj>/хәтәр<n><attr>/хәтәр<n><nom>/хәтәр<adj><advl>/хәтәр<adj><subst><nom>/хәтәр<adj>+и<cop><aor><p3><pl>/хәтәр<adj>+и<cop><aor><p3><sg>/хәтәр<n><nom>+и<cop><aor><p3><pl>/хәтәр<n><nom>+и<cop><aor><p3><sg>/хәтәр<adj><subst><nom>+и<cop><aor><p3><pl>/хәтәр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^янә/янә<adv>$
-^янә/янә<adv>$
-^төпле/төпле<adj>/төп<n>+лы<post>/төп<adj><subst>+лы<post>/төпле<adj><advl>/төпле<adj><subst><nom>/төпле<adj>+и<cop><aor><p3><pl>/төпле<adj>+и<cop><aor><p3><sg>/төпле<adj><subst><nom>+и<cop><aor><p3><pl>/төпле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аерым/аерым<adj>/аерым<adj><advl>/аерым<adj><subst><nom>/аерым<adj>+и<cop><aor><p3><pl>/аерым<adj>+и<cop><aor><p3><sg>/аерым<adj><subst><nom>+и<cop><aor><p3><pl>/аерым<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аерым/аерым<adj>/аерым<adj><advl>/аерым<adj><subst><nom>/аерым<adj>+и<cop><aor><p3><pl>/аерым<adj>+и<cop><aor><p3><sg>/аерым<adj><subst><nom>+и<cop><aor><p3><pl>/аерым<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хосусый/хосусый<adj>/хосусый<adj><advl>/хосусый<adj><subst><nom>/хосусый<adj>+и<cop><aor><p3><pl>/хосусый<adj>+и<cop><aor><p3><sg>/хосусый<adj><subst><nom>+и<cop><aor><p3><pl>/хосусый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хосусый/хосусый<adj>/хосусый<adj><advl>/хосусый<adj><subst><nom>/хосусый<adj>+и<cop><aor><p3><pl>/хосусый<adj>+и<cop><aor><p3><sg>/хосусый<adj><subst><nom>+и<cop><aor><p3><pl>/хосусый<adj><subst><nom>+и<cop><aor><p3><sg>$
-^сак/сак<adj>/сак<n><attr>/сак<n><nom>/сак<adj><advl>/сак<adj><subst><nom>/сак<adj>+и<cop><aor><p3><pl>/сак<adj>+и<cop><aor><p3><sg>/сак<n><nom>+и<cop><aor><p3><pl>/сак<n><nom>+и<cop><aor><p3><sg>/сак<adj><subst><nom>+и<cop><aor><p3><pl>/сак<adj><subst><nom>+и<cop><aor><p3><sg>$
-^очлы/очлы<adj>/оч<n>+лы<post>/очлы<adj><advl>/очлы<adj><subst><nom>/очлы<adj>+и<cop><aor><p3><pl>/очлы<adj>+и<cop><aor><p3><sg>/очлы<adj><subst><nom>+и<cop><aor><p3><pl>/очлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^очлы/очлы<adj>/оч<n>+лы<post>/очлы<adj><advl>/очлы<adj><subst><nom>/очлы<adj>+и<cop><aor><p3><pl>/очлы<adj>+и<cop><aor><p3><sg>/очлы<adj><subst><nom>+и<cop><aor><p3><pl>/очлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^үткен/*үткен$
-^үткен/*үткен$
-^үткер/үткер<adj>/үткер<adj><advl>/үткер<adj><subst><nom>/үткер<adj>+и<cop><aor><p3><pl>/үткер<adj>+и<cop><aor><p3><sg>/үткер<adj><subst><nom>+и<cop><aor><p3><pl>/үткер<adj><subst><nom>+и<cop><aor><p3><sg>$
-^үткер/үткер<adj>/үткер<adj><advl>/үткер<adj><subst><nom>/үткер<adj>+и<cop><aor><p3><pl>/үткер<adj>+и<cop><aor><p3><sg>/үткер<adj><subst><nom>+и<cop><aor><p3><pl>/үткер<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аерым/аерым<adj>/аерым<adj><advl>/аерым<adj><subst><nom>/аерым<adj>+и<cop><aor><p3><pl>/аерым<adj>+и<cop><aor><p3><sg>/аерым<adj><subst><nom>+и<cop><aor><p3><pl>/аерым<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аерым/аерым<adj>/аерым<adj><advl>/аерым<adj><subst><nom>/аерым<adj>+и<cop><aor><p3><pl>/аерым<adj>+и<cop><aor><p3><sg>/аерым<adj><subst><nom>+и<cop><aor><p3><pl>/аерым<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^ачык/ачык<adj>/ачык<n><attr>/ачык<n><nom>/ачык<adj><advl>/ачык<adj><subst><nom>/ачык<v><tv><imp><p2><sg>/ачык<v><iv><imp><p2><sg>/ачык<adj>+и<cop><aor><p3><pl>/ачык<adj>+и<cop><aor><p3><sg>/ачык<n><nom>+и<cop><aor><p3><pl>/ачык<n><nom>+и<cop><aor><p3><sg>/ачык<adj><subst><nom>+и<cop><aor><p3><pl>/ачык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^күрәсең/күр<v><tv><pres><p2><sg>/күр<v><tv><prc_vol><p2><sg>/күрәсең<adv>/күр<v><tv><ger_fut3><px2sg><nom>/күр<v><tv><gpr_fut3><subst><px2sg><nom>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^гаять/гаять<adv>$
-^гаять/гаять<adv>$
-^гаять/гаять<adv>$
-^гаять/гаять<adv>$
-^гаять/гаять<adv>$
-^ялгыш/ялгыш<adj>/ялгыш<n><attr>/ялгыш<n><nom>/ялгыш<adj><advl>/ялгыш<adj><subst><nom>/ялгыш<adj>+и<cop><aor><p3><pl>/ялгыш<adj>+и<cop><aor><p3><sg>/ялгыш<n><nom>+и<cop><aor><p3><pl>/ялгыш<n><nom>+и<cop><aor><p3><sg>/ялгыш<adj><subst><nom>+и<cop><aor><p3><pl>/ялгыш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^җәяү/җәяү<adv>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^начар/начар<adj>/начар<n><attr>/начар<n><nom>/начар<adj><advl>/начар<adj><subst><nom>/начар<adj>+и<cop><aor><p3><pl>/начар<adj>+и<cop><aor><p3><sg>/начар<n><nom>+и<cop><aor><p3><pl>/начар<n><nom>+и<cop><aor><p3><sg>/начар<adj><subst><nom>+и<cop><aor><p3><pl>/начар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^начар/начар<adj>/начар<n><attr>/начар<n><nom>/начар<adj><advl>/начар<adj><subst><nom>/начар<adj>+и<cop><aor><p3><pl>/начар<adj>+и<cop><aor><p3><sg>/начар<n><nom>+и<cop><aor><p3><pl>/начар<n><nom>+и<cop><aor><p3><sg>/начар<adj><subst><nom>+и<cop><aor><p3><pl>/начар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^начар/начар<adj>/начар<n><attr>/начар<n><nom>/начар<adj><advl>/начар<adj><subst><nom>/начар<adj>+и<cop><aor><p3><pl>/начар<adj>+и<cop><aor><p3><sg>/начар<n><nom>+и<cop><aor><p3><pl>/начар<n><nom>+и<cop><aor><p3><sg>/начар<adj><subst><nom>+и<cop><aor><p3><pl>/начар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яман/яман<adj>/яман<adj><advl>/яман<adj><subst><nom>/яман<adj>+и<cop><aor><p3><pl>/яман<adj>+и<cop><aor><p3><sg>/яман<adj><subst><nom>+и<cop><aor><p3><pl>/яман<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яман/яман<adj>/яман<adj><advl>/яман<adj><subst><nom>/яман<adj>+и<cop><aor><p3><pl>/яман<adj>+и<cop><aor><p3><sg>/яман<adj><subst><nom>+и<cop><aor><p3><pl>/яман<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яман/яман<adj>/яман<adj><advl>/яман<adj><subst><nom>/яман<adj>+и<cop><aor><p3><pl>/яман<adj>+и<cop><aor><p3><sg>/яман<adj><subst><nom>+и<cop><aor><p3><pl>/яман<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәңгәл/тәңгәл<adj>/тәңгәл<adj><advl>/тәңгәл<adj><subst><nom>/тәңгәл<adj>+и<cop><aor><p3><pl>/тәңгәл<adj>+и<cop><aor><p3><sg>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><pl>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәңгәл/тәңгәл<adj>/тәңгәл<adj><advl>/тәңгәл<adj><subst><nom>/тәңгәл<adj>+и<cop><aor><p3><pl>/тәңгәл<adj>+и<cop><aor><p3><sg>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><pl>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәңгәл/тәңгәл<adj>/тәңгәл<adj><advl>/тәңгәл<adj><subst><nom>/тәңгәл<adj>+и<cop><aor><p3><pl>/тәңгәл<adj>+и<cop><aor><p3><sg>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><pl>/тәңгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бәйнә-бәйнә/бәйнә-бәйнә<adv>$
-^арт/арт<adj>/арт<n><attr>/арт<n><nom>/арт<adj><advl>/арт<adj><subst><nom>/арт<v><tv><imp><p2><sg>/арт<v><iv><imp><p2><sg>/арт<adj>+и<cop><aor><p3><pl>/арт<adj>+и<cop><aor><p3><sg>/арт<n><nom>+и<cop><aor><p3><pl>/арт<n><nom>+и<cop><aor><p3><sg>/арт<adj><subst><nom>+и<cop><aor><p3><pl>/арт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^арт/арт<adj>/арт<n><attr>/арт<n><nom>/арт<adj><advl>/арт<adj><subst><nom>/арт<v><tv><imp><p2><sg>/арт<v><iv><imp><p2><sg>/арт<adj>+и<cop><aor><p3><pl>/арт<adj>+и<cop><aor><p3><sg>/арт<n><nom>+и<cop><aor><p3><pl>/арт<n><nom>+и<cop><aor><p3><sg>/арт<adj><subst><nom>+и<cop><aor><p3><pl>/арт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^арт/арт<adj>/арт<n><attr>/арт<n><nom>/арт<adj><advl>/арт<adj><subst><nom>/арт<v><tv><imp><p2><sg>/арт<v><iv><imp><p2><sg>/арт<adj>+и<cop><aor><p3><pl>/арт<adj>+и<cop><aor><p3><sg>/арт<n><nom>+и<cop><aor><p3><pl>/арт<n><nom>+и<cop><aor><p3><sg>/арт<adj><subst><nom>+и<cop><aor><p3><pl>/арт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^арт/арт<adj>/арт<n><attr>/арт<n><nom>/арт<adj><advl>/арт<adj><subst><nom>/арт<v><tv><imp><p2><sg>/арт<v><iv><imp><p2><sg>/арт<adj>+и<cop><aor><p3><pl>/арт<adj>+и<cop><aor><p3><sg>/арт<n><nom>+и<cop><aor><p3><pl>/арт<n><nom>+и<cop><aor><p3><sg>/арт<adj><subst><nom>+и<cop><aor><p3><pl>/арт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әлегә/әлегә<adv>$
-^хәзергә/хәзер<n><dat>/хәзергә<adv>$
-^тулысынча/тулысынча<adj>/тулысынча<adv>/тулысынча<adj><advl>/тулысынча<adj><subst><nom>/тулысынча<adj>+и<cop><aor><p3><pl>/тулысынча<adj>+и<cop><aor><p3><sg>/тулысынча<adj><subst><nom>+и<cop><aor><p3><pl>/тулысынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тулысынча/тулысынча<adj>/тулысынча<adv>/тулысынча<adj><advl>/тулысынча<adj><subst><nom>/тулысынча<adj>+и<cop><aor><p3><pl>/тулысынча<adj>+и<cop><aor><p3><sg>/тулысынча<adj><subst><nom>+и<cop><aor><p3><pl>/тулысынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^күпләп/күпләп<adv>$
-^соңыннан/соң<n><px3sp><abl>/соң<adj><subst><px3sp><abl>/соңыннан<adv>/соң<n><px3sp><abl>+и<cop><aor><p3><pl>/соң<n><px3sp><abl>+и<cop><aor><p3><sg>/соң<adj><subst><px3sp><abl>+и<cop><aor><p3><pl>/соң<adj><subst><px3sp><abl>+и<cop><aor><p3><sg>$
-^соң/соң<adj>/соң<post>/соң<adv>/соң<n><attr>/соң<n><nom>/соң<adj><advl>/соң<adj><subst><nom>/соң<adj>+и<cop><aor><p3><pl>/соң<adj>+и<cop><aor><p3><sg>/соң<n><nom>+и<cop><aor><p3><pl>/соң<n><nom>+и<cop><aor><p3><sg>/соң<adj><subst><nom>+и<cop><aor><p3><pl>/соң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^соң/соң<adj>/соң<post>/соң<adv>/соң<n><attr>/соң<n><nom>/соң<adj><advl>/соң<adj><subst><nom>/соң<adj>+и<cop><aor><p3><pl>/соң<adj>+и<cop><aor><p3><sg>/соң<n><nom>+и<cop><aor><p3><pl>/соң<n><nom>+и<cop><aor><p3><sg>/соң<adj><subst><nom>+и<cop><aor><p3><pl>/соң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^соң/соң<adj>/соң<post>/соң<adv>/соң<n><attr>/соң<n><nom>/соң<adj><advl>/соң<adj><subst><nom>/соң<adj>+и<cop><aor><p3><pl>/соң<adj>+и<cop><aor><p3><sg>/соң<n><nom>+и<cop><aor><p3><pl>/соң<n><nom>+и<cop><aor><p3><sg>/соң<adj><subst><nom>+и<cop><aor><p3><pl>/соң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^акрын-акрын/акрын-акрын<adv>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^гел/гел<adv>/гел<n><attr>/гел<n><nom>/гел<n><nom>+и<cop><aor><p3><pl>/гел<n><nom>+и<cop><aor><p3><sg>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^һәрвакыт/һәрвакыт<adv>$
-^акрын-акрын/акрын-акрын<adv>$
-^акрын-акрын/акрын-акрын<adv>$
-^аннары/аннары<adv>$
-^аннары/аннары<adv>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^ник/ник<adv><itg>/ник<adv><itg>+и<cop><aor><p3><pl>/ник<adv><itg>+и<cop><aor><p3><sg>$
-^ник/ник<adv><itg>/ник<adv><itg>+и<cop><aor><p3><pl>/ник<adv><itg>+и<cop><aor><p3><sg>$
-^шунлыктан/шунлыктан<cnjadv>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^алдан/ал<adj><subst><abl>/алд<n><abl>/алдан<adv>/ал<adj><subst><abl>+и<cop><aor><p3><pl>/ал<adj><subst><abl>+и<cop><aor><p3><sg>/алд<n><abl>+и<cop><aor><p3><pl>/алд<n><abl>+и<cop><aor><p3><sg>$
-^борын/борын<adj>/борын<adv>/борын<n><attr>/борын<n><nom>/борын<adj><advl>/борын<adj><subst><nom>/борын<adj>+и<cop><aor><p3><pl>/борын<adj>+и<cop><aor><p3><sg>/борын<n><nom>+и<cop><aor><p3><pl>/борын<n><nom>+и<cop><aor><p3><sg>/борын<adj><subst><nom>+и<cop><aor><p3><pl>/борын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^борын/борын<adj>/борын<adv>/борын<n><attr>/борын<n><nom>/борын<adj><advl>/борын<adj><subst><nom>/борын<adj>+и<cop><aor><p3><pl>/борын<adj>+и<cop><aor><p3><sg>/борын<n><nom>+и<cop><aor><p3><pl>/борын<n><nom>+и<cop><aor><p3><sg>/борын<adj><subst><nom>+и<cop><aor><p3><pl>/борын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^борын/борын<adj>/борын<adv>/борын<n><attr>/борын<n><nom>/борын<adj><advl>/борын<adj><subst><nom>/борын<adj>+и<cop><aor><p3><pl>/борын<adj>+и<cop><aor><p3><sg>/борын<n><nom>+и<cop><aor><p3><pl>/борын<n><nom>+и<cop><aor><p3><sg>/борын<adj><subst><nom>+и<cop><aor><p3><pl>/борын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гүзәл/гүзәл<adj>/гүзәл<adj><advl>/гүзәл<adj><subst><nom>/гүзәл<adj>+и<cop><aor><p3><pl>/гүзәл<adj>+и<cop><aor><p3><sg>/гүзәл<adj><subst><nom>+и<cop><aor><p3><pl>/гүзәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гүзәл/гүзәл<adj>/гүзәл<adj><advl>/гүзәл<adj><subst><nom>/гүзәл<adj>+и<cop><aor><p3><pl>/гүзәл<adj>+и<cop><aor><p3><sg>/гүзәл<adj><subst><nom>+и<cop><aor><p3><pl>/гүзәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гүзәл/гүзәл<adj>/гүзәл<adj><advl>/гүзәл<adj><subst><nom>/гүзәл<adj>+и<cop><aor><p3><pl>/гүзәл<adj>+и<cop><aor><p3><sg>/гүзәл<adj><subst><nom>+и<cop><aor><p3><pl>/гүзәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якынча/якын<adj><subst><equ>/якынча<adj>/якынча<adv>/якынча<adj><advl>/якынча<adj><subst><nom>/якын<adj><subst><equ>+и<cop><aor><p3><pl>/якын<adj><subst><equ>+и<cop><aor><p3><sg>/якынча<adj>+и<cop><aor><p3><pl>/якынча<adj>+и<cop><aor><p3><sg>/якынча<adj><subst><nom>+и<cop><aor><p3><pl>/якынча<adj><subst><nom>+и<cop><aor><p3><sg>$
-^рәхәт/рәхәт<adj>/рәхәт<n><attr>/рәхәт<n><nom>/рәхәт<adj><advl>/рәхәт<adj><subst><nom>/рәхәт<adj>+и<cop><aor><p3><pl>/рәхәт<adj>+и<cop><aor><p3><sg>/рәхәт<n><nom>+и<cop><aor><p3><pl>/рәхәт<n><nom>+и<cop><aor><p3><sg>/рәхәт<adj><subst><nom>+и<cop><aor><p3><pl>/рәхәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^рәхәт/рәхәт<adj>/рәхәт<n><attr>/рәхәт<n><nom>/рәхәт<adj><advl>/рәхәт<adj><subst><nom>/рәхәт<adj>+и<cop><aor><p3><pl>/рәхәт<adj>+и<cop><aor><p3><sg>/рәхәт<n><nom>+и<cop><aor><p3><pl>/рәхәт<n><nom>+и<cop><aor><p3><sg>/рәхәт<adj><subst><nom>+и<cop><aor><p3><pl>/рәхәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^рәхәт/рәхәт<adj>/рәхәт<n><attr>/рәхәт<n><nom>/рәхәт<adj><advl>/рәхәт<adj><subst><nom>/рәхәт<adj>+и<cop><aor><p3><pl>/рәхәт<adj>+и<cop><aor><p3><sg>/рәхәт<n><nom>+и<cop><aor><p3><pl>/рәхәт<n><nom>+и<cop><aor><p3><sg>/рәхәт<adj><subst><nom>+и<cop><aor><p3><pl>/рәхәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәмле/тәмле<adj>/тәм<n>+лы<post>/тәмле<adj><advl>/тәмле<adj><subst><nom>/тәмле<adj>+и<cop><aor><p3><pl>/тәмле<adj>+и<cop><aor><p3><sg>/тәмле<adj><subst><nom>+и<cop><aor><p3><pl>/тәмле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәмле/тәмле<adj>/тәм<n>+лы<post>/тәмле<adj><advl>/тәмле<adj><subst><nom>/тәмле<adj>+и<cop><aor><p3><pl>/тәмле<adj>+и<cop><aor><p3><sg>/тәмле<adj><subst><nom>+и<cop><aor><p3><pl>/тәмле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәмле/тәмле<adj>/тәм<n>+лы<post>/тәмле<adj><advl>/тәмле<adj><subst><nom>/тәмле<adj>+и<cop><aor><p3><pl>/тәмле<adj>+и<cop><aor><p3><sg>/тәмле<adj><subst><nom>+и<cop><aor><p3><pl>/тәмле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хуш/хуш<ij>/хуш<adj>/хуш<adj><advl>/хуш<adj><subst><nom>/хуш<adj>+и<cop><aor><p3><pl>/хуш<adj>+и<cop><aor><p3><sg>/хуш<adj><subst><nom>+и<cop><aor><p3><pl>/хуш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хуш/хуш<ij>/хуш<adj>/хуш<adj><advl>/хуш<adj><subst><nom>/хуш<adj>+и<cop><aor><p3><pl>/хуш<adj>+и<cop><aor><p3><sg>/хуш<adj><subst><nom>+и<cop><aor><p3><pl>/хуш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хуш/хуш<ij>/хуш<adj>/хуш<adj><advl>/хуш<adj><subst><nom>/хуш<adj>+и<cop><aor><p3><pl>/хуш<adj>+и<cop><aor><p3><sg>/хуш<adj><subst><nom>+и<cop><aor><p3><pl>/хуш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^былтыр/былтыр<adv>$
-^туп-туры/туп-туры<adj>/туп-туры<adj><advl>/туп-туры<adj><subst><nom>/туп-туры<adj>+и<cop><aor><p3><pl>/туп-туры<adj>+и<cop><aor><p3><sg>/туп-туры<adj><subst><nom>+и<cop><aor><p3><pl>/туп-туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туп-туры/туп-туры<adj>/туп-туры<adj><advl>/туп-туры<adj><subst><nom>/туп-туры<adj>+и<cop><aor><p3><pl>/туп-туры<adj>+и<cop><aor><p3><sg>/туп-туры<adj><subst><nom>+и<cop><aor><p3><pl>/туп-туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туп-туры/туп-туры<adj>/туп-туры<adj><advl>/туп-туры<adj><subst><nom>/туп-туры<adj>+и<cop><aor><p3><pl>/туп-туры<adj>+и<cop><aor><p3><sg>/туп-туры<adj><subst><nom>+и<cop><aor><p3><pl>/туп-туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туп-туры/туп-туры<adj>/туп-туры<adj><advl>/туп-туры<adj><subst><nom>/туп-туры<adj>+и<cop><aor><p3><pl>/туп-туры<adj>+и<cop><aor><p3><sg>/туп-туры<adj><subst><nom>+и<cop><aor><p3><pl>/туп-туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туп-туры/туп-туры<adj>/туп-туры<adj><advl>/туп-туры<adj><subst><nom>/туп-туры<adj>+и<cop><aor><p3><pl>/туп-туры<adj>+и<cop><aor><p3><sg>/туп-туры<adj><subst><nom>+и<cop><aor><p3><pl>/туп-туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туры/туры<adj>/тур<n><px3sp><nom>/туры<adj><advl>/туры<adj><subst><nom>/туры<adj>+и<cop><aor><p3><pl>/туры<adj>+и<cop><aor><p3><sg>/тур<n><px3sp><nom>+и<cop><aor><p3><pl>/тур<n><px3sp><nom>+и<cop><aor><p3><sg>/туры<adj><subst><nom>+и<cop><aor><p3><pl>/туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туры/туры<adj>/тур<n><px3sp><nom>/туры<adj><advl>/туры<adj><subst><nom>/туры<adj>+и<cop><aor><p3><pl>/туры<adj>+и<cop><aor><p3><sg>/тур<n><px3sp><nom>+и<cop><aor><p3><pl>/тур<n><px3sp><nom>+и<cop><aor><p3><sg>/туры<adj><subst><nom>+и<cop><aor><p3><pl>/туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туры/туры<adj>/тур<n><px3sp><nom>/туры<adj><advl>/туры<adj><subst><nom>/туры<adj>+и<cop><aor><p3><pl>/туры<adj>+и<cop><aor><p3><sg>/тур<n><px3sp><nom>+и<cop><aor><p3><pl>/тур<n><px3sp><nom>+и<cop><aor><p3><sg>/туры<adj><subst><nom>+и<cop><aor><p3><pl>/туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туры/туры<adj>/тур<n><px3sp><nom>/туры<adj><advl>/туры<adj><subst><nom>/туры<adj>+и<cop><aor><p3><pl>/туры<adj>+и<cop><aor><p3><sg>/тур<n><px3sp><nom>+и<cop><aor><p3><pl>/тур<n><px3sp><nom>+и<cop><aor><p3><sg>/туры<adj><subst><nom>+и<cop><aor><p3><pl>/туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^туры/туры<adj>/тур<n><px3sp><nom>/туры<adj><advl>/туры<adj><subst><nom>/туры<adj>+и<cop><aor><p3><pl>/туры<adj>+и<cop><aor><p3><sg>/тур<n><px3sp><nom>+и<cop><aor><p3><pl>/тур<n><px3sp><nom>+и<cop><aor><p3><sg>/туры<adj><subst><nom>+и<cop><aor><p3><pl>/туры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^буш/буш<adj>/буш<adj><advl>/буш<adj><subst><nom>/буш<adj>+и<cop><aor><p3><pl>/буш<adj>+и<cop><aor><p3><sg>/буш<adj><subst><nom>+и<cop><aor><p3><pl>/буш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^алда/ал<adj><subst><loc>/алд<n><loc>/алда<adv>/алда<v><tv><imp><p2><sg>/ал<adj><subst><loc>+и<cop><aor><p3><pl>/ал<adj><subst><loc>+и<cop><aor><p3><sg>/алд<n><loc>+и<cop><aor><p3><pl>/алд<n><loc>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әүвәл/әүвәл<adj>/әүвәл<adv>/әүвәл<adj><advl>/әүвәл<adj><subst><nom>/әүвәл<adj>+и<cop><aor><p3><pl>/әүвәл<adj>+и<cop><aor><p3><sg>/әүвәл<adj><subst><nom>+и<cop><aor><p3><pl>/әүвәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртә/иртә<adj>/иртә<n><attr>/иртә<n><nom>/иртә<adj><advl>/иртә<adj><subst><nom>/иртә<adj>+и<cop><aor><p3><pl>/иртә<adj>+и<cop><aor><p3><sg>/иртә<n><nom>+и<cop><aor><p3><pl>/иртә<n><nom>+и<cop><aor><p3><sg>/иртә<adj><subst><nom>+и<cop><aor><p3><pl>/иртә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртә/иртә<adj>/иртә<n><attr>/иртә<n><nom>/иртә<adj><advl>/иртә<adj><subst><nom>/иртә<adj>+и<cop><aor><p3><pl>/иртә<adj>+и<cop><aor><p3><sg>/иртә<n><nom>+и<cop><aor><p3><pl>/иртә<n><nom>+и<cop><aor><p3><sg>/иртә<adj><subst><nom>+и<cop><aor><p3><pl>/иртә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртә/иртә<adj>/иртә<n><attr>/иртә<n><nom>/иртә<adj><advl>/иртә<adj><subst><nom>/иртә<adj>+и<cop><aor><p3><pl>/иртә<adj>+и<cop><aor><p3><sg>/иртә<n><nom>+и<cop><aor><p3><pl>/иртә<n><nom>+и<cop><aor><p3><sg>/иртә<adj><subst><nom>+и<cop><aor><p3><pl>/иртә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртә/иртә<adj>/иртә<n><attr>/иртә<n><nom>/иртә<adj><advl>/иртә<adj><subst><nom>/иртә<adj>+и<cop><aor><p3><pl>/иртә<adj>+и<cop><aor><p3><sg>/иртә<n><nom>+и<cop><aor><p3><pl>/иртә<n><nom>+и<cop><aor><p3><sg>/иртә<adj><subst><nom>+и<cop><aor><p3><pl>/иртә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртә/иртә<adj>/иртә<n><attr>/иртә<n><nom>/иртә<adj><advl>/иртә<adj><subst><nom>/иртә<adj>+и<cop><aor><p3><pl>/иртә<adj>+и<cop><aor><p3><sg>/иртә<n><nom>+и<cop><aor><p3><pl>/иртә<n><nom>+и<cop><aor><p3><sg>/иртә<adj><subst><nom>+и<cop><aor><p3><pl>/иртә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^элгәре/элгәре<adv>/элгәр<n><px3sp><nom>/элгәре<n><attr>/элгәре<n><nom>/элгәр<n><px3sp><nom>+и<cop><aor><p3><pl>/элгәр<n><px3sp><nom>+и<cop><aor><p3><sg>/элгәре<n><nom>+и<cop><aor><p3><pl>/элгәре<n><nom>+и<cop><aor><p3><sg>$
-^элгәре/элгәре<adv>/элгәр<n><px3sp><nom>/элгәре<n><attr>/элгәре<n><nom>/элгәр<n><px3sp><nom>+и<cop><aor><p3><pl>/элгәр<n><px3sp><nom>+и<cop><aor><p3><sg>/элгәре<n><nom>+и<cop><aor><p3><pl>/элгәре<n><nom>+и<cop><aor><p3><sg>$
-^элгәре/элгәре<adv>/элгәр<n><px3sp><nom>/элгәре<n><attr>/элгәре<n><nom>/элгәр<n><px3sp><nom>+и<cop><aor><p3><pl>/элгәр<n><px3sp><nom>+и<cop><aor><p3><sg>/элгәре<n><nom>+и<cop><aor><p3><pl>/элгәре<n><nom>+и<cop><aor><p3><sg>$
-^элгәре/элгәре<adv>/элгәр<n><px3sp><nom>/элгәре<n><attr>/элгәре<n><nom>/элгәр<n><px3sp><nom>+и<cop><aor><p3><pl>/элгәр<n><px3sp><nom>+и<cop><aor><p3><sg>/элгәре<n><nom>+и<cop><aor><p3><pl>/элгәре<n><nom>+и<cop><aor><p3><sg>$
-^элгәре/элгәре<adv>/элгәр<n><px3sp><nom>/элгәре<n><attr>/элгәре<n><nom>/элгәр<n><px3sp><nom>+и<cop><aor><p3><pl>/элгәр<n><px3sp><nom>+и<cop><aor><p3><sg>/элгәре<n><nom>+и<cop><aor><p3><pl>/элгәре<n><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аз/аз<adj>/аз<adj><advl>/аз<adj><subst><nom>/аз<v><tv><imp><p2><sg>/аз<v><iv><imp><p2><sg>/аз<adj>+и<cop><aor><p3><pl>/аз<adj>+и<cop><aor><p3><sg>/аз<adj><subst><nom>+и<cop><aor><p3><pl>/аз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^сирәк/сирәк<adj>/сирәк<adj><advl>/сирәк<adj><subst><nom>/сирәк<adj>+и<cop><aor><p3><pl>/сирәк<adj>+и<cop><aor><p3><sg>/сирәк<adj><subst><nom>+и<cop><aor><p3><pl>/сирәк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^сирәк/сирәк<adj>/сирәк<adj><advl>/сирәк<adj><subst><nom>/сирәк<adj>+и<cop><aor><p3><pl>/сирәк<adj>+и<cop><aor><p3><sg>/сирәк<adj><subst><nom>+и<cop><aor><p3><pl>/сирәк<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кискен/кискен<adj>/кискен<n><attr>/кискен<n><nom>/кискен<adj><advl>/кискен<adj><subst><nom>/кискен<adj>+и<cop><aor><p3><pl>/кискен<adj>+и<cop><aor><p3><sg>/кискен<n><nom>+и<cop><aor><p3><pl>/кискен<n><nom>+и<cop><aor><p3><sg>/кискен<adj><subst><nom>+и<cop><aor><p3><pl>/кискен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кырт/кырт<ideo>/кырт<adv>$
-^тәвәккәл/тәвәккәл<adj>/тәвәккәл<adj><advl>/тәвәккәл<adj><subst><nom>/тәвәккәл<adj>+и<cop><aor><p3><pl>/тәвәккәл<adj>+и<cop><aor><p3><sg>/тәвәккәл<adj><subst><nom>+и<cop><aor><p3><pl>/тәвәккәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тәвәккәл/тәвәккәл<adj>/тәвәккәл<adj><advl>/тәвәккәл<adj><subst><nom>/тәвәккәл<adj>+и<cop><aor><p3><pl>/тәвәккәл<adj>+и<cop><aor><p3><sg>/тәвәккәл<adj><subst><nom>+и<cop><aor><p3><pl>/тәвәккәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тигез/ти<v><tv><imp><p2><frm><pl>/ти<v><tv><imp><p2><frm><sg>/ти<v><tv><imp><p2><pl>/ти<v><iv><imp><p2><frm><pl>/ти<v><iv><imp><p2><frm><sg>/ти<v><iv><imp><p2><pl>/тигез<adj>/тигез<adj><advl>/тигез<adj><subst><nom>/тигез<adj>+и<cop><aor><p3><pl>/тигез<adj>+и<cop><aor><p3><sg>/тигез<adj><subst><nom>+и<cop><aor><p3><pl>/тигез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тигез/ти<v><tv><imp><p2><frm><pl>/ти<v><tv><imp><p2><frm><sg>/ти<v><tv><imp><p2><pl>/ти<v><iv><imp><p2><frm><pl>/ти<v><iv><imp><p2><frm><sg>/ти<v><iv><imp><p2><pl>/тигез<adj>/тигез<adj><advl>/тигез<adj><subst><nom>/тигез<adj>+и<cop><aor><p3><pl>/тигез<adj>+и<cop><aor><p3><sg>/тигез<adj><subst><nom>+и<cop><aor><p3><pl>/тигез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тигез/ти<v><tv><imp><p2><frm><pl>/ти<v><tv><imp><p2><frm><sg>/ти<v><tv><imp><p2><pl>/ти<v><iv><imp><p2><frm><pl>/ти<v><iv><imp><p2><frm><sg>/ти<v><iv><imp><p2><pl>/тигез<adj>/тигез<adj><advl>/тигез<adj><subst><nom>/тигез<adj>+и<cop><aor><p3><pl>/тигез<adj>+и<cop><aor><p3><sg>/тигез<adj><subst><nom>+и<cop><aor><p3><pl>/тигез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тигез/ти<v><tv><imp><p2><frm><pl>/ти<v><tv><imp><p2><frm><sg>/ти<v><tv><imp><p2><pl>/ти<v><iv><imp><p2><frm><pl>/ти<v><iv><imp><p2><frm><sg>/ти<v><iv><imp><p2><pl>/тигез<adj>/тигез<adj><advl>/тигез<adj><subst><nom>/тигез<adj>+и<cop><aor><p3><pl>/тигез<adj>+и<cop><aor><p3><sg>/тигез<adj><subst><nom>+и<cop><aor><p3><pl>/тигез<adj><subst><nom>+и<cop><aor><p3><sg>$
-^янәшә/янәшә<adj>/янәшә<n><attr>/янәшә<n><nom>/янәшә<adj><advl>/янәшә<adj><subst><nom>/янәшә<adj>+и<cop><aor><p3><pl>/янәшә<adj>+и<cop><aor><p3><sg>/янәшә<n><nom>+и<cop><aor><p3><pl>/янәшә<n><nom>+и<cop><aor><p3><sg>/янәшә<adj><subst><nom>+и<cop><aor><p3><pl>/янәшә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^янәшә/янәшә<adj>/янәшә<n><attr>/янәшә<n><nom>/янәшә<adj><advl>/янәшә<adj><subst><nom>/янәшә<adj>+и<cop><aor><p3><pl>/янәшә<adj>+и<cop><aor><p3><sg>/янәшә<n><nom>+и<cop><aor><p3><pl>/янәшә<n><nom>+и<cop><aor><p3><sg>/янәшә<adj><subst><nom>+и<cop><aor><p3><pl>/янәшә<adj><subst><nom>+и<cop><aor><p3><sg>$
-^азат/азат<adj>/азат<adj><advl>/азат<adj><subst><nom>/азат<adj>+и<cop><aor><p3><pl>/азат<adj>+и<cop><aor><p3><sg>/азат<adj><subst><nom>+и<cop><aor><p3><pl>/азат<adj><subst><nom>+и<cop><aor><p3><sg>$
-^азат/азат<adj>/азат<adj><advl>/азат<adj><subst><nom>/азат<adj>+и<cop><aor><p3><pl>/азат<adj>+и<cop><aor><p3><sg>/азат<adj><subst><nom>+и<cop><aor><p3><pl>/азат<adj><subst><nom>+и<cop><aor><p3><sg>$
-^азат/азат<adj>/азат<adj><advl>/азат<adj><subst><nom>/азат<adj>+и<cop><aor><p3><pl>/азат<adj>+и<cop><aor><p3><sg>/азат<adj><subst><nom>+и<cop><aor><p3><pl>/азат<adj><subst><nom>+и<cop><aor><p3><sg>$
-^азат/азат<adj>/азат<adj><advl>/азат<adj><subst><nom>/азат<adj>+и<cop><aor><p3><pl>/азат<adj>+и<cop><aor><p3><sg>/азат<adj><subst><nom>+и<cop><aor><p3><pl>/азат<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иркен/иркен<adj>/ирк<n><px3sp><acc>/ирк<adj><subst><px3sp><acc>/иркен<n><attr>/иркен<n><nom>/иркен<adj><advl>/иркен<adj><subst><nom>/иркен<adj>+и<cop><aor><p3><pl>/иркен<adj>+и<cop><aor><p3><sg>/иркен<n><nom>+и<cop><aor><p3><pl>/иркен<n><nom>+и<cop><aor><p3><sg>/иркен<adj><subst><nom>+и<cop><aor><p3><pl>/иркен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иркен/иркен<adj>/ирк<n><px3sp><acc>/ирк<adj><subst><px3sp><acc>/иркен<n><attr>/иркен<n><nom>/иркен<adj><advl>/иркен<adj><subst><nom>/иркен<adj>+и<cop><aor><p3><pl>/иркен<adj>+и<cop><aor><p3><sg>/иркен<n><nom>+и<cop><aor><p3><pl>/иркен<n><nom>+и<cop><aor><p3><sg>/иркен<adj><subst><nom>+и<cop><aor><p3><pl>/иркен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иркен/иркен<adj>/ирк<n><px3sp><acc>/ирк<adj><subst><px3sp><acc>/иркен<n><attr>/иркен<n><nom>/иркен<adj><advl>/иркен<adj><subst><nom>/иркен<adj>+и<cop><aor><p3><pl>/иркен<adj>+и<cop><aor><p3><sg>/иркен<n><nom>+и<cop><aor><p3><pl>/иркен<n><nom>+и<cop><aor><p3><sg>/иркен<adj><subst><nom>+и<cop><aor><p3><pl>/иркен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иркен/иркен<adj>/ирк<n><px3sp><acc>/ирк<adj><subst><px3sp><acc>/иркен<n><attr>/иркен<n><nom>/иркен<adj><advl>/иркен<adj><subst><nom>/иркен<adj>+и<cop><aor><p3><pl>/иркен<adj>+и<cop><aor><p3><sg>/иркен<n><nom>+и<cop><aor><p3><pl>/иркен<n><nom>+и<cop><aor><p3><sg>/иркен<adj><subst><nom>+и<cop><aor><p3><pl>/иркен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бүген/бүген<adv>$
-^бүген/бүген<adv>$
-^бүген/бүген<adv>$
-^әле/әле<cnjcoo>/әле<emph>/әле<adv>$
-^әле/әле<cnjcoo>/әле<emph>/әле<adv>$
-^хәзер/хәзер<adv>/хәзер<n><attr>/хәзер<n><nom>/хәзер<n><nom>+и<cop><aor><p3><pl>/хәзер<n><nom>+и<cop><aor><p3><sg>$
-^хәзер/хәзер<adv>/хәзер<n><attr>/хәзер<n><nom>/хәзер<n><nom>+и<cop><aor><p3><pl>/хәзер<n><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^усал/усал<adj>/усал<n><attr>/усал<n><nom>/усал<adj><advl>/усал<adj><subst><nom>/усал<adj>+и<cop><aor><p3><pl>/усал<adj>+и<cop><aor><p3><sg>/усал<n><nom>+и<cop><aor><p3><pl>/усал<n><nom>+и<cop><aor><p3><sg>/усал<adj><subst><nom>+и<cop><aor><p3><pl>/усал<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артта/арт<n><loc>/арт<adj><subst><loc>/артта<adj>/артта<adj><advl>/артта<adj><subst><nom>/арт<n><loc>+и<cop><aor><p3><pl>/арт<n><loc>+и<cop><aor><p3><sg>/арт<adj><subst><loc>+и<cop><aor><p3><pl>/арт<adj><subst><loc>+и<cop><aor><p3><sg>/артта<adj>+и<cop><aor><p3><pl>/артта<adj>+и<cop><aor><p3><sg>/артта<adj><subst><nom>+и<cop><aor><p3><pl>/артта<adj><subst><nom>+и<cop><aor><p3><sg>$
-^артта/арт<n><loc>/арт<adj><subst><loc>/артта<adj>/артта<adj><advl>/артта<adj><subst><nom>/арт<n><loc>+и<cop><aor><p3><pl>/арт<n><loc>+и<cop><aor><p3><sg>/арт<adj><subst><loc>+и<cop><aor><p3><pl>/арт<adj><subst><loc>+и<cop><aor><p3><sg>/артта<adj>+и<cop><aor><p3><pl>/артта<adj>+и<cop><aor><p3><sg>/артта<adj><subst><nom>+и<cop><aor><p3><pl>/артта<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^каты/каты<adj>/кат<n><px3sp><nom>/каты<n><attr>/каты<n><nom>/каты<adj><advl>/каты<adj><subst><nom>/каты<adj>+и<cop><aor><p3><pl>/каты<adj>+и<cop><aor><p3><sg>/кат<n><px3sp><nom>+и<cop><aor><p3><pl>/кат<n><px3sp><nom>+и<cop><aor><p3><sg>/каты<n><nom>+и<cop><aor><p3><pl>/каты<n><nom>+и<cop><aor><p3><sg>/каты<adj><subst><nom>+и<cop><aor><p3><pl>/каты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^көчле/көчле<adj>/көч<n>+лы<post>/көчле<adj><advl>/көчле<adj><subst><nom>/көчле<adj>+и<cop><aor><p3><pl>/көчле<adj>+и<cop><aor><p3><sg>/көчле<adj><subst><nom>+и<cop><aor><p3><pl>/көчле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^көчле/көчле<adj>/көч<n>+лы<post>/көчле<adj><advl>/көчле<adj><subst><nom>/көчле<adj>+и<cop><aor><p3><pl>/көчле<adj>+и<cop><aor><p3><sg>/көчле<adj><subst><nom>+и<cop><aor><p3><pl>/көчле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нык/нык<adj>/нык<adj><advl>/нык<adj><subst><nom>/нык<adj>+и<cop><aor><p3><pl>/нык<adj>+и<cop><aor><p3><sg>/нык<adj><subst><nom>+и<cop><aor><p3><pl>/нык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яман/яман<adj>/яман<adj><advl>/яман<adj><subst><nom>/яман<adj>+и<cop><aor><p3><pl>/яман<adj>+и<cop><aor><p3><sg>/яман<adj><subst><nom>+и<cop><aor><p3><pl>/яман<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яман/яман<adj>/яман<adj><advl>/яман<adj><subst><nom>/яман<adj>+и<cop><aor><p3><pl>/яман<adj>+и<cop><aor><p3><sg>/яман<adj><subst><nom>+и<cop><aor><p3><pl>/яман<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиз/тиз<adj>/тиз<adj><advl>/тиз<adj><subst><nom>/тиз<adj>+и<cop><aor><p3><pl>/тиз<adj>+и<cop><aor><p3><sg>/тиз<adj><subst><nom>+и<cop><aor><p3><pl>/тиз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тиздән/тиз<adj><subst><abl>/тиздән<adv>/тиз<adj><subst><abl>+и<cop><aor><p3><pl>/тиз<adj><subst><abl>+и<cop><aor><p3><sg>$
-^тиздән/тиз<adj><subst><abl>/тиздән<adv>/тиз<adj><subst><abl>+и<cop><aor><p3><pl>/тиз<adj><subst><abl>+и<cop><aor><p3><sg>$
-^тиздән/тиз<adj><subst><abl>/тиздән<adv>/тиз<adj><subst><abl>+и<cop><aor><p3><pl>/тиз<adj><subst><abl>+и<cop><aor><p3><sg>$
-^тиздән/тиз<adj><subst><abl>/тиздән<adv>/тиз<adj><subst><abl>+и<cop><aor><p3><pl>/тиз<adj><subst><abl>+и<cop><aor><p3><sg>$
-^бигрәк/бигрәк<adv>$
-^бигрәк/бигрәк<adv>$
-^бигрәк/бигрәк<adv>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^бик/бик<adv>/бик<n><attr>/бик<n><nom>/бик<n><nom>+и<cop><aor><p3><pl>/бик<n><nom>+и<cop><aor><p3><sg>$
-^баштан/баш<n><abl>/баш<adj><subst><abl>/баштан<adv>/баш<n><abl>+и<cop><aor><p3><pl>/баш<n><abl>+и<cop><aor><p3><sg>/баш<adj><subst><abl>+и<cop><aor><p3><pl>/баш<adj><subst><abl>+и<cop><aor><p3><sg>$
-^баштан/баш<n><abl>/баш<adj><subst><abl>/баштан<adv>/баш<n><abl>+и<cop><aor><p3><pl>/баш<n><abl>+и<cop><aor><p3><sg>/баш<adj><subst><abl>+и<cop><aor><p3><pl>/баш<adj><subst><abl>+и<cop><aor><p3><sg>$
-^кабат/кабат<adv>$
-^кабат/кабат<adv>$
-^кабат/кабат<adv>$
-^кабат/кабат<adv>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^тагын/тагын<adv>/таг<n><px3sp><acc>/так<adj><subst><px3sp><acc>$
-^янәдән/янәдән<adv>$
-^янәдән/янәдән<adv>$
-^янәдән/янәдән<adv>$
-^янәдән/янәдән<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^тәмам/тәмам<adj>/тәмам<phrase>/тәмам<adv>/тәмам<adj>+и<cop><aor><p3><pl>/тәмам<adj>+и<cop><aor><p3><sg>$
-^тәмам/тәмам<adj>/тәмам<phrase>/тәмам<adv>/тәмам<adj>+и<cop><aor><p3><pl>/тәмам<adj>+и<cop><aor><p3><sg>$
-^тәмам/тәмам<adj>/тәмам<phrase>/тәмам<adv>/тәмам<adj>+и<cop><aor><p3><pl>/тәмам<adj>+и<cop><aor><p3><sg>$
-^тәмам/тәмам<adj>/тәмам<phrase>/тәмам<adv>/тәмам<adj>+и<cop><aor><p3><pl>/тәмам<adj>+и<cop><aor><p3><sg>$
-^бергәләп/бергәләп<adj>/бергәләп<adv>/бергәләп<adj><advl>/бергәләп<adj><subst><nom>/бергәләп<adj>+и<cop><aor><p3><pl>/бергәләп<adj>+и<cop><aor><p3><sg>/бергәләп<adj><subst><nom>+и<cop><aor><p3><pl>/бергәләп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^һич/һич<adv>$
-^һич/һич<adv>$
-^һич/һич<adv>$
-^һич/һич<adv>$
-^һич/һич<adv>$
-^махсус/махсус<adj>/махсус<adj><advl>/махсус<adj><subst><nom>/махсус<adj>+и<cop><aor><p3><pl>/махсус<adj>+и<cop><aor><p3><sg>/махсус<adj><subst><nom>+и<cop><aor><p3><pl>/махсус<adj><subst><nom>+и<cop><aor><p3><sg>$
-^махсус/махсус<adj>/махсус<adj><advl>/махсус<adj><subst><nom>/махсус<adj>+и<cop><aor><p3><pl>/махсус<adj>+и<cop><aor><p3><sg>/махсус<adj><subst><nom>+и<cop><aor><p3><pl>/махсус<adj><subst><nom>+и<cop><aor><p3><sg>$
-^махсус/махсус<adj>/махсус<adj><advl>/махсус<adj><subst><nom>/махсус<adj>+и<cop><aor><p3><pl>/махсус<adj>+и<cop><aor><p3><sg>/махсус<adj><subst><nom>+и<cop><aor><p3><pl>/махсус<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыныч/тыныч<adj>/тыныч<adj><advl>/тыныч<adj><subst><nom>/тыныч<adj>+и<cop><aor><p3><pl>/тыныч<adj>+и<cop><aor><p3><sg>/тыныч<adj><subst><nom>+и<cop><aor><p3><pl>/тыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уң/уң<adj>/уң<adj><advl>/уң<adj><subst><nom>/уң<v><tv><imp><p2><sg>/уң<v><iv><imp><p2><sg>/уң<adj>+и<cop><aor><p3><pl>/уң<adj>+и<cop><aor><p3><sg>/уң<adj><subst><nom>+и<cop><aor><p3><pl>/уң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гадел/гадел<adj>/гадел<adj><advl>/гадел<adj><subst><nom>/гадел<adj>+и<cop><aor><p3><pl>/гадел<adj>+и<cop><aor><p3><sg>/гадел<adj><subst><nom>+и<cop><aor><p3><pl>/гадел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куркыныч/куркыныч<adj>/куркыныч<n><attr>/куркыныч<n><nom>/куркыныч<adj><advl>/куркыныч<adj><subst><nom>/куркыныч<adj>+и<cop><aor><p3><pl>/куркыныч<adj>+и<cop><aor><p3><sg>/куркыныч<n><nom>+и<cop><aor><p3><pl>/куркыныч<n><nom>+и<cop><aor><p3><sg>/куркыныч<adj><subst><nom>+и<cop><aor><p3><pl>/куркыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^куркыныч/куркыныч<adj>/куркыныч<n><attr>/куркыныч<n><nom>/куркыныч<adj><advl>/куркыныч<adj><subst><nom>/куркыныч<adj>+и<cop><aor><p3><pl>/куркыныч<adj>+и<cop><aor><p3><sg>/куркыныч<n><nom>+и<cop><aor><p3><pl>/куркыныч<n><nom>+и<cop><aor><p3><sg>/куркыныч<adj><subst><nom>+и<cop><aor><p3><pl>/куркыныч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^коры/коры<adj>/коры<n><attr>/коры<n><nom>/коры<adj><advl>/коры<adj><subst><nom>/коры<v><tv><imp><p2><sg>/коры<v><iv><imp><p2><sg>/коры<adj>+и<cop><aor><p3><pl>/коры<adj>+и<cop><aor><p3><sg>/коры<n><nom>+и<cop><aor><p3><pl>/коры<n><nom>+и<cop><aor><p3><sg>/коры<adj><subst><nom>+и<cop><aor><p3><pl>/коры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бире/бире<adv>$
-^бире/бире<adv>$
-^монда/бу<prn><dem><loc>/монда<adj>/монда<adj><advl>/монда<adj><subst><nom>/бу<prn><dem><loc>+и<cop><aor><p3><pl>/бу<prn><dem><loc>+и<cop><aor><p3><sg>/монда<adj>+и<cop><aor><p3><pl>/монда<adj>+и<cop><aor><p3><sg>/монда<adj><subst><nom>+и<cop><aor><p3><pl>/монда<adj><subst><nom>+и<cop><aor><p3><sg>$
-^монда/бу<prn><dem><loc>/монда<adj>/монда<adj><advl>/монда<adj><subst><nom>/бу<prn><dem><loc>+и<cop><aor><p3><pl>/бу<prn><dem><loc>+и<cop><aor><p3><sg>/монда<adj>+и<cop><aor><p3><pl>/монда<adj>+и<cop><aor><p3><sg>/монда<adj><subst><nom>+и<cop><aor><p3><pl>/монда<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яшерен/яшерен<adj>/яшерен<n><attr>/яшерен<n><nom>/яшерен<adj><advl>/яшерен<adj><subst><nom>/яшерен<v><tv><imp><p2><sg>/яшерен<v><iv><imp><p2><sg>/яшерен<adj>+и<cop><aor><p3><pl>/яшерен<adj>+и<cop><aor><p3><sg>/яшерен<n><nom>+и<cop><aor><p3><pl>/яшерен<n><nom>+и<cop><aor><p3><sg>/яшерен<adj><subst><nom>+и<cop><aor><p3><pl>/яшерен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^болай/бу<prn><dem><adv>/бу<prn><dem><adv>+и<cop><aor><p3><pl>/бу<prn><dem><adv>+и<cop><aor><p3><sg>$
-^болай/бу<prn><dem><adv>/бу<prn><dem><adv>+и<cop><aor><p3><pl>/бу<prn><dem><adv>+и<cop><aor><p3><sg>$
-^болай/бу<prn><dem><adv>/бу<prn><dem><adv>+и<cop><aor><p3><pl>/бу<prn><dem><adv>+и<cop><aor><p3><sg>$
-^болай/бу<prn><dem><adv>/бу<prn><dem><adv>+и<cop><aor><p3><pl>/бу<prn><dem><adv>+и<cop><aor><p3><sg>$
-^болай/бу<prn><dem><adv>/бу<prn><dem><adv>+и<cop><aor><p3><pl>/бу<prn><dem><adv>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шул/шул<adj>/шул<mod_ass>/шул<adj><advl>/шул<det><dem>/шул<adj><subst><nom>/шул<prn><dem><nom>/шул<adj>+и<cop><aor><p3><pl>/шул<adj>+и<cop><aor><p3><sg>/шул<adj><subst><nom>+и<cop><aor><p3><pl>/шул<adj><subst><nom>+и<cop><aor><p3><sg>/шул<prn><dem><nom>+и<cop><aor><p3><pl>/шул<prn><dem><nom>+и<cop><aor><p3><sg>$
-^шулай/шул<prn><dem><adv>/шул<prn><dem><adv>+и<cop><aor><p3><pl>/шул<prn><dem><adv>+и<cop><aor><p3><sg>$
-^шулай/шул<prn><dem><adv>/шул<prn><dem><adv>+и<cop><aor><p3><pl>/шул<prn><dem><adv>+и<cop><aor><p3><sg>$
-^шулай/шул<prn><dem><adv>/шул<prn><dem><adv>+и<cop><aor><p3><pl>/шул<prn><dem><adv>+и<cop><aor><p3><sg>$
-^шулай/шул<prn><dem><adv>/шул<prn><dem><adv>+и<cop><aor><p3><pl>/шул<prn><dem><adv>+и<cop><aor><p3><sg>$
-^шулай/шул<prn><dem><adv>/шул<prn><dem><adv>+и<cop><aor><p3><pl>/шул<prn><dem><adv>+и<cop><aor><p3><sg>$
-^теге/теге<adj>/теге<adj><advl>/теге<det><dem>/теге<adj><subst><nom>/теге<prn><dem><nom>/теге<adj>+и<cop><aor><p3><pl>/теге<adj>+и<cop><aor><p3><sg>/теге<adj><subst><nom>+и<cop><aor><p3><pl>/теге<adj><subst><nom>+и<cop><aor><p3><sg>/теге<prn><dem><nom>+и<cop><aor><p3><pl>/теге<prn><dem><nom>+и<cop><aor><p3><sg>$
-^теге/теге<adj>/теге<adj><advl>/теге<det><dem>/теге<adj><subst><nom>/теге<prn><dem><nom>/теге<adj>+и<cop><aor><p3><pl>/теге<adj>+и<cop><aor><p3><sg>/теге<adj><subst><nom>+и<cop><aor><p3><pl>/теге<adj><subst><nom>+и<cop><aor><p3><sg>/теге<prn><dem><nom>+и<cop><aor><p3><pl>/теге<prn><dem><nom>+и<cop><aor><p3><sg>$
-^теге/теге<adj>/теге<adj><advl>/теге<det><dem>/теге<adj><subst><nom>/теге<prn><dem><nom>/теге<adj>+и<cop><aor><p3><pl>/теге<adj>+и<cop><aor><p3><sg>/теге<adj><subst><nom>+и<cop><aor><p3><pl>/теге<adj><subst><nom>+и<cop><aor><p3><sg>/теге<prn><dem><nom>+и<cop><aor><p3><pl>/теге<prn><dem><nom>+и<cop><aor><p3><sg>$
-^караңгы/караңгы<adj>/караңгы<adj><advl>/караңгы<adj><subst><nom>/караңгы<adj>+и<cop><aor><p3><pl>/караңгы<adj>+и<cop><aor><p3><sg>/караңгы<adj><subst><nom>+и<cop><aor><p3><pl>/караңгы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хәзер/хәзер<adv>/хәзер<n><attr>/хәзер<n><nom>/хәзер<n><nom>+и<cop><aor><p3><pl>/хәзер<n><nom>+и<cop><aor><p3><sg>$
-^сабыр/сабыр<adj>/сабыр<adj><advl>/сабыр<adj><subst><nom>/сабыр<adj>+и<cop><aor><p3><pl>/сабыр<adj>+и<cop><aor><p3><sg>/сабыр<adj><subst><nom>+и<cop><aor><p3><pl>/сабыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тар/тар<adj>/тар<adj><advl>/тар<adj><subst><nom>/тар<adj>+и<cop><aor><p3><pl>/тар<adj>+и<cop><aor><p3><sg>/тар<adj><subst><nom>+и<cop><aor><p3><pl>/тар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тар/тар<adj>/тар<adj><advl>/тар<adj><subst><nom>/тар<adj>+и<cop><aor><p3><pl>/тар<adj>+и<cop><aor><p3><sg>/тар<adj><subst><nom>+и<cop><aor><p3><pl>/тар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тар/тар<adj>/тар<adj><advl>/тар<adj><subst><nom>/тар<adj>+и<cop><aor><p3><pl>/тар<adj>+и<cop><aor><p3><sg>/тар<adj><subst><nom>+и<cop><aor><p3><pl>/тар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тар/тар<adj>/тар<adj><advl>/тар<adj><subst><nom>/тар<adj>+и<cop><aor><p3><pl>/тар<adj>+и<cop><aor><p3><sg>/тар<adj><subst><nom>+и<cop><aor><p3><pl>/тар<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тыгыз/тыгыз<adj>/тыгыз<adj><advl>/тыгыз<adj><subst><nom>/тыгыз<adj>+и<cop><aor><p3><pl>/тыгыз<adj>+и<cop><aor><p3><sg>/тыгыз<adj><subst><nom>+и<cop><aor><p3><pl>/тыгыз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әкрен/әкрен<adj>/әкрен<adj><advl>/әкрен<adj><subst><nom>/әкрен<adj>+и<cop><aor><p3><pl>/әкрен<adj>+и<cop><aor><p3><sg>/әкрен<adj><subst><nom>+и<cop><aor><p3><pl>/әкрен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^тын/тын<adj>/тын<n><attr>/тын<n><nom>/тын<adj><advl>/тын<adj><subst><nom>/тын<v><tv><imp><p2><sg>/тын<v><iv><imp><p2><sg>/тын<adj>+и<cop><aor><p3><pl>/тын<adj>+и<cop><aor><p3><sg>/тын<n><nom>+и<cop><aor><p3><pl>/тын<n><nom>+и<cop><aor><p3><sg>/тын<adj><subst><nom>+и<cop><aor><p3><pl>/тын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бары гына/бар<n><px3sp><nom>+гына<postadv>/бар<adj><subst><px3sp><nom>+гына<postadv>/бар<n><px3sp><nom>+и<cop><aor><p3><pl>+гына<postadv>/бар<n><px3sp><nom>+и<cop><aor><p3><sg>+гына<postadv>/бар<adj><subst><px3sp><nom>+и<cop><aor><p3><pl>+гына<postadv>/бар<adj><subst><px3sp><nom>+и<cop><aor><p3><sg>+гына<postadv>$
-
-^гына/гына<postadv>$
-^гына/гына<postadv>$
-^тик/тик<cnjcoo>/тик<adv>$
-^тик/тик<cnjcoo>/тик<adv>$
-^тик/тик<cnjcoo>/тик<adv>$
-^тик/тик<cnjcoo>/тик<adv>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^дөрес/дөрес<ij>/дөрес<adj>/дөрес<adj><advl>/дөрес<adj><subst><nom>/дөрес<adj>+и<cop><aor><p3><pl>/дөрес<adj>+и<cop><aor><p3><sg>/дөрес<adj><subst><nom>+и<cop><aor><p3><pl>/дөрес<adj><subst><nom>+и<cop><aor><p3><sg>$
-^нәкъ/нәкъ<adv>$
-^нәкъ/нәкъ<adv>$
-^нәкъ/нәкъ<adv>$
-^төгәл/төгәл<adj>/төгәл<adj><advl>/төгәл<adj><subst><nom>/төгәл<adj>+и<cop><aor><p3><pl>/төгәл<adj>+и<cop><aor><p3><sg>/төгәл<adj><subst><nom>+и<cop><aor><p3><pl>/төгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^төгәл/төгәл<adj>/төгәл<adj><advl>/төгәл<adj><subst><nom>/төгәл<adj>+и<cop><aor><p3><pl>/төгәл<adj>+и<cop><aor><p3><sg>/төгәл<adj><subst><nom>+и<cop><aor><p3><pl>/төгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^төгәл/төгәл<adj>/төгәл<adj><advl>/төгәл<adj><subst><nom>/төгәл<adj>+и<cop><aor><p3><pl>/төгәл<adj>+и<cop><aor><p3><sg>/төгәл<adj><subst><nom>+и<cop><aor><p3><pl>/төгәл<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хәвефле/хәвефле<adj>/хәвеф<n>+лы<post>/хәвефле<adj><advl>/хәвефле<adj><subst><nom>/хәвефле<adj>+и<cop><aor><p3><pl>/хәвефле<adj>+и<cop><aor><p3><sg>/хәвефле<adj><subst><nom>+и<cop><aor><p3><pl>/хәвефле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^хәвефле/хәвефле<adj>/хәвеф<n>+лы<post>/хәвефле<adj><advl>/хәвефле<adj><subst><nom>/хәвефле<adj>+и<cop><aor><p3><pl>/хәвефле<adj>+и<cop><aor><p3><sg>/хәвефле<adj><subst><nom>+и<cop><aor><p3><pl>/хәвефле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әрле-бирле/әрле-бирле<adv>$
-^әрле-бирле/әрле-бирле<adv>$
-^биредә/биредә<adv>$
-^монда/бу<prn><dem><loc>/монда<adj>/монда<adj><advl>/монда<adj><subst><nom>/бу<prn><dem><loc>+и<cop><aor><p3><pl>/бу<prn><dem><loc>+и<cop><aor><p3><sg>/монда<adj>+и<cop><aor><p3><pl>/монда<adj>+и<cop><aor><p3><sg>/монда<adj><subst><nom>+и<cop><aor><p3><pl>/монда<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^авыр/ау<v><iv><gpr_fut>/авыр<adj>/авыр<adj><advl>/ау<v><iv><gpr_fut><subst><nom>/ау<v><iv><fut><p3><sg>/авыр<adj><subst><nom>/авыр<v><tv><imp><p2><sg>/авыр<v><iv><imp><p2><sg>/авыр<adj>+и<cop><aor><p3><pl>/авыр<adj>+и<cop><aor><p3><sg>/авыр<adj><subst><nom>+и<cop><aor><p3><pl>/авыр<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кыен/кыен<adj>/кыен<adj><advl>/кыен<adj><subst><nom>/кыен<adj>+и<cop><aor><p3><pl>/кыен<adj>+и<cop><aor><p3><sg>/кыен<adj><subst><nom>+и<cop><aor><p3><pl>/кыен<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гаҗәеп/гаҗәеп<adj>/гаҗәеп<adv>/гаҗәеп<adj><advl>/гаҗәеп<adj><subst><nom>/гаҗәеп<adj>+и<cop><aor><p3><pl>/гаҗәеп<adj>+и<cop><aor><p3><sg>/гаҗәеп<adj><subst><nom>+и<cop><aor><p3><pl>/гаҗәеп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гаҗәп/гаҗәп<adj>/гаҗәп<adj><advl>/гаҗәп<adj><subst><nom>/гаҗәп<adj>+и<cop><aor><p3><pl>/гаҗәп<adj>+и<cop><aor><p3><sg>/гаҗәп<adj><subst><nom>+и<cop><aor><p3><pl>/гаҗәп<adj><subst><nom>+и<cop><aor><p3><sg>$
-^искитәрлек/искитәрлек<adj>/искитәрлек<adj><advl>/искитәрлек<adj><subst><nom>/искитәрлек<adj>+и<cop><aor><p3><pl>/искитәрлек<adj>+и<cop><aor><p3><sg>/искитәрлек<adj><subst><nom>+и<cop><aor><p3><pl>/искитәрлек<adj><subst><nom>+и<cop><aor><p3><sg>$
-^искиткеч/искиткеч<adj>/искиткеч<adj><advl>/искиткеч<adj><subst><nom>/искиткеч<adj>+и<cop><aor><p3><pl>/искиткеч<adj>+и<cop><aor><p3><sg>/искиткеч<adj><subst><nom>+и<cop><aor><p3><pl>/искиткеч<adj><subst><nom>+и<cop><aor><p3><sg>$
-^искитмәле/искитмәле<adj>/искитмәле<adj><advl>/искитмәле<adj><subst><nom>/искитмәле<adj>+и<cop><aor><p3><pl>/искитмәле<adj>+и<cop><aor><p3><sg>/искитмәле<adj><subst><nom>+и<cop><aor><p3><pl>/искитмәле<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кулай/кулай<adj>/кулай<adj><advl>/кулай<adj><subst><nom>/кулай<adj>+и<cop><aor><p3><pl>/кулай<adj>+и<cop><aor><p3><sg>/кулай<adj><subst><nom>+и<cop><aor><p3><pl>/кулай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кулай/кулай<adj>/кулай<adj><advl>/кулай<adj><subst><nom>/кулай<adj>+и<cop><aor><p3><pl>/кулай<adj>+и<cop><aor><p3><sg>/кулай<adj><subst><nom>+и<cop><aor><p3><pl>/кулай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кулай/кулай<adj>/кулай<adj><advl>/кулай<adj><subst><nom>/кулай<adj>+и<cop><aor><p3><pl>/кулай<adj>+и<cop><aor><p3><sg>/кулай<adj><subst><nom>+и<cop><aor><p3><pl>/кулай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^кулай/кулай<adj>/кулай<adj><advl>/кулай<adj><subst><nom>/кулай<adj>+и<cop><aor><p3><pl>/кулай<adj>+и<cop><aor><p3><sg>/кулай<adj><subst><nom>+и<cop><aor><p3><pl>/кулай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңай/уңай<adj>/уңай<n><attr>/уңай<n><nom>/уңай<adj><advl>/уңай<adj><subst><nom>/уңай<adj>+и<cop><aor><p3><pl>/уңай<adj>+и<cop><aor><p3><sg>/уңай<n><nom>+и<cop><aor><p3><pl>/уңай<n><nom>+и<cop><aor><p3><sg>/уңай<adj><subst><nom>+и<cop><aor><p3><pl>/уңай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңай/уңай<adj>/уңай<n><attr>/уңай<n><nom>/уңай<adj><advl>/уңай<adj><subst><nom>/уңай<adj>+и<cop><aor><p3><pl>/уңай<adj>+и<cop><aor><p3><sg>/уңай<n><nom>+и<cop><aor><p3><pl>/уңай<n><nom>+и<cop><aor><p3><sg>/уңай<adj><subst><nom>+и<cop><aor><p3><pl>/уңай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңай/уңай<adj>/уңай<n><attr>/уңай<n><nom>/уңай<adj><advl>/уңай<adj><subst><nom>/уңай<adj>+и<cop><aor><p3><pl>/уңай<adj>+и<cop><aor><p3><sg>/уңай<n><nom>+и<cop><aor><p3><pl>/уңай<n><nom>+и<cop><aor><p3><sg>/уңай<adj><subst><nom>+и<cop><aor><p3><pl>/уңай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңай/уңай<adj>/уңай<n><attr>/уңай<n><nom>/уңай<adj><advl>/уңай<adj><subst><nom>/уңай<adj>+и<cop><aor><p3><pl>/уңай<adj>+и<cop><aor><p3><sg>/уңай<n><nom>+и<cop><aor><p3><pl>/уңай<n><nom>+и<cop><aor><p3><sg>/уңай<adj><subst><nom>+и<cop><aor><p3><pl>/уңай<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңайлы/уңайлы<adj>/уңай<n>+лы<post>/уңай<adj><subst>+лы<post>/уңайлы<adj><advl>/уңайлы<adj><subst><nom>/уңайлы<adj>+и<cop><aor><p3><pl>/уңайлы<adj>+и<cop><aor><p3><sg>/уңайлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңайлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңайлы/уңайлы<adj>/уңай<n>+лы<post>/уңай<adj><subst>+лы<post>/уңайлы<adj><advl>/уңайлы<adj><subst><nom>/уңайлы<adj>+и<cop><aor><p3><pl>/уңайлы<adj>+и<cop><aor><p3><sg>/уңайлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңайлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңайлы/уңайлы<adj>/уңай<n>+лы<post>/уңай<adj><subst>+лы<post>/уңайлы<adj><advl>/уңайлы<adj><subst><nom>/уңайлы<adj>+и<cop><aor><p3><pl>/уңайлы<adj>+и<cop><aor><p3><sg>/уңайлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңайлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңайлы/уңайлы<adj>/уңай<n>+лы<post>/уңай<adj><subst>+лы<post>/уңайлы<adj><advl>/уңайлы<adj><subst><nom>/уңайлы<adj>+и<cop><aor><p3><pl>/уңайлы<adj>+и<cop><aor><p3><sg>/уңайлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңайлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^инде/инде<adv>$
-^уңышлы/уңышлы<adj>/уңыш<n>+лы<post>/уңышлы<adj><advl>/уңышлы<adj><subst><nom>/уңышлы<adj>+и<cop><aor><p3><pl>/уңышлы<adj>+и<cop><aor><p3><sg>/уңышлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңышлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^уңышлы/уңышлы<adj>/уңыш<n>+лы<post>/уңышлы<adj><advl>/уңышлы<adj><subst><nom>/уңышлы<adj>+и<cop><aor><p3><pl>/уңышлы<adj>+и<cop><aor><p3><sg>/уңышлы<adj><subst><nom>+и<cop><aor><p3><pl>/уңышлы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^иртән/иртән<adv>$
-^иртән/иртән<adv>$
-^иртән/иртән<adv>$
-^салкын/салкын<adj>/салкын<n><attr>/салкын<n><nom>/салкын<adj><advl>/салкын<adj><subst><nom>/салкын<adj>+и<cop><aor><p3><pl>/салкын<adj>+и<cop><aor><p3><sg>/салкын<n><nom>+и<cop><aor><p3><pl>/салкын<n><nom>+и<cop><aor><p3><sg>/салкын<adj><subst><nom>+и<cop><aor><p3><pl>/салкын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^салкын/салкын<adj>/салкын<n><attr>/салкын<n><nom>/салкын<adj><advl>/салкын<adj><subst><nom>/салкын<adj>+и<cop><aor><p3><pl>/салкын<adj>+и<cop><aor><p3><sg>/салкын<n><nom>+и<cop><aor><p3><pl>/салкын<n><nom>+и<cop><aor><p3><sg>/салкын<adj><subst><nom>+и<cop><aor><p3><pl>/салкын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^салкын/салкын<adj>/салкын<n><attr>/салкын<n><nom>/салкын<adj><advl>/салкын<adj><subst><nom>/салкын<adj>+и<cop><aor><p3><pl>/салкын<adj>+и<cop><aor><p3><sg>/салкын<n><nom>+и<cop><aor><p3><pl>/салкын<n><nom>+и<cop><aor><p3><sg>/салкын<adj><subst><nom>+и<cop><aor><p3><pl>/салкын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^суык/суык<adj>/суык<n><attr>/суык<n><nom>/суык<adj><advl>/суык<adj><subst><nom>/суык<adj>+и<cop><aor><p3><pl>/суык<adj>+и<cop><aor><p3><sg>/суык<n><nom>+и<cop><aor><p3><pl>/суык<n><nom>+и<cop><aor><p3><sg>/суык<adj><subst><nom>+и<cop><aor><p3><pl>/суык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^суык/суык<adj>/суык<n><attr>/суык<n><nom>/суык<adj><advl>/суык<adj><subst><nom>/суык<adj>+и<cop><aor><p3><pl>/суык<adj>+и<cop><aor><p3><sg>/суык<n><nom>+и<cop><aor><p3><pl>/суык<n><nom>+и<cop><aor><p3><sg>/суык<adj><subst><nom>+и<cop><aor><p3><pl>/суык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^суык/суык<adj>/суык<n><attr>/суык<n><nom>/суык<adj><advl>/суык<adj><subst><nom>/суык<adj>+и<cop><aor><p3><pl>/суык<adj>+и<cop><aor><p3><sg>/суык<n><nom>+и<cop><aor><p3><pl>/суык<n><nom>+и<cop><aor><p3><sg>/суык<adj><subst><nom>+и<cop><aor><p3><pl>/суык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^әйбәт/әйбәт<adj>/әйбәт<n><attr>/әйбәт<n><nom>/әйбәт<adj><advl>/әйбәт<adj><subst><nom>/әйбәт<adj>+и<cop><aor><p3><pl>/әйбәт<adj>+и<cop><aor><p3><sg>/әйбәт<n><nom>+и<cop><aor><p3><pl>/әйбәт<n><nom>+и<cop><aor><p3><sg>/әйбәт<adj><subst><nom>+и<cop><aor><p3><pl>/әйбәт<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^яхшы/яхшы<ij>/яхшы<adj>/яхшы<adj><advl>/яхшы<adj><subst><nom>/яхшы<adj>+и<cop><aor><p3><pl>/яхшы<adj>+и<cop><aor><p3><sg>/яхшы<adj><subst><nom>+и<cop><aor><p3><pl>/яхшы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^бөтенләй/бөтенләй<adv>$
-^бөтенләй/бөтенләй<adv>$
-^еш/еш<adj>/еш<adj><advl>/еш<adj><subst><nom>/еш<adj>+и<cop><aor><p3><pl>/еш<adj>+и<cop><aor><p3><sg>/еш<adj><subst><nom>+и<cop><aor><p3><pl>/еш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^еш/еш<adj>/еш<adj><advl>/еш<adj><subst><nom>/еш<adj>+и<cop><aor><p3><pl>/еш<adj>+и<cop><aor><p3><sg>/еш<adj><subst><nom>+и<cop><aor><p3><pl>/еш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^еш/еш<adj>/еш<adj><advl>/еш<adj><subst><nom>/еш<adj>+и<cop><aor><p3><pl>/еш<adj>+и<cop><aor><p3><sg>/еш<adj><subst><nom>+и<cop><aor><p3><pl>/еш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^еш/еш<adj>/еш<adj><advl>/еш<adj><subst><nom>/еш<adj>+и<cop><aor><p3><pl>/еш<adj>+и<cop><aor><p3><sg>/еш<adj><subst><nom>+и<cop><aor><p3><pl>/еш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^еш/еш<adj>/еш<adj><advl>/еш<adj><subst><nom>/еш<adj>+и<cop><aor><p3><pl>/еш<adj>+и<cop><aor><p3><sg>/еш<adj><subst><nom>+и<cop><aor><p3><pl>/еш<adj><subst><nom>+и<cop><aor><p3><sg>$
-^гадел/гадел<adj>/гадел<adj><advl>/гадел<adj><subst><nom>/гадел<adj>+и<cop><aor><p3><pl>/гадел<adj>+и<cop><aor><p3><sg>/гадел<adj><subst><nom>+и<cop><aor><p3><pl>/гадел<adj><subst><nom>+и<cop><aor><p3><sg>$
-^намуслы/намуслы<adj>/намус<n>+лы<post>/намуслы<adj><advl>/намуслы<adj><subst><nom>/намуслы<adj>+и<cop><aor><p3><pl>/намуслы<adj>+и<cop><aor><p3><sg>/намуслы<adj><subst><nom>+и<cop><aor><p3><pl>/намуслы<adj><subst><nom>+и<cop><aor><p3><sg>$
-^саф/саф<adj>/саф<n><attr>/саф<n><nom>/саф<adj><advl>/саф<adj><subst><nom>/саф<adj>+и<cop><aor><p3><pl>/саф<adj>+и<cop><aor><p3><sg>/саф<n><nom>+и<cop><aor><p3><pl>/саф<n><nom>+и<cop><aor><p3><sg>/саф<adj><subst><nom>+и<cop><aor><p3><pl>/саф<adj><subst><nom>+и<cop><aor><p3><sg>$
-^саф/саф<adj>/саф<n><attr>/саф<n><nom>/саф<adj><advl>/саф<adj><subst><nom>/саф<adj>+и<cop><aor><p3><pl>/саф<adj>+и<cop><aor><p3><sg>/саф<n><nom>+и<cop><aor><p3><pl>/саф<n><nom>+и<cop><aor><p3><sg>/саф<adj><subst><nom>+и<cop><aor><p3><pl>/саф<adj><subst><nom>+и<cop><aor><p3><sg>$
-^саф/саф<adj>/саф<n><attr>/саф<n><nom>/саф<adj><advl>/саф<adj><subst><nom>/саф<adj>+и<cop><aor><p3><pl>/саф<adj>+и<cop><aor><p3><sg>/саф<n><nom>+и<cop><aor><p3><pl>/саф<n><nom>+и<cop><aor><p3><sg>/саф<adj><subst><nom>+и<cop><aor><p3><pl>/саф<adj><subst><nom>+и<cop><aor><p3><sg>$
-^таза/таза<adj>/таза<adj><advl>/таза<adj><subst><nom>/таза<adj>+и<cop><aor><p3><pl>/таза<adj>+и<cop><aor><p3><sg>/таза<adj><subst><nom>+и<cop><aor><p3><pl>/таза<adj><subst><nom>+и<cop><aor><p3><sg>$
-^таза/таза<adj>/таза<adj><advl>/таза<adj><subst><nom>/таза<adj>+и<cop><aor><p3><pl>/таза<adj>+и<cop><aor><p3><sg>/таза<adj><subst><nom>+и<cop><aor><p3><pl>/таза<adj><subst><nom>+и<cop><aor><p3><sg>$
-^таза/таза<adj>/таза<adj><advl>/таза<adj><subst><nom>/таза<adj>+и<cop><aor><p3><pl>/таза<adj>+и<cop><aor><p3><sg>/таза<adj><subst><nom>+и<cop><aor><p3><pl>/таза<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чиста/чиста<adj>/чиста<adj><advl>/чиста<adj><subst><nom>/чиста<adj>+и<cop><aor><p3><pl>/чиста<adj>+и<cop><aor><p3><sg>/чиста<adj><subst><nom>+и<cop><aor><p3><pl>/чиста<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чиста/чиста<adj>/чиста<adj><advl>/чиста<adj><subst><nom>/чиста<adj>+и<cop><aor><p3><pl>/чиста<adj>+и<cop><aor><p3><sg>/чиста<adj><subst><nom>+и<cop><aor><p3><pl>/чиста<adj><subst><nom>+и<cop><aor><p3><sg>$
-^чиста/чиста<adj>/чиста<adj><advl>/чиста<adj><subst><nom>/чиста<adj>+и<cop><aor><p3><pl>/чиста<adj>+и<cop><aor><p3><sg>/чиста<adj><subst><nom>+и<cop><aor><p3><pl>/чиста<adj><subst><nom>+и<cop><aor><p3><sg>$
-^зур/зур<adj>/зур<adj><advl>/зур<adj><subst><nom>/зур<adj>+и<cop><aor><p3><pl>/зур<adj>+и<cop><aor><p3><sg>/зур<adj><subst><nom>+и<cop><aor><p3><pl>/зур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^зур/зур<adj>/зур<adj><advl>/зур<adj><subst><nom>/зур<adj>+и<cop><aor><p3><pl>/зур<adj>+и<cop><aor><p3><sg>/зур<adj><subst><nom>+и<cop><aor><p3><pl>/зур<adj><subst><nom>+и<cop><aor><p3><sg>$
-^киң/киң<adj>/киң<adj><advl>/киң<adj><subst><nom>/киң<adj>+и<cop><aor><p3><pl>/киң<adj>+и<cop><aor><p3><sg>/киң<adj><subst><nom>+и<cop><aor><p3><pl>/киң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^киң/киң<adj>/киң<adj><advl>/киң<adj><subst><nom>/киң<adj>+и<cop><aor><p3><pl>/киң<adj>+и<cop><aor><p3><sg>/киң<adj><subst><nom>+и<cop><aor><p3><pl>/киң<adj><subst><nom>+и<cop><aor><p3><sg>$
-^якты/якты<adj>/якты<n><attr>/якты<n><nom>/якты<adj><advl>/як<v><tv><ifi><p3><sg>/якты<adj><subst><nom>/якты<adj>+и<cop><aor><p3><pl>/якты<adj>+и<cop><aor><p3><sg>/якты<n><nom>+и<cop><aor><p3><pl>/якты<n><nom>+и<cop><aor><p3><sg>/якты<adj><subst><nom>+и<cop><aor><p3><pl>/якты<adj><subst><nom>+и<cop><aor><p3><sg>$
-^анык/анык<adj>/анык<adj><advl>/анык<adj><subst><nom>/анык<adj>+и<cop><aor><p3><pl>/анык<adj>+и<cop><aor><p3><sg>/анык<adj><subst><nom>+и<cop><aor><p3><pl>/анык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^анык/анык<adj>/анык<adj><advl>/анык<adj><subst><nom>/анык<adj>+и<cop><aor><p3><pl>/анык<adj>+и<cop><aor><p3><sg>/анык<adj><subst><nom>+и<cop><aor><p3><pl>/анык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^анык/анык<adj>/анык<adj><advl>/анык<adj><subst><nom>/анык<adj>+и<cop><aor><p3><pl>/анык<adj>+и<cop><aor><p3><sg>/анык<adj><subst><nom>+и<cop><aor><p3><pl>/анык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^анык/анык<adj>/анык<adj><advl>/анык<adj><subst><nom>/анык<adj>+и<cop><aor><p3><pl>/анык<adj>+и<cop><aor><p3><sg>/анык<adj><subst><nom>+и<cop><aor><p3><pl>/анык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^анык/анык<adj>/анык<adj><advl>/анык<adj><subst><nom>/анык<adj>+и<cop><aor><p3><pl>/анык<adj>+и<cop><aor><p3><sg>/анык<adj><subst><nom>+и<cop><aor><p3><pl>/анык<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аяз/аяз<adj>/аяз<adj><advl>/аяз<adj><subst><nom>/аяз<adj>+и<cop><aor><p3><pl>/аяз<adj>+и<cop><aor><p3><sg>/аяз<adj><subst><nom>+и<cop><aor><p3><pl>/аяз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аяз/аяз<adj>/аяз<adj><advl>/аяз<adj><subst><nom>/аяз<adj>+и<cop><aor><p3><pl>/аяз<adj>+и<cop><aor><p3><sg>/аяз<adj><subst><nom>+и<cop><aor><p3><pl>/аяз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аяз/аяз<adj>/аяз<adj><advl>/аяз<adj><subst><nom>/аяз<adj>+и<cop><aor><p3><pl>/аяз<adj>+и<cop><aor><p3><sg>/аяз<adj><subst><nom>+и<cop><aor><p3><pl>/аяз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аяз/аяз<adj>/аяз<adj><advl>/аяз<adj><subst><nom>/аяз<adj>+и<cop><aor><p3><pl>/аяз<adj>+и<cop><aor><p3><sg>/аяз<adj><subst><nom>+и<cop><aor><p3><pl>/аяз<adj><subst><nom>+и<cop><aor><p3><sg>$
-^аяз/аяз<adj>/аяз<adj><advl>/аяз<adj><subst><nom>/аяз<adj>+и<cop><aor><p3><pl>/аяз<adj>+и<cop><aor><p3><sg>/аяз<adj><subst><nom>+и<cop><aor><p3><pl>/аяз<adj><subst><nom>+и<cop><aor><p3><sg>$^./.<sent>$
+    <e><p><l>пысӑк<s n="adj"/></l><r>зур<s n="adj"/></r></p></e>
+    <e><p><l>тӳлевсӗр<s n="adv"/></l><r>бушлай<s n="adv"/></r></p></e> <!-- бесплатно -->
+    <e><p><l>ҫывӑх<s n="adv"/></l><r>якын<s n="adv"/></r></p></e> <!-- близко -->
+    <e><p><l>ҫывӑхра<s n="adv"/></l><r>якын<s n="adv"/></r></p></e> <!-- близко -->
+    <e><p><l>ҫывахран<s n="adv"/></l><r>якын<s n="adv"/></r></p></e> <!-- близко -->
+    <e><p><l>юнашар<s n="adv"/></l><r>якын<s n="adv"/></r></p></e> <!-- близко -->
+    <e><p><l>ытла<s n="adv"/></l><r>зуррак<s n="adv"/></r></p></e> <!-- более -->
+    <e><p><l>ӳлӗмрен<s n="adv"/></l><r>зуррак<s n="adv"/></r></p></e> <!-- больше -->
+    <e><p><l>ытла<s n="adv"/></l><r>зуррак<s n="adv"/></r></p></e> <!-- больше -->
+    <e><p><l>ытларах<s n="adv"/></l><r>зуррак<s n="adv"/></r></p></e> <!-- больше -->
+    <e><p><l>алхапӑл<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑр-вар<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑр-варрӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>васкаварлӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>васкавлӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑш-ваш<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑшт<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑкӑл-якӑл<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑлттам<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑрт<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑрттӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑр-япӑр<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>капӑрах<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>палт<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>ҫӑмӑллӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>сиккипе<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хӑвӑрттӑн<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хӑпӑл-хапӑл<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хытӑ<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>час<s n="adv"/></l><r>җәһәт<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>алхапӑл<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑр-вар<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑр-варрӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>васкаварлӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>васкавлӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑш-ваш<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>вӑшт<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑкӑл-якӑл<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑлттам<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑрт<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑрттӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>йӑпӑр-япӑр<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>капӑрах<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>палт<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>ҫӑмӑллӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>сиккипе<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хӑвӑрттӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хӑпӑл-хапӑл<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>хытӑ<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>час<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- быстро -->
+    <e><p><l>тӗрӗс<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- верно -->
+    <e><p><l>шанчӑклӑ<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- верно -->
+    <e><p><l>савӑк<s n="adv"/></l><r>күңелле<s n="adv"/></r></p></e> <!-- весело -->
+    <e><p><l>савӑнӑҫлӑ<s n="adv"/></l><r>күңелле<s n="adv"/></r></p></e> <!-- весело -->
+    <e><p><l>хаваслӑ<s n="adv"/></l><r>күңелле<s n="adv"/></r></p></e> <!-- весело -->
+    <e><p><l>та<s n="adv"/></l><r>да<s n="adv"/></r></p></e> <!-- возле -->
+    <e><p><l>те<s n="adv"/></l><r>да<s n="adv"/></r></p></e> <!-- возле -->
+    <e><p><l>та<s n="adv"/></l><r>дә<s n="adv"/></r></p></e> <!-- возле -->
+    <e><p><l>те<s n="adv"/></l><r>дә<s n="adv"/></r></p></e> <!-- возле -->
+    <e><p><l>ҫӳлте<s n="adv"/></l><r>биек<s n="adv"/></r></p></e> <!-- высоко -->
+    <e><p><l>ҫӳлте<s n="adv"/></l><r>югары<s n="adv"/></r></p></e> <!-- высоко -->
+    <e><p><l>ассӑн<s n="adv"/></l><r>тирән<s n="adv"/></r></p></e> <!-- глубоко -->
+    <e><p><l>тарӑн<s n="adv"/></l><r>тирән<s n="adv"/></r></p></e> <!-- глубоко -->
+    <e><p><l>мӑнаҫлӑ<s n="adv"/></l><r>горур<s n="adv"/></r></p></e> <!-- гордо -->
+    <e><p><l>вӗри<s n="adv"/></l><r>кайнар<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>хӗрӳллӗ<s n="adv"/></l><r>кайнар<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>шӑрӑх<s n="adv"/></l><r>кайнар<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>вӗри<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>хӗрӳллӗ<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>шӑрӑх<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- горячо -->
+    <e><p><l>тӳрккес<s n="adv"/></l><r>тупас<s n="adv"/></r></p></e> <!-- грубо -->
+    <e><p><l>хӑлӑхсӑр<s n="adv"/></l><r>тупас<s n="adv"/></r></p></e> <!-- грубо -->
+    <e><p><l>чурӑс<s n="adv"/></l><r>тупас<s n="adv"/></r></p></e> <!-- грубо -->
+    <e><p><l>йӑвӑ<s n="adv"/></l><r>куе<s n="adv"/></r></p></e> <!-- густо -->
+    <e><p><l>ҫӑра<s n="adv"/></l><r>куе<s n="adv"/></r></p></e> <!-- густо -->
+    <e><p><l>инҫе<s n="adv"/></l><r>ерак<s n="adv"/></r></p></e> <!-- далеко -->
+    <e><p><l>катана<s n="adv"/></l><r>ерак<s n="adv"/></r></p></e> <!-- далеко -->
+    <e><p><l>катара<s n="adv"/></l><r>ерак<s n="adv"/></r></p></e> <!-- далеко -->
+    <e><p><l>хавас<s n="adv"/></l><r>канәгать<s n="adv"/></r></p></e> <!-- довольно -->
+    <e><p><l>хавас<s n="adv"/></l><r>разый<s n="adv"/></r></p></e> <!-- довольно -->
+    <e><p><l>вӑрахчен<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>нумайччен<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>пайтах<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>пайтахчен<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>таттисӗр<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>темӗнччен<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>чылайччен<s n="adv"/></l><r>озак<s n="adv"/></r></p></e> <!-- долго -->
+    <e><p><l>хаклӑ<s n="adv"/></l><r>кадерле<s n="adv"/></r></p></e> <!-- дорого -->
+    <e><p><l>хаклӑ<s n="adv"/></l><r>кыйбат<s n="adv"/></r></p></e> <!-- дорого -->
+    <e><p><l>хаклӑ<s n="adv"/></l><r>кыйбатлы<s n="adv"/></r></p></e> <!-- дорого -->
+    <e><p><l>тивӗҫлӗ<s n="adv"/></l><r>лаеклы<s n="adv"/></r></p></e> <!-- достойно -->
+    <e><p><l>шел<s n="adv"/></l><r>кызганыч<s n="adv"/></r></p></e> <!-- жалко -->
+    <e><p><l>вӗри<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>хӗрӳллӗ<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>шӑрӑх<s n="adv"/></l><r>кызу<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>вӗри<s n="adv"/></l><r>эссе<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>хӗрӳллӗ<s n="adv"/></l><r>эссе<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>шӑрӑх<s n="adv"/></l><r>эссе<s n="adv"/></r></p></e> <!-- жарко -->
+    <e><p><l>йӑрӑ<s n="adv"/></l><r>исән<s n="adv"/></r></p></e> <!-- живо -->
+    <e><p><l>хӑпӑл-хапӑл<s n="adv"/></l><r>исән<s n="adv"/></r></p></e> <!-- живо -->
+    <e><p><l>хӗрӳ<s n="adv"/></l><r>исән<s n="adv"/></r></p></e> <!-- живо -->
+    <e><p><l>час<s n="adv"/></l><r>исән<s n="adv"/></r></p></e> <!-- живо -->
+    <e><p><l>чаплӑ<s n="adv"/></l><r>гүзәл<s n="adv"/></r></p></e> <!-- замечательно -->
+    <e><p><l>шеп<s n="adv"/></l><r>гүзәл<s n="adv"/></r></p></e> <!-- замечательно -->
+    <e><p><l>чаплӑ<s n="adv"/></l><r>шәп<s n="adv"/></r></p></e> <!-- замечательно -->
+    <e><p><l>шеп<s n="adv"/></l><r>шәп<s n="adv"/></r></p></e> <!-- замечательно -->
+    <e><p><l>ҫакӑнта<s n="adv"/></l><r>монда<s n="adv"/></r></p></e> <!-- здесь -->
+    <e><p><l>сарӑп<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>сӑтӑр<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>сиен<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>ҫиллес<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>усал<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>хаяр<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- зло -->
+    <e><p><l>сайраран<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>хутран-ситрен<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>хушӑран<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>сайраран<s n="adv"/></l><r>сирәк<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>хутран-ситрен<s n="adv"/></l><r>сирәк<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>хушӑран<s n="adv"/></l><r>сирәк<s n="adv"/></r></p></e> <!-- изредка -->
+    <e><p><l>унсӑрӑн<s n="adv"/></l><r>башкача<s n="adv"/></r></p></e> <!-- иначе -->
+    <e><p><l>урӑхла<s n="adv"/></l><r>башкача<s n="adv"/></r></p></e> <!-- иначе -->
+    <e><p><l>епле<s n="adv"/></l><r>күк<s n="adv"/></r></p></e> <!-- как -->
+    <e><p><l>мӗнле<s n="adv"/></l><r>күк<s n="adv"/></r></p></e> <!-- как -->
+    <e><p><l>пӗрех<s n="adv"/></l><r>күк<s n="adv"/></r></p></e> <!-- как -->
+    <e><p><l>кӗске<s n="adv"/></l><r>кыска<s n="adv"/></r></p></e> <!-- коротко -->
+    <e><p><l>шакла<s n="adv"/></l><r>кыска<s n="adv"/></r></p></e> <!-- коротко -->
+    <e><p><l>ӗлккен<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>илемлӗ<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>капӑр<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>хитре<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>чечен<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>эреветлӗ<s n="adv"/></l><r>күркәм<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>ӗлккен<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>илемлӗ<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>капӑр<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>хитре<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>чечен<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>эреветлӗ<s n="adv"/></l><r>матур<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>ӗлккен<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>илемлӗ<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>капӑр<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>хитре<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>чечен<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>эреветлӗ<s n="adv"/></l><r>чибәр<s n="adv"/></r></p></e> <!-- красиво -->
+    <e><p><l>йӗкер<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>парка<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>патвар<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>ҫирӗп<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>тӗреклӗ<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>хаяр<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>йӗкер<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>парка<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>патвар<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>ҫирӗп<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>тӗреклӗ<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>хаяр<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>йӗкер<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>парка<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>патвар<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>ҫирӗп<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>тӗреклӗ<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>хаяр<s n="adv"/></l><r>ныклы<s n="adv"/></r></p></e> <!-- крепко -->
+    <e><p><l>юрать<s n="adv"/></l><r>ярый<s n="adv"/></r></p></e> <!-- ладно -->
+    <e><p><l>юрать<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- ладно -->
+    <e><p><l>кӑмӑллӑ<s n="adv"/></l><r>мөлаем<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>ҫемҫен<s n="adv"/></l><r>мөлаем<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>ҫепӗҫ<s n="adv"/></l><r>мөлаем<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>кӑмӑллӑ<s n="adv"/></l><r>ягымлы<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>ҫемҫен<s n="adv"/></l><r>ягымлы<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>ҫепӗҫ<s n="adv"/></l><r>ягымлы<s n="adv"/></r></p></e> <!-- ласково -->
+    <e><p><l>ансат<s n="adv"/></l><r>җиңел<s n="adv"/></r></p></e> <!-- легко -->
+    <e><p><l>ҫӑмӑл<s n="adv"/></l><r>җиңел<s n="adv"/></r></p></e> <!-- легко -->
+    <e><p><l>ҫӑмӑллӑн<s n="adv"/></l><r>җиңел<s n="adv"/></r></p></e> <!-- легко -->
+    <e><p><l>ҫӳхе<s n="adv"/></l><r>җиңел<s n="adv"/></r></p></e> <!-- легко -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>җиңел<s n="adv"/></r></p></e> <!-- легко -->
+    <e><p><l>мӑран<s n="adv"/></l><r>ялкау<s n="adv"/></r></p></e> <!-- лениво -->
+    <e><p><l>наян<s n="adv"/></l><r>ялкау<s n="adv"/></r></p></e> <!-- лениво -->
+    <e><p><l>ӳрӗк-сӳрӗк<s n="adv"/></l><r>ялкау<s n="adv"/></r></p></e> <!-- лениво -->
+    <e><p><l>кӑшт<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- мало -->
+    <e><p><l>сахал<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- мало -->
+    <e><p><l>кӑшт<s n="adv"/></l><r>кечек<s n="adv"/></r></p></e> <!-- мало -->
+    <e><p><l>сахал<s n="adv"/></l><r>кечек<s n="adv"/></r></p></e> <!-- мало -->
+    <e><p><l>вӑрах<s n="adv"/></l><r>акрын<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>вӑраххӑн<s n="adv"/></l><r>акрын<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>хуллен<s n="adv"/></l><r>акрын<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>вӑрах<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>вӑраххӑн<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>хуллен<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- медленно -->
+    <e><p><l>килӗшӳллӗ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- мирно -->
+    <e><p><l>мирлӗ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- мирно -->
+    <e><p><l>тӑнӑҫ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- мирно -->
+    <e><p><l>пайтах<s n="adv"/></l><r>күп<s n="adv"/></r></p></e> <!-- много -->
+    <e><p><l>патвар<s n="adv"/></l><r>куәтле<s n="adv"/></r></p></e> <!-- мощно -->
+    <e><p><l>тӗреклӗ<s n="adv"/></l><r>куәтле<s n="adv"/></r></p></e> <!-- мощно -->
+    <e><p><l>ҫемҫе<s n="adv"/></l><r>йомшак<s n="adv"/></r></p></e> <!-- мягко -->
+    <e><p><l>ҫемҫен<s n="adv"/></l><r>йомшак<s n="adv"/></r></p></e> <!-- мягко -->
+    <e><p><l>ҫепӗҫ<s n="adv"/></l><r>йомшак<s n="adv"/></r></p></e> <!-- мягко -->
+    <e><p><l>хирӗҫ<s n="adv"/></l><r>каршы<s n="adv"/></r></p></e> <!-- навстречу -->
+    <e><p><l>кая<s n="adv"/></l><r>артка<s n="adv"/></r></p></e> <!-- назад -->
+    <e><p><l>каялла<s n="adv"/></l><r>артка<s n="adv"/></r></p></e> <!-- назад -->
+    <e><p><l>кутӑн<s n="adv"/></l><r>артка<s n="adv"/></r></p></e> <!-- назад -->
+    <e><p><l>хыҫала<s n="adv"/></l><r>артка<s n="adv"/></r></p></e> <!-- назад -->
+    <e><p><l>юлашкинчен<s n="adv"/></l><r>ахырда<s n="adv"/></r></p></e> <!-- наконец -->
+    <e><p><l>кӑлӑх<s n="adv"/></l><r>юкка<s n="adv"/></r></p></e> <!-- напрасно -->
+    <e><p><l>пустуй<s n="adv"/></l><r>юкка<s n="adv"/></r></p></e> <!-- напрасно -->
+    <e><p><l>сӑлтавсӑр<s n="adv"/></l><r>юкка<s n="adv"/></r></p></e> <!-- напрасно -->
+    <e><p><l>харам<s n="adv"/></l><r>юкка<s n="adv"/></r></p></e> <!-- напрасно -->
+    <e><p><l>ҫемҫен<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- нежно -->
+    <e><p><l>ҫепӗҫ<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- нежно -->
+    <e><p><l>хисеплӗ<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- немногий -->
+    <e><p><l>шутлӑ<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- немногий -->
+    <e><p><l>пӑртак<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- немного -->
+    <e><p><l>вӗҫӗмсӗр<s n="adv"/></l><r>өзлексез<s n="adv"/></r></p></e> <!-- непрерывно -->
+    <e><p><l>таттисӗр<s n="adv"/></l><r>өзлексез<s n="adv"/></r></p></e> <!-- непрерывно -->
+    <e><p><l>хӑрушӑ<s n="adv"/></l><r>куркыныч<s n="adv"/></r></p></e> <!-- опасно -->
+    <e><p><l>хӑрушӑ<s n="adv"/></l><r>хәтәр<s n="adv"/></r></p></e> <!-- опасно -->
+    <e><p><l>тарӑн<s n="adv"/></l><r>төпле<s n="adv"/></r></p></e> <!-- основательно -->
+    <e><p><l>ӑрасна<s n="adv"/></l><r>аерым<s n="adv"/></r></p></e> <!-- особо -->
+    <e><p><l>ятарласа<s n="adv"/></l><r>аерым<s n="adv"/></r></p></e> <!-- особо -->
+    <e><p><l>ӑрасна<s n="adv"/></l><r>хосусый<s n="adv"/></r></p></e> <!-- особо -->
+    <e><p><l>ятарласа<s n="adv"/></l><r>хосусый<s n="adv"/></r></p></e> <!-- особо -->
+    <e><p><l>хуллен<s n="adv"/></l><r>сак<s n="adv"/></r></p></e> <!-- осторожно -->
+    <e><p><l>ҫивӗч<s n="adv"/></l><r>очлы<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>хаяр<s n="adv"/></l><r>очлы<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>ҫивӗч<s n="adv"/></l><r>үткен<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>хаяр<s n="adv"/></l><r>үткен<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>ҫивӗч<s n="adv"/></l><r>үткер<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>хаяр<s n="adv"/></l><r>үткер<s n="adv"/></r></p></e> <!-- остро -->
+    <e><p><l>ӑрасна<s n="adv"/></l><r>аерым<s n="adv"/></r></p></e> <!-- отдельно -->
+    <e><p><l>уйрӑм<s n="adv"/></l><r>аерым<s n="adv"/></r></p></e> <!-- отдельно -->
+    <e><p><l>кӗрет<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>куҫӑн<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>тӳрех<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>уҫӑ<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>уҫӑмлӑ<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>ачык<s n="adv"/></r></p></e> <!-- открыто -->
+    <e><p><l>лерен<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- оттуда -->
+    <e><p><l>унтан<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- оттуда -->
+    <e><p><l>йӑнӑш<s n="adv"/></l><r>ялгыш<s n="adv"/></r></p></e> <!-- ошибочно -->
+    <e><p><l>питӗ<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- плотно -->
+    <e><p><l>тачӑ<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- плотно -->
+    <e><p><l>шат<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- плотно -->
+    <e><p><l>йӑх-ях<s n="adv"/></l><r>начар<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>начар<s n="adv"/></l><r>начар<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>япӑх<s n="adv"/></l><r>начар<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>йӑх-ях<s n="adv"/></l><r>яман<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>начар<s n="adv"/></l><r>яман<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>япӑх<s n="adv"/></l><r>яман<s n="adv"/></r></p></e> <!-- плохо -->
+    <e><p><l>евӗр<s n="adv"/></l><r>тәңгәл<s n="adv"/></r></p></e> <!-- подобно -->
+    <e><p><l>евӗрлӗ<s n="adv"/></l><r>тәңгәл<s n="adv"/></r></p></e> <!-- подобно -->
+    <e><p><l>манерлӗ<s n="adv"/></l><r>тәңгәл<s n="adv"/></r></p></e> <!-- подобно -->
+    <e><p><l>кайра<s n="adv"/></l><r>арт<s n="adv"/></r></p></e> <!-- позади -->
+    <e><p><l>кайран<s n="adv"/></l><r>арт<s n="adv"/></r></p></e> <!-- позади -->
+    <e><p><l>кая<s n="adv"/></l><r>арт<s n="adv"/></r></p></e> <!-- позади -->
+    <e><p><l>хыҫалта<s n="adv"/></l><r>арт<s n="adv"/></r></p></e> <!-- позади -->
+    <e><p><l>унтан<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- потом -->
+    <e><p><l>ҫавӑнпа<s n="adv"/></l><r>шунлыктан<s n="adv"/></r></p></e> <!-- поэтому -->
+    <e><p><l>тӗрӗс<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- правильно -->
+    <e><p><l>аван<s n="adv"/></l><r>гүзәл<s n="adv"/></r></p></e> <!-- прекрасно -->
+    <e><p><l>чипер<s n="adv"/></l><r>гүзәл<s n="adv"/></r></p></e> <!-- прекрасно -->
+    <e><p><l>шеп<s n="adv"/></l><r>гүзәл<s n="adv"/></r></p></e> <!-- прекрасно -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>рәхәт<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>савӑк<s n="adv"/></l><r>рәхәт<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>ырӑ<s n="adv"/></l><r>рәхәт<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>тәмле<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>савӑк<s n="adv"/></l><r>тәмле<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>ырӑ<s n="adv"/></l><r>тәмле<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>нӗрлӗ<s n="adv"/></l><r>хуш<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>савӑк<s n="adv"/></l><r>хуш<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>ырӑ<s n="adv"/></l><r>хуш<s n="adv"/></r></p></e> <!-- приятно -->
+    <e><p><l>ҫирӗп<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- прочно -->
+    <e><p><l>тӗреклӗ<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- прочно -->
+    <e><p><l>йӑрӑс<s n="adv"/></l><r>туп-туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>йӑрст<s n="adv"/></l><r>туп-туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>тӳрӗ<s n="adv"/></l><r>туп-туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>тӳрех<s n="adv"/></l><r>туп-туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>яштак<s n="adv"/></l><r>туп-туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>йӑрӑс<s n="adv"/></l><r>туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>йӑрст<s n="adv"/></l><r>туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>тӳрӗ<s n="adv"/></l><r>туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>тӳрех<s n="adv"/></l><r>туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>яштак<s n="adv"/></l><r>туры<s n="adv"/></r></p></e> <!-- прямо -->
+    <e><p><l>ҫара<s n="adv"/></l><r>буш<s n="adv"/></r></p></e> <!-- пусто -->
+    <e><p><l>ӗлӗк<s n="adv"/></l><r>иртә<s n="adv"/></r></p></e> <!-- раньше -->
+    <e><p><l>маларах<s n="adv"/></l><r>иртә<s n="adv"/></r></p></e> <!-- раньше -->
+    <e><p><l>малтан<s n="adv"/></l><r>иртә<s n="adv"/></r></p></e> <!-- раньше -->
+    <e><p><l>унччен<s n="adv"/></l><r>иртә<s n="adv"/></r></p></e> <!-- раньше -->
+    <e><p><l>халиччен<s n="adv"/></l><r>иртә<s n="adv"/></r></p></e> <!-- раньше -->
+    <e><p><l>пӑт-пат<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- редко -->
+    <e><p><l>сайра<s n="adv"/></l><r>аз<s n="adv"/></r></p></e> <!-- редко -->
+    <e><p><l>пӑт-пат<s n="adv"/></l><r>сирәк<s n="adv"/></r></p></e> <!-- редко -->
+    <e><p><l>сайра<s n="adv"/></l><r>сирәк<s n="adv"/></r></p></e> <!-- редко -->
+    <e><p><l>палт<s n="adv"/></l><r>кискен<s n="adv"/></r></p></e> <!-- резко -->
+    <e><p><l>пат<s n="adv"/></l><r>тәвәккәл<s n="adv"/></r></p></e> <!-- решительно -->
+    <e><p><l>татӑклӑ<s n="adv"/></l><r>тәвәккәл<s n="adv"/></r></p></e> <!-- решительно -->
+    <e><p><l>кал-кал<s n="adv"/></l><r>тигез<s n="adv"/></r></p></e> <!-- ровно -->
+    <e><p><l>тикӗс<s n="adv"/></l><r>тигез<s n="adv"/></r></p></e> <!-- ровно -->
+    <e><p><l>шӑп<s n="adv"/></l><r>тигез<s n="adv"/></r></p></e> <!-- ровно -->
+    <e><p><l>яка<s n="adv"/></l><r>тигез<s n="adv"/></r></p></e> <!-- ровно -->
+    <e><p><l>ҫума-ҫумӑн<s n="adv"/></l><r>янәшә<s n="adv"/></r></p></e> <!-- рядом -->
+    <e><p><l>юнашар<s n="adv"/></l><r>янәшә<s n="adv"/></r></p></e> <!-- рядом -->
+    <e><p><l>ирӗк<s n="adv"/></l><r>азат<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ирӗклӗ<s n="adv"/></l><r>азат<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ҫӑмӑллӑн<s n="adv"/></l><r>азат<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>азат<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ирӗк<s n="adv"/></l><r>иркен<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ирӗклӗ<s n="adv"/></l><r>иркен<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ҫӑмӑллӑн<s n="adv"/></l><r>иркен<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>иркен<s n="adv"/></r></p></e> <!-- свободно -->
+    <e><p><l>ҫиллес<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- сердито -->
+    <e><p><l>хаяр<s n="adv"/></l><r>усал<s n="adv"/></r></p></e> <!-- сердито -->
+    <e><p><l>кайран<s n="adv"/></l><r>артта<s n="adv"/></r></p></e> <!-- сзади -->
+    <e><p><l>хыҫалта<s n="adv"/></l><r>артта<s n="adv"/></r></p></e> <!-- сзади -->
+    <e><p><l>парка<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>патвар<s n="adv"/></l><r>каты<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>парка<s n="adv"/></l><r>көчле<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>патвар<s n="adv"/></l><r>көчле<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>парка<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>патвар<s n="adv"/></l><r>нык<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>парка<s n="adv"/></l><r>яман<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>патвар<s n="adv"/></l><r>яман<s n="adv"/></r></p></e> <!-- сильно -->
+    <e><p><l>кӗҫ<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- скоро -->
+    <e><p><l>кӗҫ-вӗҫ<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- скоро -->
+    <e><p><l>хӑвӑрттӑн<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- скоро -->
+    <e><p><l>час<s n="adv"/></l><r>тиз<s n="adv"/></r></p></e> <!-- скоро -->
+    <e><p><l>юри<s n="adv"/></l><r>махсус<s n="adv"/></r></p></e> <!-- специально -->
+    <e><p><l>ятарлӑ<s n="adv"/></l><r>махсус<s n="adv"/></r></p></e> <!-- специально -->
+    <e><p><l>ятарласа<s n="adv"/></l><r>махсус<s n="adv"/></r></p></e> <!-- специально -->
+    <e><p><l>канас<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>канӑҫлӑ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>канлӗ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>лӑпкӑн<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>тӑнӑҫ<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>тӳлек<s n="adv"/></l><r>тыныч<s n="adv"/></r></p></e> <!-- спокойно -->
+    <e><p><l>сылтӑмран<s n="adv"/></l><r>уң<s n="adv"/></r></p></e> <!-- справа -->
+    <e><p><l>тӗрӗс<s n="adv"/></l><r>гадел<s n="adv"/></r></p></e> <!-- справедливо -->
+    <e><p><l>хӑрушӑ<s n="adv"/></l><r>куркыныч<s n="adv"/></r></p></e> <!-- страшно -->
+    <e><p><l>шутсӑр<s n="adv"/></l><r>куркыныч<s n="adv"/></r></p></e> <!-- страшно -->
+    <e><p><l>типӗ<s n="adv"/></l><r>коры<s n="adv"/></r></p></e> <!-- сухо -->
+    <e><p><l>кунта<s n="adv"/></l><r>монда<s n="adv"/></r></p></e> <!-- сюда -->
+    <e><p><l>кунталла<s n="adv"/></l><r>монда<s n="adv"/></r></p></e> <!-- сюда -->
+    <e><p><l>вӑрттӑн<s n="adv"/></l><r>яшерен<s n="adv"/></r></p></e> <!-- тайно -->
+    <e><p><l>апла<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- так -->
+    <e><p><l>ахаль<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- так -->
+    <e><p><l>ҫав<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- так -->
+    <e><p><l>ҫакнашкал<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- так -->
+    <e><p><l>ҫапла<s n="adv"/></l><r>шул<s n="adv"/></r></p></e> <!-- так -->
+    <e><p><l>лере<s n="adv"/></l><r>теге<s n="adv"/></r></p></e> <!-- там -->
+    <e><p><l>ҫавӑнта<s n="adv"/></l><r>теге<s n="adv"/></r></p></e> <!-- там -->
+    <e><p><l>унта<s n="adv"/></l><r>теге<s n="adv"/></r></p></e> <!-- там -->
+    <e><p><l>тӗттӗм<s n="adv"/></l><r>караңгы<s n="adv"/></r></p></e> <!-- темно -->
+    <e><p><l>чӑтӑмлӑ<s n="adv"/></l><r>сабыр<s n="adv"/></r></p></e> <!-- терпеливо -->
+    <e><p><l>ансӑр<s n="adv"/></l><r>тар<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>тӑвӑр<s n="adv"/></l><r>тар<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>тачӑ<s n="adv"/></l><r>тар<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>тар<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>ансӑр<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>тӑвӑр<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>тачӑ<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>тыгыз<s n="adv"/></r></p></e> <!-- тесно -->
+    <e><p><l>лӑп<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- тихий -->
+    <e><p><l>лӑпкӑ<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- тихий -->
+    <e><p><l>тӑнӑҫ<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- тихий -->
+    <e><p><l>тӳлек<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- тихий -->
+    <e><p><l>шӑп<s n="adv"/></l><r>әкрен<s n="adv"/></r></p></e> <!-- тихий -->
+    <e><p><l>вӑраххӑн<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>ерипе<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>лӑп<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>лӑпкӑ<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>лӑпкӑн<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>тӑнӑҫ<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>тӳлек<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>хуллен<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>шӑп<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>шӑппӑн<s n="adv"/></l><r>тын<s n="adv"/></r></p></e> <!-- тихо -->
+    <e><p><l>шакӑр<s n="adv"/></l><r>бары<s n="adv"/></r></p></e> <!-- только -->
+    <e><p><l>ҫеҫ<s n="adv"/></l><r>гына<s n="adv"/></r></p></e> <!-- только -->
+    <e><p><l>тин<s n="adv"/></l><r>гына<s n="adv"/></r></p></e> <!-- только -->
+    <e><p><l>шакӑр<s n="adv"/></l><r>гына<s n="adv"/></r></p></e> <!-- только -->
+    <e><p><l>пӗрех<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>ҫапла<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>шӑп<s n="adv"/></l><r>дөрес<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>пӗрех<s n="adv"/></l><r>төгәл<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>ҫапла<s n="adv"/></l><r>төгәл<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>шӑп<s n="adv"/></l><r>төгәл<s n="adv"/></r></p></e> <!-- точно -->
+    <e><p><l>канӑҫсӑр<s n="adv"/></l><r>хәвефле<s n="adv"/></r></p></e> <!-- тревожно -->
+    <e><p><l>хумханчӑк<s n="adv"/></l><r>хәвефле<s n="adv"/></r></p></e> <!-- тревожно -->
+    <e><p><l>йывӑр<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>кансӗр<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>тертлӗ<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>йывӑр<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>кансӗр<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>тертлӗ<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- трудно -->
+    <e><p><l>ҫакӑнта<s n="adv"/></l><r>монда<s n="adv"/></r></p></e> <!-- тут -->
+    <e><p><l>ассӑн<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>йывӑр<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>лӳппер<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>сулмаклӑ<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>тертлӗ<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>авыр<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>ассӑн<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>йывӑр<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>лӳппер<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>сулмаклӑ<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>тертлӗ<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>хӗсӗк<s n="adv"/></l><r>кыен<s n="adv"/></r></p></e> <!-- тяжело -->
+    <e><p><l>тӗлӗнмелле<s n="adv"/></l><r>гаҗәп<s n="adv"/></r></p></e> <!-- удивительно -->
+    <e><p><l>тӗлӗнмелле<s n="adv"/></l><r>искитәрлек<s n="adv"/></r></p></e> <!-- удивительно -->
+    <e><p><l>тӗлӗнмелле<s n="adv"/></l><r>искиткеч<s n="adv"/></r></p></e> <!-- удивительно -->
+    <e><p><l>тӗлӗнмелле<s n="adv"/></l><r>искитмәле<s n="adv"/></r></p></e> <!-- удивительно -->
+    <e><p><l>канлӗ<s n="adv"/></l><r>кулай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>майлӑ<s n="adv"/></l><r>кулай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>меллӗ<s n="adv"/></l><r>кулай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>хӑтлӑ<s n="adv"/></l><r>кулай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>канлӗ<s n="adv"/></l><r>уңай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>майлӑ<s n="adv"/></l><r>уңай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>меллӗ<s n="adv"/></l><r>уңай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>хӑтлӑ<s n="adv"/></l><r>уңай<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>канлӗ<s n="adv"/></l><r>уңайлы<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>майлӑ<s n="adv"/></l><r>уңайлы<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>меллӗ<s n="adv"/></l><r>уңайлы<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>хӑтлӑ<s n="adv"/></l><r>уңайлы<s n="adv"/></r></p></e> <!-- удобно -->
+    <e><p><l>ӑнӑҫлӑ<s n="adv"/></l><r>уңышлы<s n="adv"/></r></p></e> <!-- успешно -->
+    <e><p><l>ӳсӗмлӗ<s n="adv"/></l><r>уңышлы<s n="adv"/></r></p></e> <!-- успешно -->
+    <e><p><l>сиввӗн<s n="adv"/></l><r>салкын<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>сивӗ<s n="adv"/></l><r>салкын<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>сивлек<s n="adv"/></l><r>салкын<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>сиввӗн<s n="adv"/></l><r>суык<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>сивӗ<s n="adv"/></l><r>суык<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>сивлек<s n="adv"/></l><r>суык<s n="adv"/></r></p></e> <!-- холодно -->
+    <e><p><l>аван<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>лайӑх<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>привет<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>путлӗ<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>чипер<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>ырӑ<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>юрать<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>юрӑхлӑ<s n="adv"/></l><r>әйбәт<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>аван<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>лайӑх<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>привет<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>путлӗ<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>чипер<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>ырӑ<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>юрать<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>юрӑхлӑ<s n="adv"/></l><r>яхшы<s n="adv"/></r></p></e> <!-- хорошо -->
+    <e><p><l>йӑвӑ<s n="adv"/></l><r>еш<s n="adv"/></r></p></e> <!-- часто -->
+    <e><p><l>ытларах<s n="adv"/></l><r>еш<s n="adv"/></r></p></e> <!-- часто -->
+    <e><p><l>ҫӑра<s n="adv"/></l><r>еш<s n="adv"/></r></p></e> <!-- часто -->
+    <e><p><l>ҫине-ҫине<s n="adv"/></l><r>еш<s n="adv"/></r></p></e> <!-- часто -->
+    <e><p><l>тӑтӑш<s n="adv"/></l><r>еш<s n="adv"/></r></p></e> <!-- часто -->
+    <e><p><l>тӳрӗ<s n="adv"/></l><r>гадел<s n="adv"/></r></p></e> <!-- честно -->
+    <e><p><l>тӳрӗ<s n="adv"/></l><r>намуслы<s n="adv"/></r></p></e> <!-- честно -->
+    <e><p><l>таса<s n="adv"/></l><r>саф<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>тирпейлӗ<s n="adv"/></l><r>саф<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>янкӑр<s n="adv"/></l><r>саф<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>таса<s n="adv"/></l><r>таза<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>тирпейлӗ<s n="adv"/></l><r>таза<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>янкӑр<s n="adv"/></l><r>таза<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>таса<s n="adv"/></l><r>чиста<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>тирпейлӗ<s n="adv"/></l><r>чиста<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>янкӑр<s n="adv"/></l><r>чиста<s n="adv"/></r></p></e> <!-- чисто -->
+    <e><p><l>анлӑ<s n="adv"/></l><r>зур<s n="adv"/></r></p></e> <!-- широко -->
+    <e><p><l>сарлака<s n="adv"/></l><r>зур<s n="adv"/></r></p></e> <!-- широко -->
+    <e><p><l>анлӑ<s n="adv"/></l><r>киң<s n="adv"/></r></p></e> <!-- широко -->
+    <e><p><l>сарлака<s n="adv"/></l><r>киң<s n="adv"/></r></p></e> <!-- широко -->
+    <e><p><l>сӑнарлӑ<s n="adv"/></l><r>якты<s n="adv"/></r></p></e> <!-- ярко -->
+    <e><p><l>паллах<s n="adv"/></l><r>анык<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>анык<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>уяр<s n="adv"/></l><r>анык<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>янк<s n="adv"/></l><r>анык<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>янкӑр<s n="adv"/></l><r>анык<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>паллах<s n="adv"/></l><r>аяз<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>уҫҫӑн<s n="adv"/></l><r>аяз<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>уяр<s n="adv"/></l><r>аяз<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>янк<s n="adv"/></l><r>аяз<s n="adv"/></r></p></e> <!-- ясно -->
+    <e><p><l>янкӑр<s n="adv"/></l><r>аяз<s n="adv"/></r></p></e> <!-- ясно -->
