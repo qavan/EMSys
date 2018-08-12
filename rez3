@@ -1,246 +1,219 @@
-^6/6<num>/6<num><subst><nom>$ ^алтынсу/*алтынсу$
-^5/5<num>/5<num><subst><nom>$ ^Шулчак/*Шулчак$
-^5/5<num>/5<num><subst><nom>$ ^фонарен/*фонарен$
-^5/5<num>/5<num><subst><nom>$ ^гөләп/*гөләп$
-^4/4<num>/4<num><subst><nom>$ ^фонарьны/*фонарьны$
-^4/4<num>/4<num><subst><nom>$ ^йә/*йә$
-^4/4<num>/4<num><subst><nom>$ ^дансөЯр/*дансөЯр$
-^3/3<num>/3<num><subst><nom>$ ^Яңгыратып/*Яңгыратып$
-^3/3<num>/3<num><subst><nom>$ ^уйлап/уйла<v><tv><gna_perf>/уйла<v><tv><prc_perf>$^-/-<guio>$^нитеп/*нитеп$
-^3/3<num>/3<num><subst><nom>$ ^каплавыч/*каплавыч$
-^3/3<num>/3<num><subst><nom>$ ^иЯләштерсәң/*иЯләштерсәң$
-^3/3<num>/3<num><subst><nom>$ ^галиҗәнапләре/*галиҗәнапләре$
-^3/3<num>/3<num><subst><nom>$ ^В/*В$^-/-<guio>$^61/61<num>/61<num><subst><nom>$
-^3/3<num>/3<num><subst><nom>$ ^берсүзсез/*берсүзсез$
-^3/3<num>/3<num><subst><nom>$ ^бер/бер<num>/бер<det><ind>/бер<num><subst><nom>/бер<num><subst><nom>+и<cop><aor><p3><pl>/бер<num><subst><nom>+и<cop><aor><p3><sg>$^-/-<guio>$^берсенә/*берсенә$
-^3/3<num>/3<num><subst><nom>$ ^беразга/*беразга$
-^2/2<num>/2<num><subst><nom>$ ^Эһ/*Эһ$^-/-<guio>$^һем/*һем$
-^2/2<num>/2<num><subst><nom>$ ^ь/*ь$
-^2/2<num>/2<num><subst><nom>$ ^Фонарьны/*Фонарьны$
-^2/2<num>/2<num><subst><nom>$ ^уңайсызланып/*уңайсызланып$
-^2/2<num>/2<num><subst><nom>$ ^тырышыбрак/*тырышыбрак$
-^2/2<num>/2<num><subst><nom>$ ^тиңентен/*тиңентен$
-^2/2<num>/2<num><subst><nom>$ ^тизйөрешле/*тизйөрешле$
-^2/2<num>/2<num><subst><nom>$ ^л/*л$
-^2/2<num>/2<num><subst><nom>$ ^кыймшана/*кыймшана$
-^2/2<num>/2<num><subst><nom>$ ^кирәкми/*кирәкми$
-^2/2<num>/2<num><subst><nom>$ ^киләсен/*киләсен$
-^2/2<num>/2<num><subst><nom>$ ^Карале/*Карале$
-^2/2<num>/2<num><subst><nom>$ ^кайсылары/*кайсылары$
-^2/2<num>/2<num><subst><nom>$ ^кайвакытта/*кайвакытта$
-^2/2<num>/2<num><subst><nom>$ ^иЯләштерү/*иЯләштерү$
-^2/2<num>/2<num><subst><nom>$ ^иЯләштергән/*иЯләштергән$
-^2/2<num>/2<num><subst><nom>$ ^иЯләштер/*иЯләштер$
-^2/2<num>/2<num><subst><nom>$ ^иләмсез/*иләмсез$
-^2/2<num>/2<num><subst><nom>$ ^дансөЯр/*дансөЯр$
-^2/2<num>/2<num><subst><nom>$ ^дансөЯр/*дансөЯр$
-^2/2<num>/2<num><subst><nom>$ ^гап/*гап$^-/-<guio>$^гади/гади<adj>/гади<n><attr>/гади<n><nom>/гади<adj><advl>/гади<adj><subst><nom>/гади<adj>+и<cop><aor><p3><pl>/гади<adj>+и<cop><aor><p3><sg>/гади<n><nom>+и<cop><aor><p3><pl>/гади<n><nom>+и<cop><aor><p3><sg>/гади<adj><subst><nom>+и<cop><aor><p3><pl>/гади<adj><subst><nom>+и<cop><aor><p3><sg>$
-^2/2<num>/2<num><subst><nom>$ ^гаебем/*гаебем$
-^1/1<num>/1<num><subst><nom>$ ^Яхшылабрак/*Яхшылабрак$
-^1/1<num>/1<num><subst><nom>$ ^Яфракчыкларын/*Яфракчыкларын$
-^1/1<num>/1<num><subst><nom>$ ^Яфракчыгы/*Яфракчыгы$
-^1/1<num>/1<num><subst><nom>$ ^Ярымачык/*Ярымачык$
-^1/1<num>/1<num><subst><nom>$ ^Япа/*Япа$^-/-<guio>$^Ялгызы/ялгыз<adj><subst><px3sp><nom>/ялгыз<adj><subst><px3sp><nom>+и<cop><aor><p3><pl>/ялгыз<adj><subst><px3sp><nom>+и<cop><aor><p3><sg>$
-^1/1<num>/1<num><subst><nom>$ ^Ямансу/*Ямансу$
-^1/1<num>/1<num><subst><nom>$ ^Ялгышып/*Ялгышып$
-^1/1<num>/1<num><subst><nom>$ ^Ялгышмыйлар/*Ялгышмыйлар$
-^1/1<num>/1<num><subst><nom>$ ^ЯкЯг/*ЯкЯг$
-^1/1<num>/1<num><subst><nom>$ ^Явыз/*Явыз$
-^1/1<num>/1<num><subst><nom>$ ^юанасың/*юанасың$
-^1/1<num>/1<num><subst><nom>$ ^Эх/*Эх$
-^1/1<num>/1<num><subst><nom>$ ^“/“<lquot>$^Эфемер/*Эфемер$^”/”<rquot>$
-^1/1<num>/1<num><subst><nom>$ ^“/“<lquot>$^эфемер/*эфемер$^”/”<rquot>$
-^1/1<num>/1<num><subst><nom>$ ^Эфемер/*Эфемер$
-^1/1<num>/1<num><subst><nom>$ ^эфемер/*эфемер$
-^1/1<num>/1<num><subst><nom>$ ^Эһ/*Эһ$^-/-<guio>$^һем/*һем$
-^1/1<num>/1<num><subst><nom>$ ^ыспайлана/*ыспайлана$
-^1/1<num>/1<num><subst><nom>$ ^ына/*ына$
-^1/1<num>/1<num><subst><nom>$ ^шытып/*шытып$
-^1/1<num>/1<num><subst><nom>$ ^шыпырт/*шыпырт$
-^1/1<num>/1<num><subst><nom>$ ^шыксыз/*шыксыз$
-^1/1<num>/1<num><subst><nom>$ ^шыксыз/*шыксыз$
-^1/1<num>/1<num><subst><nom>$ ^шундыйрак/*шундыйрак$
-^1/1<num>/1<num><subst><nom>$ ^Шулчак/*Шулчак$
-^1/1<num>/1<num><subst><nom>$ ^шаккаткандай/*шаккаткандай$
-^1/1<num>/1<num><subst><nom>$ ^чып/*чып$^-/-<guio>$^чын/чын<adj>/чын<adj><advl>/чын<adj><subst><nom>/чын<adj>+и<cop><aor><p3><pl>/чын<adj>+и<cop><aor><p3><sg>/чын<adj><subst><nom>+и<cop><aor><p3><pl>/чын<adj><subst><nom>+и<cop><aor><p3><sg>$
-^1/1<num>/1<num><subst><nom>$ ^чылаттым/*чылаттым$
-^1/1<num>/1<num><subst><nom>$ ^чуалып/*чуалып$
-^1/1<num>/1<num><subst><nom>$ ^чөеп/*чөеп$
-^1/1<num>/1<num><subst><nom>$ ^читкәрәк/*читкәрәк$
-^1/1<num>/1<num><subst><nom>$ ^чибәркәй/*чибәркәй$
-^1/1<num>/1<num><subst><nom>$ ^чәйнәми/чәйнә<v><tv><neg><gna_perf>/чәйнә<v><tv><neg><prc_impf>/чәйнә<v><tv><neg><prc_perf>/чәйнә<v><tv><neg><pres><p3><sg>$^-/-<guio>$^нитми/*нитми$
-^1/1<num>/1<num><subst><nom>$ ^чәбәкли/*чәбәкли$
-^1/1<num>/1<num><subst><nom>$ ^чәбәкләп/*чәбәкләп$
-^1/1<num>/1<num><subst><nom>$ ^чәбәклә/*чәбәклә$
-^1/1<num>/1<num><subst><nom>$ ^ХХ/*ХХ$
-^1/1<num>/1<num><subst><nom>$ ^хөрти/*хөрти$
-^1/1<num>/1<num><subst><nom>$ ^ХXVII/*ХXVII$
-^1/1<num>/1<num><subst><nom>$ ^Х/*Х$
-^1/1<num>/1<num><subst><nom>$ ^ф/*ф$
-^1/1<num>/1<num><subst><nom>$ ^үтәли/*үтәли$
-^1/1<num>/1<num><subst><nom>$ ^уйчанланып/*уйчанланып$
-^1/1<num>/1<num><subst><nom>$ ^үзенчә/*үзенчә$
-^1/1<num>/1<num><subst><nom>$ ^угаладым/*угаладым$
-^1/1<num>/1<num><subst><nom>$ ^уалырга/*уалырга$
-^1/1<num>/1<num><subst><nom>$ ^тууын/*тууын$
-^1/1<num>/1<num><subst><nom>$ ^тураеп/*тураеп$
-^1/1<num>/1<num><subst><nom>$ ^түгелен/*түгелен$
-^1/1<num>/1<num><subst><nom>$ ^түбәнсетер/*түбәнсетер$
-^1/1<num>/1<num><subst><nom>$ ^төпченерләр/*төпченерләр$
-^1/1<num>/1<num><subst><nom>$ ^тилмертеп/*тилмертеп$
-^1/1<num>/1<num><subst><nom>$ ^тикшерәлер/*тикшерәлер$
-^1/1<num>/1<num><subst><nom>$ ^тарыган/*тарыган$
-^1/1<num>/1<num><subst><nom>$ ^талды/*талды$
-^1/1<num>/1<num><subst><nom>$ ^такылдап/*такылдап$
-^1/1<num>/1<num><subst><nom>$ ^суыдай/*суыдай$
-^1/1<num>/1<num><subst><nom>$ ^сихерләнгән/*сихерләнгән$
-^1/1<num>/1<num><subst><nom>$ ^сизенеп/*сизенеп$
-^1/1<num>/1<num><subst><nom>$ ^Сент/*Сент$^-/-<guio>$^Экзюпери/*Экзюпери$
-^1/1<num>/1<num><subst><nom>$ ^селкенеп/*селкенеп$
-^1/1<num>/1<num><subst><nom>$ ^саубуллашырга/*саубуллашырга$
-^1/1<num>/1<num><subst><nom>$ ^салындырып/*салындырып$
-^1/1<num>/1<num><subst><nom>$ ^сагышланырга/*сагышланырга$
-^1/1<num>/1<num><subst><nom>$ ^сагалап/*сагалап$
-^1/1<num>/1<num><subst><nom>$ ^сагалаган/*сагалаган$
-^1/1<num>/1<num><subst><nom>$ ^рны/*рны$
-^1/1<num>/1<num><subst><nom>$ ^ритмга/*ритмга$
-^1/1<num>/1<num><subst><nom>$ ^ризалаша/*ризалаша$
-^1/1<num>/1<num><subst><nom>$ ^револьверны/*револьверны$
-^1/1<num>/1<num><subst><nom>$ ^р/*р$
-^1/1<num>/1<num><subst><nom>$ ^повестьны/*повестьны$
-^1/1<num>/1<num><subst><nom>$ ^оЯлтырга/*оЯлтырга$
-^1/1<num>/1<num><subst><nom>$ ^өчесен/*өчесен$
-^1/1<num>/1<num><subst><nom>$ ^охшатып/*охшатып$
-^1/1<num>/1<num><subst><nom>$ ^охшатыбрак/*охшатыбрак$
-^1/1<num>/1<num><subst><nom>$ ^охшаганм/*охшаганм$
-^1/1<num>/1<num><subst><nom>$ ^о/*о$
-^1/1<num>/1<num><subst><nom>$ ^Нибарысы/*Нибарысы$
-^1/1<num>/1<num><subst><nom>$ ^нәмәрсәләр/*нәмәрсәләр$
-^н/*н$ ^1/1<num>/1<num><subst><nom>$ ^мылтыклары/мылтык<n><pl><px3sp><nom>/мылтык<n><pl><px3sp><nom>+и<cop><aor><p3><pl>/мылтык<n><pl><px3sp><nom>+и<cop><aor><p3><sg>$
-^1/1<num>/1<num><subst><nom>$ ^моңсуланып/*моңсуланып$
-^1/1<num>/1<num><subst><nom>$ ^моңсуланып/*моңсуланып$
-^1/1<num>/1<num><subst><nom>$ ^моңсулана/*моңсулана$
-^1/1<num>/1<num><subst><nom>$ ^моңсу/*моңсу$
-^1/1<num>/1<num><subst><nom>$ ^митингтагы/*митингтагы$
-^1/1<num>/1<num><subst><nom>$ ^микәнни/*микәнни$
-^1/1<num>/1<num><subst><nom>$ ^мехларга/*мехларга$
-^1/1<num>/1<num><subst><nom>$ ^метрлап/*метрлап$
-^1/1<num>/1<num><subst><nom>$ ^мәңгегәдер/*мәңгегәдер$
-^1/1<num>/1<num><subst><nom>$ ^лә/*лә$
-^1/1<num>/1<num><subst><nom>$ ^лә/*лә$
-^1/1<num>/1<num><subst><nom>$ ^кысан/*кысан$
-^1/1<num>/1<num><subst><nom>$ ^кыйшайтып/*кыйшайтып$
-^1/1<num>/1<num><subst><nom>$ ^кыймылдап/*кыймылдап$
-^1/1<num>/1<num><subst><nom>$ ^Курыкмаслыкмы/*Курыкмаслыкмы$
-^1/1<num>/1<num><subst><nom>$ ^куптарды/*куптарды$
-^1/1<num>/1<num><subst><nom>$ ^Күңелсезләнергә/*Күңелсезләнергә$
-^1/1<num>/1<num><subst><nom>$ ^куйгалый/*куйгалый$
-^1/1<num>/1<num><subst><nom>$ ^күгәреп/*күгәреп$
-^1/1<num>/1<num><subst><nom>$ ^коп/*коп$^-/-<guio>$^коры/коры<adj>/коры<n><attr>/коры<n><nom>/коры<adj><advl>/коры<adj><subst><nom>/коры<v><tv><imp><p2><sg>/коры<v><iv><imp><p2><sg>/коры<adj>+и<cop><aor><p3><pl>/коры<adj>+и<cop><aor><p3><sg>/коры<n><nom>+и<cop><aor><p3><pl>/коры<n><nom>+и<cop><aor><p3><sg>/коры<adj><subst><nom>+и<cop><aor><p3><pl>/коры<adj><subst><nom>+и<cop><aor><p3><sg>$
-^1/1<num>/1<num><subst><nom>$ ^Көндезләрен/*Көндезләрен$
-^1/1<num>/1<num><subst><nom>$ ^көндезләрен/*көндезләрен$
-^1/1<num>/1<num><subst><nom>$ ^көйликөйли/*көйликөйли$
-^1/1<num>/1<num><subst><nom>$ ^кичектергесез/*кичектергесез$
-^1/1<num>/1<num><subst><nom>$ ^кирәкми/*кирәкми$
-^1/1<num>/1<num><subst><nom>$ ^кирәкми/*кирәкми$
-^1/1<num>/1<num><subst><nom>$ ^киребеткән/*киребеткән$
-^1/1<num>/1<num><subst><nom>$ ^кидерә/*кидерә$
-^1/1<num>/1<num><subst><nom>$ ^карурманнар/*карурманнар$
-^1/1<num>/1<num><subst><nom>$ ^картаЯм/*картаЯм$
-^1/1<num>/1<num><subst><nom>$ ^карета/*карета$
-^1/1<num>/1<num><subst><nom>$ ^Карале/*Карале$
-^1/1<num>/1<num><subst><nom>$ ^Каплавыч/*Каплавыч$
-^1/1<num>/1<num><subst><nom>$ ^капкорсак/*капкорсак$
-^1/1<num>/1<num><subst><nom>$ ^калтыранып/*калтыранып$
-^1/1<num>/1<num><subst><nom>$ ^Кайвакытта/*Кайвакытта$
-^1/1<num>/1<num><subst><nom>$ ^кавышу/*кавышу$
-^1/1<num>/1<num><subst><nom>$ ^кабара/*кабара$
-^1/1<num>/1<num><subst><nom>$ ^йотлыгып/*йотлыгып$
-^1/1<num>/1<num><subst><nom>$ ^йөткергәләп/*йөткергәләп$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерүемне/*иЯләштерүемне$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштермәгәнсез/*иЯләштермәгәнсез$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштермәгән/*иЯләштермәгән$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерергә/*иЯләштерергә$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерер/*иЯләштерер$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерелмәгән/*иЯләштерелмәгән$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерәләр/*иЯләштерәләр$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштерә/*иЯләштерә$
-^1/1<num>/1<num><subst><nom>$ ^иЯләштергәндер/*иЯләштергәндер$
-^1/1<num>/1<num><subst><nom>$ ^ишетмәмешкә/*ишетмәмешкә$
-^1/1<num>/1<num><subst><nom>$ ^иңләп/*иңләп$
-^1/1<num>/1<num><subst><nom>$ ^иксез/*иксез$^-/-<guio>$^чиксез/чик<n><nom>+и<cop><aor><p2><frm><pl>/чик<n><nom>+и<cop><aor><p2><frm><sg>/чик<n><nom>+и<cop><aor><p2><pl>/чиксез<adj>/чик<n>+сыз<post>/чиксез<adj>+и<cop><aor><p3><pl>/чиксез<adj>+и<cop><aor><p3><sg>$
-^1/1<num>/1<num><subst><nom>$ ^икеләнү/*икеләнү$
-^1/1<num>/1<num><subst><nom>$ ^икеләнмичә/*икеләнмичә$
-^1/1<num>/1<num><subst><nom>$ ^икеләнеп/*икеләнеп$
-^1/1<num>/1<num><subst><nom>$ ^иеп/*иеп$
-^1/1<num>/1<num><subst><nom>$ ^иеп/*иеп$
-^1/1<num>/1<num><subst><nom>$ ^зеңгелдәп/*зеңгелдәп$
-^1/1<num>/1<num><subst><nom>$ ^җыештырган/*җыештырган$
-^1/1<num>/1<num><subst><nom>$ ^җыерырлар/*җыерырлар$
-^1/1<num>/1<num><subst><nom>$ ^җыерып/*җыерып$
-^1/1<num>/1<num><subst><nom>$ ^җор/*җор$
-^1/1<num>/1<num><subst><nom>$ ^җитдиләнде/*җитдиләнде$
-^1/1<num>/1<num><subst><nom>$ ^җитдие/*җитдие$
-^1/1<num>/1<num><subst><nom>$ ^җете/*җете$
-^1/1<num>/1<num><subst><nom>$ ^ж/*ж$
-^1/1<num>/1<num><subst><nom>$ ^әлсерәп/*әлсерәп$
-^1/1<num>/1<num><subst><nom>$ ^елатырга/*елатырга$
-^1/1<num>/1<num><subst><nom>$ ^әйеме/*әйеме$
-^1/1<num>/1<num><subst><nom>$ ^егермешәр/*егермешәр$
-^1/1<num>/1<num><subst><nom>$ ^дулкынсыман/*дулкынсыман$
-^1/1<num>/1<num><subst><nom>$ ^дөресрәге/*дөресрәге$
-^1/1<num>/1<num><subst><nom>$ ^дөбердәп/*дөбердәп$
-^1/1<num>/1<num><subst><nom>$ ^дәме/*дәме$
-^1/1<num>/1<num><subst><nom>$ ^де/*де$
-^1/1<num>/1<num><subst><nom>$ ^дансөЯрне/*дансөЯрне$
-^1/1<num>/1<num><subst><nom>$ ^ДансөЯр/*ДансөЯр$
-^1/1<num>/1<num><subst><nom>$ ^дамы/*дамы$
-^1/1<num>/1<num><subst><nom>$ ^д/*д$
-^1/1<num>/1<num><subst><nom>$ ^гынамы/*гынамы$
-^1/1<num>/1<num><subst><nom>$ ^гөләпләрне/*гөләпләрне$
-^1/1<num>/1<num><subst><nom>$ ^гөләпләр/*гөләпләр$
-^1/1<num>/1<num><subst><nom>$ ^гөләпләр/*гөләпләр$
-^1/1<num>/1<num><subst><nom>$ ^гөләпләр/*гөләпләр$
-^1/1<num>/1<num><subst><nom>$ ^галиҗәнапләре/*галиҗәнапләре$
-^1/1<num>/1<num><subst><nom>$ ^гаебен/*гаебен$
-^1/1<num>/1<num><subst><nom>$ ^гаебе/*гаебе$
-^1/1<num>/1<num><subst><nom>$ ^Г/*Г$
-^1/1<num>/1<num><subst><nom>$ ^вулканна/*вулканна$
-^1/1<num>/1<num><subst><nom>$ ^Вертка/*Вертка$
-^1/1<num>/1<num><subst><nom>$ ^Вертка/*Вертка$
-^1/1<num>/1<num><subst><nom>$ ^В/*В$^-/-<guio>$^612/612<num>/612<num><subst><nom>$^”/”<rquot>$
-^1/1<num>/1<num><subst><nom>$ ^бутыйсың/*бутыйсың$
-^1/1<num>/1<num><subst><nom>$ ^бөтенләе/*бөтенләе$
-^1/1<num>/1<num><subst><nom>$ ^бөгәрләнеп/*бөгәрләнеп$
-^1/1<num>/1<num><subst><nom>$ ^бигүк/*бигүк$
-^1/1<num>/1<num><subst><nom>$ ^берьЯлгызыңа/*берьЯлгызыңа$
-^1/1<num>/1<num><subst><nom>$ ^берьЯлгызың/*берьЯлгызың$
-^1/1<num>/1<num><subst><nom>$ ^бернәрсәсе/*бернәрсәсе$
-^1/1<num>/1<num><subst><nom>$ ^Беркемнеке/*Беркемнеке$
-^1/1<num>/1<num><subst><nom>$ ^Бервакытта/*Бервакытта$
-^1/1<num>/1<num><subst><nom>$ ^бервакытта/*бервакытта$
-^1/1<num>/1<num><subst><nom>$ ^белештерми/*белештерми$
-^1/1<num>/1<num><subst><nom>$ ^бәласе/*бәласе$
-^1/1<num>/1<num><subst><nom>$ ^Бәлагә/*Бәлагә$
-^1/1<num>/1<num><subst><nom>$ ^баерак/*баерак$
-^1/1<num>/1<num><subst><nom>$ ^Б/*Б$
-^1/1<num>/1<num><subst><nom>$ ^астероидының/*астероидының$
-^1/1<num>/1<num><subst><nom>$ ^астероиды/*астероиды$
-^1/1<num>/1<num><subst><nom>$ ^астероидта/*астероидта$
-^1/1<num>/1<num><subst><nom>$ ^астероидлар/*астероидлар$
-^1/1<num>/1<num><subst><nom>$ ^астероидка/*астероидка$
-^1/1<num>/1<num><subst><nom>$ ^арттырыбрак/*арттырыбрак$
-^1/1<num>/1<num><subst><nom>$ ^Аризонадан/*Аризонадан$
-^1/1<num>/1<num><subst><nom>$ ^аптыратырга/*аптыратырга$
-^1/1<num>/1<num><subst><nom>$ ^аптыратмаслар/*аптыратмаслар$
-^1/1<num>/1<num><subst><nom>$ ^Антуан/*Антуан$
-^1/1<num>/1<num><subst><nom>$ ^аннанмонна/*аннанмонна$
-^1/1<num>/1<num><subst><nom>$ ^аңлаешлырак/*аңлаешлырак$
-^1/1<num>/1<num><subst><nom>$ ^актара/*актара$^-/-<guio>$^актара/*актара$
-^1/1<num>/1<num><subst><nom>$ ^Ай/ай<ij>/ай<n><attr>/ай<n><nom>/Ай<np><ant><m><nom>/ай<n><nom>+и<cop><aor><p3><pl>/ай<n><nom>+и<cop><aor><p3><sg>/Ай<np><ant><m><nom>+и<cop><aor><p3><pl>/Ай<np><ant><m><nom>+и<cop><aor><p3><sg>$^-/-<guio>$^һай/*һай$
-^1/1<num>/1<num><subst><nom>$ ^азлап/*азлап$
-^1/1<num>/1<num><subst><nom>$ ^авырлашканнан/*авырлашканнан$
-^1/1<num>/1<num><subst><nom>$ ^авырлаша/*авырлаша$
-^1/1<num>/1<num><subst><nom>$ ^һәрберсе/*һәрберсе$
-^1/1<num>/1<num><subst><nom>$ ^һе/*һе$
-^1/1<num>/1<num><subst><nom>$ ^һе/*һе$
+      ^9/9<num>/9<num><subst><nom>$ ^дансөяр/*дансөяр$
+      ^6/6<num>/6<num><subst><nom>$ ^шулчак/*шулчак$
+      ^6/6<num>/6<num><subst><nom>$ ^фонарьны/*фонарьны$
+      ^6/6<num>/6<num><subst><nom>$ ^алтынсу/*алтынсу$
+      ^5/5<num>/5<num><subst><nom>$ ^фонарен/*фонарен$
+      ^5/5<num>/5<num><subst><nom>$ ^гөләп/*гөләп$
+      ^4/4<num>/4<num><subst><nom>$ ^эфемер/*эфемер$
+      ^4/4<num>/4<num><subst><nom>$ ^кирәкми/*кирәкми$
+      ^4/4<num>/4<num><subst><nom>$ ^каплавыч/*каплавыч$
+      ^4/4<num>/4<num><subst><nom>$ ^йә/*йә$
+      ^4/4<num>/4<num><subst><nom>$ ^галиҗәнапләре/*галиҗәнапләре$
+      ^4/4<num>/4<num><subst><nom>$ ^в/*в$^-/-<guio>$
+      ^3/3<num>/3<num><subst><nom>$ ^яңгыратып/*яңгыратып$
+      ^3/3<num>/3<num><subst><nom>$ ^эһ/*эһ$^-/-<guio>$^һем/*һем$
+      ^3/3<num>/3<num><subst><nom>$ ^уйлап/уйла<v><tv><gna_perf>/уйла<v><tv><prc_perf>$^-/-<guio>$^нитеп/*нитеп$
+      ^3/3<num>/3<num><subst><nom>$ ^карале/*карале$
+      ^3/3<num>/3<num><subst><nom>$ ^кайвакытта/*кайвакытта$
+      ^3/3<num>/3<num><subst><nom>$ ^ияләштерсәң/*ияләштерсәң$
+      ^3/3<num>/3<num><subst><nom>$ ^гөләпләр/*гөләпләр$
+      ^3/3<num>/3<num><subst><nom>$ ^берсүзсез/*берсүзсез$
+      ^3/3<num>/3<num><subst><nom>$ ^бер/бер<num>/бер<det><ind>/бер<num><subst><nom>/бер<num><subst><nom>+и<cop><aor><p3><pl>/бер<num><subst><nom>+и<cop><aor><p3><sg>$^-/-<guio>$^берсенә/*берсенә$
+      ^3/3<num>/3<num><subst><nom>$ ^беразга/*беразга$
+      ^2/2<num>/2<num><subst><nom>$ ^ь/*ь$
+      ^2/2<num>/2<num><subst><nom>$ ^шыксыз/*шыксыз$
+      ^2/2<num>/2<num><subst><nom>$ ^һе/*һе$
+      ^2/2<num>/2<num><subst><nom>$ ^х/*х$
+      ^2/2<num>/2<num><subst><nom>$ ^уңайсызланып/*уңайсызланып$
+      ^2/2<num>/2<num><subst><nom>$ ^тырышыбрак/*тырышыбрак$
+      ^2/2<num>/2<num><subst><nom>$ ^тиңентен/*тиңентен$
+      ^2/2<num>/2<num><subst><nom>$ ^тизйөрешле/*тизйөрешле$
+      ^2/2<num>/2<num><subst><nom>$ ^моңсуланып/*моңсуланып$
+      ^2/2<num>/2<num><subst><nom>$ ^лә/*лә$
+      ^2/2<num>/2<num><subst><nom>$ ^л/*л$
+      ^2/2<num>/2<num><subst><nom>$ ^кыймшана/*кыймшана$
+      ^2/2<num>/2<num><subst><nom>$ ^көндезләрен/*көндезләрен$
+      ^2/2<num>/2<num><subst><nom>$ ^киләсен/*киләсен$
+      ^2/2<num>/2<num><subst><nom>$ ^кайсылары/*кайсылары$
+      ^2/2<num>/2<num><subst><nom>$ ^ияләштерү/*ияләштерү$
+      ^2/2<num>/2<num><subst><nom>$ ^ияләштергән/*ияләштергән$
+      ^2/2<num>/2<num><subst><nom>$ ^ияләштер/*ияләштер$
+      ^2/2<num>/2<num><subst><nom>$ ^иләмсез/*иләмсез$
+      ^2/2<num>/2<num><subst><nom>$ ^иеп/*иеп$
+      ^2/2<num>/2<num><subst><nom>$ ^гап/*гап$^-/-<guio>$^гади/гади<adj>/гади<n><attr>/гади<n><nom>/гади<adj><advl>/гади<adj><subst><nom>/гади<adj>+и<cop><aor><p3><pl>/гади<adj>+и<cop><aor><p3><sg>/гади<n><nom>+и<cop><aor><p3><pl>/гади<n><nom>+и<cop><aor><p3><sg>/гади<adj><subst><nom>+и<cop><aor><p3><pl>/гади<adj><subst><nom>+и<cop><aor><p3><sg>$
+      ^2/2<num>/2<num><subst><nom>$ ^гаебем/*гаебем$
+      ^2/2<num>/2<num><subst><nom>$ ^вертка/*вертка$
+      ^2/2<num>/2<num><subst><nom>$ ^бервакытта/*бервакытта$
+      ^1/1<num>/1<num><subst><nom>$ ^яхшылабрак/*яхшылабрак$
+      ^1/1<num>/1<num><subst><nom>$ ^яфракчыкларын/*яфракчыкларын$
+      ^1/1<num>/1<num><subst><nom>$ ^яфракчыгы/*яфракчыгы$
+      ^1/1<num>/1<num><subst><nom>$ ^ярымачык/*ярымачык$
+      ^1/1<num>/1<num><subst><nom>$ ^япа/*япа$^-/-<guio>$^ялгызы/ялгыз<adj><subst><px3sp><nom>/ялгыз<adj><subst><px3sp><nom>+и<cop><aor><p3><pl>/ялгыз<adj><subst><px3sp><nom>+и<cop><aor><p3><sg>$
+      ^1/1<num>/1<num><subst><nom>$ ^ямансу/*ямансу$
+      ^1/1<num>/1<num><subst><nom>$ ^ялгышып/*ялгышып$
+      ^1/1<num>/1<num><subst><nom>$ ^ялгышмыйлар/*ялгышмыйлар$
+      ^1/1<num>/1<num><subst><nom>$ ^якяг/*якяг$
+      ^1/1<num>/1<num><subst><nom>$ ^явыз/*явыз$
+      ^1/1<num>/1<num><subst><nom>$ ^юанасың/*юанасың$
+      ^1/1<num>/1<num><subst><nom>$ ^эх/*эх$
+      ^1/1<num>/1<num><subst><nom>$ ^ыспайлана/*ыспайлана$
+      ^1/1<num>/1<num><subst><nom>$ ^ына/*ына$
+      ^1/1<num>/1<num><subst><nom>$ ^шытып/*шытып$
+      ^1/1<num>/1<num><subst><nom>$ ^шыпырт/*шыпырт$
+      ^1/1<num>/1<num><subst><nom>$ ^шундыйрак/*шундыйрак$
+      ^1/1<num>/1<num><subst><nom>$ ^шаккаткандай/*шаккаткандай$
+      ^1/1<num>/1<num><subst><nom>$ ^чып/*чып$^-/-<guio>$^чын/чын<adj>/чын<adj><advl>/чын<adj><subst><nom>/чын<adj>+и<cop><aor><p3><pl>/чын<adj>+и<cop><aor><p3><sg>/чын<adj><subst><nom>+и<cop><aor><p3><pl>/чын<adj><subst><nom>+и<cop><aor><p3><sg>$
+      ^1/1<num>/1<num><subst><nom>$ ^чылаттым/*чылаттым$
+      ^1/1<num>/1<num><subst><nom>$ ^чуалып/*чуалып$
+      ^1/1<num>/1<num><subst><nom>$ ^чөеп/*чөеп$
+      ^1/1<num>/1<num><subst><nom>$ ^читкәрәк/*читкәрәк$
+      ^1/1<num>/1<num><subst><nom>$ ^чибәркәй/*чибәркәй$
+      ^1/1<num>/1<num><subst><nom>$ ^чәйнәми/чәйнә<v><tv><neg><gna_perf>/чәйнә<v><tv><neg><prc_impf>/чәйнә<v><tv><neg><prc_perf>/чәйнә<v><tv><neg><pres><p3><sg>$^-/-<guio>$^нитми/*нитми$
+      ^1/1<num>/1<num><subst><nom>$ ^чәбәкли/*чәбәкли$
+      ^1/1<num>/1<num><subst><nom>$ ^чәбәкләп/*чәбәкләп$
+      ^1/1<num>/1<num><subst><nom>$ ^чәбәклә/*чәбәклә$
+      ^1/1<num>/1<num><subst><nom>$ ^хх/*хх$
+      ^1/1<num>/1<num><subst><nom>$ ^хөрти/*хөрти$
+      ^1/1<num>/1<num><subst><nom>$ ^һәрберсе/*һәрберсе$
+      ^1/1<num>/1<num><subst><nom>$ ^ф/*ф$
+      ^1/1<num>/1<num><subst><nom>$ ^үтәли/*үтәли$
+      ^1/1<num>/1<num><subst><nom>$ ^уйчанланып/*уйчанланып$
+      ^1/1<num>/1<num><subst><nom>$ ^үзенчә/*үзенчә$
+      ^1/1<num>/1<num><subst><nom>$ ^угаладым/*угаладым$
+      ^1/1<num>/1<num><subst><nom>$ ^уалырга/*уалырга$
+      ^1/1<num>/1<num><subst><nom>$ ^тууын/*тууын$
+      ^1/1<num>/1<num><subst><nom>$ ^тураеп/*тураеп$
+      ^1/1<num>/1<num><subst><nom>$ ^түгелен/*түгелен$
+      ^1/1<num>/1<num><subst><nom>$ ^түбәнсетер/*түбәнсетер$
+      ^1/1<num>/1<num><subst><nom>$ ^төпченерләр/*төпченерләр$
+      ^1/1<num>/1<num><subst><nom>$ ^тилмертеп/*тилмертеп$
+      ^1/1<num>/1<num><subst><nom>$ ^тикшерәлер/*тикшерәлер$
+      ^1/1<num>/1<num><subst><nom>$ ^тарыган/*тарыган$
+      ^1/1<num>/1<num><subst><nom>$ ^талды/*талды$
+      ^1/1<num>/1<num><subst><nom>$ ^такылдап/*такылдап$
+      ^1/1<num>/1<num><subst><nom>$ ^суыдай/*суыдай$
+      ^1/1<num>/1<num><subst><nom>$ ^сихерләнгән/*сихерләнгән$
+      ^1/1<num>/1<num><subst><nom>$ ^сизенеп/*сизенеп$
+      ^1/1<num>/1<num><subst><nom>$ ^сент/*сент$^-/-<guio>$^экзюпери/*экзюпери$
+      ^1/1<num>/1<num><subst><nom>$ ^селкенеп/*селкенеп$
+      ^1/1<num>/1<num><subst><nom>$ ^саубуллашырга/*саубуллашырга$
+      ^1/1<num>/1<num><subst><nom>$ ^салындырып/*салындырып$
+      ^1/1<num>/1<num><subst><nom>$ ^сагышланырга/*сагышланырга$
+      ^1/1<num>/1<num><subst><nom>$ ^сагалап/*сагалап$
+      ^1/1<num>/1<num><subst><nom>$ ^сагалаган/*сагалаган$
+      ^1/1<num>/1<num><subst><nom>$ ^рны/*рны$
+      ^1/1<num>/1<num><subst><nom>$ ^ритмга/*ритмга$
+      ^1/1<num>/1<num><subst><nom>$ ^ризалаша/*ризалаша$
+      ^1/1<num>/1<num><subst><nom>$ ^револьверны/*револьверны$
+      ^1/1<num>/1<num><subst><nom>$ ^р/*р$
+      ^1/1<num>/1<num><subst><nom>$ ^повестьны/*повестьны$
+      ^1/1<num>/1<num><subst><nom>$ ^оялтырга/*оялтырга$
+      ^1/1<num>/1<num><subst><nom>$ ^өчесен/*өчесен$
+      ^1/1<num>/1<num><subst><nom>$ ^охшатып/*охшатып$
+      ^1/1<num>/1<num><subst><nom>$ ^охшатыбрак/*охшатыбрак$
+      ^1/1<num>/1<num><subst><nom>$ ^охшаганм/*охшаганм$
+      ^1/1<num>/1<num><subst><nom>$ ^о/*о$
+      ^1/1<num>/1<num><subst><nom>$ ^нибарысы/*нибарысы$
+      ^1/1<num>/1<num><subst><nom>$ ^нәмәрсәләр/*нәмәрсәләр$
+      ^н/*н$ ^1/1<num>/1<num><subst><nom>$ ^мылтыклары/мылтык<n><pl><px3sp><nom>/мылтык<n><pl><px3sp><nom>+и<cop><aor><p3><pl>/мылтык<n><pl><px3sp><nom>+и<cop><aor><p3><sg>$
+      ^1/1<num>/1<num><subst><nom>$ ^моңсулана/*моңсулана$
+      ^1/1<num>/1<num><subst><nom>$ ^моңсу/*моңсу$
+      ^1/1<num>/1<num><subst><nom>$ ^митингтагы/*митингтагы$
+      ^1/1<num>/1<num><subst><nom>$ ^микәнни/*микәнни$
+      ^1/1<num>/1<num><subst><nom>$ ^мехларга/*мехларга$
+      ^1/1<num>/1<num><subst><nom>$ ^метрлап/*метрлап$
+      ^1/1<num>/1<num><subst><nom>$ ^мәңгегәдер/*мәңгегәдер$
+      ^1/1<num>/1<num><subst><nom>$ ^кысан/*кысан$
+      ^1/1<num>/1<num><subst><nom>$ ^кыйшайтып/*кыйшайтып$
+      ^1/1<num>/1<num><subst><nom>$ ^кыймылдап/*кыймылдап$
+      ^1/1<num>/1<num><subst><nom>$ ^курыкмаслыкмы/*курыкмаслыкмы$
+      ^1/1<num>/1<num><subst><nom>$ ^куптарды/*куптарды$
+      ^1/1<num>/1<num><subst><nom>$ ^күңелсезләнергә/*күңелсезләнергә$
+      ^1/1<num>/1<num><subst><nom>$ ^куйгалый/*куйгалый$
+      ^1/1<num>/1<num><subst><nom>$ ^күгәреп/*күгәреп$
+      ^1/1<num>/1<num><subst><nom>$ ^коп/*коп$^-/-<guio>$^коры/коры<adj>/коры<n><attr>/коры<n><nom>/коры<adj><advl>/коры<adj><subst><nom>/коры<v><tv><imp><p2><sg>/коры<v><iv><imp><p2><sg>/коры<adj>+и<cop><aor><p3><pl>/коры<adj>+и<cop><aor><p3><sg>/коры<n><nom>+и<cop><aor><p3><pl>/коры<n><nom>+и<cop><aor><p3><sg>/коры<adj><subst><nom>+и<cop><aor><p3><pl>/коры<adj><subst><nom>+и<cop><aor><p3><sg>$
+      ^1/1<num>/1<num><subst><nom>$ ^көйликөйли/*көйликөйли$
+      ^1/1<num>/1<num><subst><nom>$ ^кичектергесез/*кичектергесез$
+      ^1/1<num>/1<num><subst><nom>$ ^киребеткән/*киребеткән$
+      ^1/1<num>/1<num><subst><nom>$ ^кидерә/*кидерә$
+      ^1/1<num>/1<num><subst><nom>$ ^карурманнар/*карурманнар$
+      ^1/1<num>/1<num><subst><nom>$ ^картаям/*картаям$
+      ^1/1<num>/1<num><subst><nom>$ ^карета/*карета$
+      ^1/1<num>/1<num><subst><nom>$ ^капкорсак/*капкорсак$
+      ^1/1<num>/1<num><subst><nom>$ ^калтыранып/*калтыранып$
+      ^1/1<num>/1<num><subst><nom>$ ^кавышу/*кавышу$
+      ^1/1<num>/1<num><subst><nom>$ ^кабара/*кабара$
+      ^1/1<num>/1<num><subst><nom>$ ^йотлыгып/*йотлыгып$
+      ^1/1<num>/1<num><subst><nom>$ ^йөткергәләп/*йөткергәләп$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерүемне/*ияләштерүемне$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштермәгәнсез/*ияләштермәгәнсез$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштермәгән/*ияләштермәгән$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерергә/*ияләштерергә$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерер/*ияләштерер$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерелмәгән/*ияләштерелмәгән$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерәләр/*ияләштерәләр$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштерә/*ияләштерә$
+      ^1/1<num>/1<num><subst><nom>$ ^ияләштергәндер/*ияләштергәндер$
+      ^1/1<num>/1<num><subst><nom>$ ^ишетмәмешкә/*ишетмәмешкә$
+      ^1/1<num>/1<num><subst><nom>$ ^иңләп/*иңләп$
+      ^1/1<num>/1<num><subst><nom>$ ^иксез/*иксез$^-/-<guio>$^чиксез/чик<n><nom>+и<cop><aor><p2><frm><pl>/чик<n><nom>+и<cop><aor><p2><frm><sg>/чик<n><nom>+и<cop><aor><p2><pl>/чиксез<adj>/чик<n>+сыз<post>/чиксез<adj>+и<cop><aor><p3><pl>/чиксез<adj>+и<cop><aor><p3><sg>$
+      ^1/1<num>/1<num><subst><nom>$ ^икеләнү/*икеләнү$
+      ^1/1<num>/1<num><subst><nom>$ ^икеләнмичә/*икеләнмичә$
+      ^1/1<num>/1<num><subst><nom>$ ^икеләнеп/*икеләнеп$
+      ^1/1<num>/1<num><subst><nom>$ ^зеңгелдәп/*зеңгелдәп$
+      ^1/1<num>/1<num><subst><nom>$ ^җыештырган/*җыештырган$
+      ^1/1<num>/1<num><subst><nom>$ ^җыерырлар/*җыерырлар$
+      ^1/1<num>/1<num><subst><nom>$ ^җыерып/*җыерып$
+      ^1/1<num>/1<num><subst><nom>$ ^җор/*җор$
+      ^1/1<num>/1<num><subst><nom>$ ^җитдиләнде/*җитдиләнде$
+      ^1/1<num>/1<num><subst><nom>$ ^җитдие/*җитдие$
+      ^1/1<num>/1<num><subst><nom>$ ^җете/*җете$
+      ^1/1<num>/1<num><subst><nom>$ ^ж/*ж$
+      ^1/1<num>/1<num><subst><nom>$ ^әлсерәп/*әлсерәп$
+      ^1/1<num>/1<num><subst><nom>$ ^елатырга/*елатырга$
+      ^1/1<num>/1<num><subst><nom>$ ^әйеме/*әйеме$
+      ^1/1<num>/1<num><subst><nom>$ ^егермешәр/*егермешәр$
+      ^1/1<num>/1<num><subst><nom>$ ^дулкынсыман/*дулкынсыман$
+      ^1/1<num>/1<num><subst><nom>$ ^дөресрәге/*дөресрәге$
+      ^1/1<num>/1<num><subst><nom>$ ^дөбердәп/*дөбердәп$
+      ^1/1<num>/1<num><subst><nom>$ ^дәме/*дәме$
+      ^1/1<num>/1<num><subst><nom>$ ^де/*де$
+      ^1/1<num>/1<num><subst><nom>$ ^дансөярне/*дансөярне$
+      ^1/1<num>/1<num><subst><nom>$ ^дамы/*дамы$
+      ^1/1<num>/1<num><subst><nom>$ ^д/*д$
+      ^1/1<num>/1<num><subst><nom>$ ^гынамы/*гынамы$
+      ^1/1<num>/1<num><subst><nom>$ ^гөләпләрне/*гөләпләрне$
+      ^1/1<num>/1<num><subst><nom>$ ^гаебен/*гаебен$
+      ^1/1<num>/1<num><subst><nom>$ ^гаебе/*гаебе$
+      ^1/1<num>/1<num><subst><nom>$ ^г/*г$
+      ^1/1<num>/1<num><subst><nom>$ ^вулканна/*вулканна$
+      ^1/1<num>/1<num><subst><nom>$ ^бутыйсың/*бутыйсың$
+      ^1/1<num>/1<num><subst><nom>$ ^бөтенләе/*бөтенләе$
+      ^1/1<num>/1<num><subst><nom>$ ^бөгәрләнеп/*бөгәрләнеп$
+      ^1/1<num>/1<num><subst><nom>$ ^бигүк/*бигүк$
+      ^1/1<num>/1<num><subst><nom>$ ^берьялгызыңа/*берьялгызыңа$
+      ^1/1<num>/1<num><subst><nom>$ ^берьялгызың/*берьялгызың$
+      ^1/1<num>/1<num><subst><nom>$ ^бернәрсәсе/*бернәрсәсе$
+      ^1/1<num>/1<num><subst><nom>$ ^беркемнеке/*беркемнеке$
+      ^1/1<num>/1<num><subst><nom>$ ^белештерми/*белештерми$
+      ^1/1<num>/1<num><subst><nom>$ ^бәласе/*бәласе$
+      ^1/1<num>/1<num><subst><nom>$ ^бәлагә/*бәлагә$
+      ^1/1<num>/1<num><subst><nom>$ ^баерак/*баерак$
+      ^1/1<num>/1<num><subst><nom>$ ^б/*б$
+      ^1/1<num>/1<num><subst><nom>$ ^астероидының/*астероидының$
+      ^1/1<num>/1<num><subst><nom>$ ^астероиды/*астероиды$
+      ^1/1<num>/1<num><subst><nom>$ ^астероидта/*астероидта$
+      ^1/1<num>/1<num><subst><nom>$ ^астероидлар/*астероидлар$
+      ^1/1<num>/1<num><subst><nom>$ ^астероидка/*астероидка$
+      ^1/1<num>/1<num><subst><nom>$ ^арттырыбрак/*арттырыбрак$
+      ^1/1<num>/1<num><subst><nom>$ ^аризонадан/*аризонадан$
+      ^1/1<num>/1<num><subst><nom>$ ^аптыратырга/*аптыратырга$
+      ^1/1<num>/1<num><subst><nom>$ ^аптыратмаслар/*аптыратмаслар$
+      ^1/1<num>/1<num><subst><nom>$ ^антуан/*антуан$
+      ^1/1<num>/1<num><subst><nom>$ ^аннанмонна/*аннанмонна$
+      ^1/1<num>/1<num><subst><nom>$ ^аңлаешлырак/*аңлаешлырак$
+      ^1/1<num>/1<num><subst><nom>$ ^актара/*актара$^-/-<guio>$^актара/*актара$
+      ^1/1<num>/1<num><subst><nom>$ ^ай/ай<ij>/ай<n><attr>/ай<n><nom>/ай<n><nom>+и<cop><aor><p3><pl>/ай<n><nom>+и<cop><aor><p3><sg>$^-/-<guio>$^һай/*һай$
+      ^1/1<num>/1<num><subst><nom>$ ^азлап/*азлап$
+      ^1/1<num>/1<num><subst><nom>$ ^авырлашканнан/*авырлашканнан$^-/-<guio>$
+      ^1/1<num>/1<num><subst><nom>$ ^авырлаша/*авырлаша$
